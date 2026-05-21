@@ -16,7 +16,7 @@
 | 4. Create a public GitHub repository | Done |
 | 5. Open the repository in Cursor | Done |
 | 6. Create this README.md | Done |
-| 7. Commit and push to GitHub | Pending |
+| 7. Commit and push to GitHub | Done |
 
 ### Issues and solutions
 
