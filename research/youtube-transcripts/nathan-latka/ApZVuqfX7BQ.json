@@ -1,0 +1,3406 @@
+{
+  "video_id": "ApZVuqfX7BQ",
+  "title": "How He Built a 14M Yr SaaS in a Boring Niche",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 3.5,
+      "text": "Our monthly revenue, it's going to be"
+    },
+    {
+      "start": 1.8,
+      "duration": 3.4,
+      "text": "$1.2 million this month."
+    },
+    {
+      "start": 3.5,
+      "duration": 3.1,
+      "text": ">> You said you're doing 1.2 million a"
+    },
+    {
+      "start": 5.2,
+      "duration": 3.5,
+      "text": "month, right? So, you're doing about 14"
+    },
+    {
+      "start": 6.6,
+      "duration": 3.7,
+      "text": "million a year. When I hear BDC, I think"
+    },
+    {
+      "start": 8.7,
+      "duration": 3.4,
+      "text": "the publicly traded business development"
+    },
+    {
+      "start": 10.3,
+      "duration": 2.2,
+      "text": "corporations. What does BDC mean for"
+    },
+    {
+      "start": 12.1,
+      "duration": 2.4,
+      "text": "Voli?"
+    },
+    {
+      "start": 12.5,
+      "duration": 4.0,
+      "text": ">> In automotive speak, that means business"
+    },
+    {
+      "start": 14.5,
+      "duration": 3.6,
+      "text": "development center. Our software, if"
+    },
+    {
+      "start": 16.5,
+      "duration": 3.9,
+      "text": "you've ever submitted a lead for a"
+    },
+    {
+      "start": 18.1,
+      "duration": 3.7,
+      "text": "vehicle and gotten a call back or you're"
+    },
+    {
+      "start": 20.4,
+      "duration": 3.1,
+      "text": "due for service or you've got a [music]"
+    },
+    {
+      "start": 21.8,
+      "duration": 3.8,
+      "text": "recall, the dealership's called you,"
+    },
+    {
+      "start": 23.5,
+      "duration": 3.6,
+      "text": "that's what we do. Our software does it."
+    },
+    {
+      "start": 25.6,
+      "duration": 2.9,
+      "text": ">> And Scott, how much do you and your"
+    },
+    {
+      "start": 27.1,
+      "duration": 3.7,
+      "text": "other co-founders still own of the"
+    },
+    {
+      "start": 28.5,
+      "duration": 4.9,
+      "text": "business today? My family plus one of"
+    },
+    {
+      "start": 30.8,
+      "duration": 4.4,
+      "text": "our co-founders owns about 85%."
+    },
+    {
+      "start": 33.4,
+      "duration": 3.8,
+      "text": ">> Someone offered you 70 million all cash"
+    },
+    {
+      "start": 35.2,
+      "duration": 3.0,
+      "text": "today for 60% of the business. Do you"
+    },
+    {
+      "start": 37.2,
+      "duration": 2.9,
+      "text": "take the deal?"
+    },
+    {
+      "start": 38.2,
+      "duration": 3.5,
+      "text": ">> Hey folks, my guest today is Scott"
+    },
+    {
+      "start": 40.1,
+      "duration": 3.4,
+      "text": "Davis. He is the president and"
+    },
+    {
+      "start": 41.8,
+      "duration": 3.8,
+      "text": "co-founder of Voli, the leading"
+    },
+    {
+      "start": 43.5,
+      "duration": 4.0,
+      "text": "communication platform for automotive"
+    },
+    {
+      "start": 45.6,
+      "duration": 3.5,
+      "text": "BDC's. He's got over 20 years of"
+    },
+    {
+      "start": 47.5,
+      "duration": 4.2,
+      "text": "experience in automotive retail"
+    },
+    {
+      "start": 49.1,
+      "duration": 3.7,
+      "text": "operations and BDC strategy. Scott, you"
+    },
+    {
+      "start": 51.8,
+      "duration": 2.8,
+      "text": "ready to take us to the top?"
+    },
+    {
+      "start": 52.8,
+      "duration": 2.9,
+      "text": ">> Yes, sir. How you doing, Nathan?"
+    },
+    {
+      "start": 54.6,
+      "duration": 2.3,
+      "text": ">> I'm good. It's good to meet you. Okay."
+    },
+    {
+      "start": 55.7,
+      "duration": 2.6,
+      "text": "Now, is this like, you know, if people"
+    },
+    {
+      "start": 56.9,
+      "duration": 2.6,
+      "text": "are going on the road and they see cars"
+    },
+    {
+      "start": 58.3,
+      "duration": 2.3,
+      "text": "for sale on the side? It's a car"
+    },
+    {
+      "start": 59.4,
+      "duration": 2.2,
+      "text": "dealership. Are you installed in the"
+    },
+    {
+      "start": 60.6,
+      "duration": 2.4,
+      "text": "dealerships as well or just the"
+    },
+    {
+      "start": 61.7,
+      "duration": 3.2,
+      "text": "maintenance and repair shops?"
+    },
+    {
+      "start": 63.0,
+      "duration": 4.1,
+      "text": ">> We're we're franchise auto dealers is"
+    },
+    {
+      "start": 64.9,
+      "duration": 5.6,
+      "text": "who we work with. So, there are 18,000"
+    },
+    {
+      "start": 67.1,
+      "duration": 6.6,
+      "text": "in the US. We work with almost 2,000 and"
+    },
+    {
+      "start": 70.5,
+      "duration": 4.8,
+      "text": "uh and hopefully uh we'll keep growing."
+    },
+    {
+      "start": 73.7,
+      "duration": 4.3,
+      "text": ">> And Scott, that's 2,000 individual"
+    },
+    {
+      "start": 75.3,
+      "duration": 5.8,
+      "text": "locations or 2,000 logos, brands."
+    },
+    {
+      "start": 78.0,
+      "duration": 5.1,
+      "text": ">> Yeah. 2,000 individual rooftops almost"
+    },
+    {
+      "start": 81.0,
+      "duration": 4.0,
+      "text": ">> individual. Okay. You said 2,000"
+    },
+    {
+      "start": 83.1,
+      "duration": 3.2,
+      "text": "individual uh rooftops. Again, that's"
+    },
+    {
+      "start": 85.0,
+      "duration": 2.7,
+      "text": "just that's the maintenance shop, that's"
+    },
+    {
+      "start": 86.3,
+      "duration": 3.0,
+      "text": "the car dealership, that's the sales"
+    },
+    {
+      "start": 87.8,
+      "duration": 2.8,
+      "text": "center, whatever it is."
+    },
+    {
+      "start": 89.3,
+      "duration": 3.7,
+      "text": ">> Yes. Yeah."
+    },
+    {
+      "start": 90.6,
+      "duration": 4.1,
+      "text": ">> Okay. Okay. Very cool. Um Okay, take us"
+    },
+    {
+      "start": 93.0,
+      "duration": 3.1,
+      "text": "more sort of into the story here. So, we"
+    },
+    {
+      "start": 94.6,
+      "duration": 3.1,
+      "text": "have your uh product featured here on"
+    },
+    {
+      "start": 96.1,
+      "duration": 3.2,
+      "text": "our website. Walk me through I mean,"
+    },
+    {
+      "start": 97.8,
+      "duration": 3.0,
+      "text": "where can I find or where? Tell us about"
+    },
+    {
+      "start": 99.3,
+      "duration": 3.8,
+      "text": "your most popular product."
+    },
+    {
+      "start": 100.8,
+      "duration": 5.3,
+      "text": ">> So, um most of our customers use us for"
+    },
+    {
+      "start": 103.0,
+      "duration": 5.1,
+      "text": "their service BDC. Uh we replace their"
+    },
+    {
+      "start": 106.1,
+      "duration": 3.9,
+      "text": "desk phones or manual processes."
+    },
+    {
+      "start": 108.2,
+      "duration": 4.3,
+      "text": "Basically, we built an automotive data"
+    },
+    {
+      "start": 110.0,
+      "duration": 4.2,
+      "text": "matcher on top of a contact center"
+    },
+    {
+      "start": 112.5,
+      "duration": 4.6,
+      "text": "solution. What is very common for"
+    },
+    {
+      "start": 114.2,
+      "duration": 4.9,
+      "text": "dealers prior to Voli is to not have"
+    },
+    {
+      "start": 117.1,
+      "duration": 5.6,
+      "text": "software for this. They use desk phones."
+    },
+    {
+      "start": 119.1,
+      "duration": 5.5,
+      "text": "They printed off lists and uh and we,"
+    },
+    {
+      "start": 122.7,
+      "duration": 4.1,
+      "text": "you know, we put a system in place that"
+    },
+    {
+      "start": 124.6,
+      "duration": 2.9,
+      "text": "they could actually make money in their"
+    },
+    {
+      "start": 126.8,
+      "duration": 3.0,
+      "text": "BDC."
+    },
+    {
+      "start": 127.5,
+      "duration": 3.8,
+      "text": ">> Mhm. Okay. So, can you point to me"
+    },
+    {
+      "start": 129.8,
+      "duration": 3.1,
+      "text": "somewhere here on the screen? Is there"
+    },
+    {
+      "start": 131.3,
+      "duration": 2.6,
+      "text": "like is this a shot of that part of the"
+    },
+    {
+      "start": 132.9,
+      "duration": 3.1,
+      "text": "software product?"
+    },
+    {
+      "start": 133.8,
+      "duration": 4.9,
+      "text": ">> Yeah, that's the call call screen that"
+    },
+    {
+      "start": 136.0,
+      "duration": 5.0,
+      "text": "they're in. Um the agents go from record"
+    },
+    {
+      "start": 138.7,
+      "duration": 3.8,
+      "text": "to record. Uh there is no robo dialing"
+    },
+    {
+      "start": 141.0,
+      "duration": 4.6,
+      "text": "in volley. they just call, email, and"
+    },
+    {
+      "start": 142.6,
+      "duration": 5.4,
+      "text": "SMS. But um what we've done is we've"
+    },
+    {
+      "start": 145.6,
+      "duration": 5.7,
+      "text": "helped the dealer build a plan and they"
+    },
+    {
+      "start": 148.0,
+      "duration": 5.2,
+      "text": "go from uh action to action and you know"
+    },
+    {
+      "start": 151.3,
+      "duration": 3.4,
+      "text": "the dealer is 100% visibility into"
+    },
+    {
+      "start": 153.2,
+      "duration": 3.2,
+      "text": "what's happening."
+    },
+    {
+      "start": 154.6,
+      "duration": 3.2,
+      "text": ">> Are you selling them leads as well or is"
+    },
+    {
+      "start": 156.4,
+      "duration": 2.6,
+      "text": "it just to manage their current leads"
+    },
+    {
+      "start": 157.8,
+      "duration": 5.4,
+      "text": "that they generate?"
+    },
+    {
+      "start": 159.0,
+      "duration": 5.9,
+      "text": ">> Yeah, we're 100% sass software. Um we're"
+    },
+    {
+      "start": 163.2,
+      "duration": 3.9,
+      "text": "not we're not selling market fulfillment"
+    },
+    {
+      "start": 165.0,
+      "duration": 4.2,
+      "text": "or leads or anything like that. So we do"
+    },
+    {
+      "start": 167.1,
+      "duration": 6.2,
+      "text": "integrate with most of their data"
+    },
+    {
+      "start": 169.2,
+      "duration": 7.0,
+      "text": "sources. Uh we've loaded 5 billion human"
+    },
+    {
+      "start": 173.3,
+      "duration": 5.1,
+      "text": "beings into Voli and dduped them down to"
+    },
+    {
+      "start": 176.2,
+      "duration": 4.2,
+      "text": "about 244"
+    },
+    {
+      "start": 178.4,
+      "duration": 3.5,
+      "text": "million customers. So we just make it"
+    },
+    {
+      "start": 180.4,
+      "duration": 3.2,
+      "text": "easy for them to run their business."
+    },
+    {
+      "start": 181.9,
+      "duration": 3.0,
+      "text": ">> And and help me get an understanding if"
+    },
+    {
+      "start": 183.6,
+      "duration": 2.6,
+      "text": "I want to use all these software"
+    },
+    {
+      "start": 184.9,
+      "duration": 2.6,
+      "text": "products that you just gave us an"
+    },
+    {
+      "start": 186.2,
+      "duration": 2.6,
+      "text": "overview on. What's the average"
+    },
+    {
+      "start": 187.4,
+      "duration": 2.2,
+      "text": "dealership going to be paying you per"
+    },
+    {
+      "start": 188.7,
+      "duration": 3.6,
+      "text": "month or per year?"
+    },
+    {
+      "start": 189.7,
+      "duration": 5.6,
+      "text": ">> It depends. So a single dealership is"
+    },
+    {
+      "start": 192.3,
+      "duration": 4.6,
+      "text": "going to pay between $1,500 and $2,000 a"
+    },
+    {
+      "start": 195.3,
+      "duration": 3.2,
+      "text": "month. Most of our customers are dealer"
+    },
+    {
+      "start": 196.9,
+      "duration": 3.4,
+      "text": "groups. They use them at the enterprise"
+    },
+    {
+      "start": 198.5,
+      "duration": 4.9,
+      "text": "level and we do it by the size of the"
+    },
+    {
+      "start": 200.3,
+      "duration": 6.0,
+      "text": "store. So we have a a tensor group that"
+    },
+    {
+      "start": 203.4,
+      "duration": 5.7,
+      "text": "pays uh $6,000 a month. We've got a"
+    },
+    {
+      "start": 206.3,
+      "duration": 4.6,
+      "text": "tensor group that pays $13,000 a month."
+    },
+    {
+      "start": 209.0,
+      "duration": 3.4,
+      "text": ">> Okay. And when you say size of the"
+    },
+    {
+      "start": 210.9,
+      "duration": 3.0,
+      "text": "dealership based off what number of"
+    },
+    {
+      "start": 212.5,
+      "duration": 3.0,
+      "text": "cars, number of leads, what"
+    },
+    {
+      "start": 213.8,
+      "duration": 3.7,
+      "text": ">> uh based on their consumables. So"
+    },
+    {
+      "start": 215.5,
+      "duration": 4.5,
+      "text": "average number of repair orders a month,"
+    },
+    {
+      "start": 217.5,
+      "duration": 5.0,
+      "text": "average number of car sales they sell,"
+    },
+    {
+      "start": 220.0,
+      "duration": 4.6,
+      "text": "etc. Dealers don't like variable"
+    },
+    {
+      "start": 222.6,
+      "duration": 4.0,
+      "text": "pricing. So, we've got to kind of bucket"
+    },
+    {
+      "start": 224.6,
+      "duration": 3.2,
+      "text": "them and and uh take the good with the"
+    },
+    {
+      "start": 226.6,
+      "duration": 3.0,
+      "text": "bad with what we sell."
+    },
+    {
+      "start": 227.8,
+      "duration": 3.4,
+      "text": ">> I guess I'm not following that. So, 10"
+    },
+    {
+      "start": 229.5,
+      "duration": 3.6,
+      "text": "store group paying six grand a month for"
+    },
+    {
+      "start": 231.3,
+      "duration": 4.0,
+      "text": "car sales or average number of repairs"
+    },
+    {
+      "start": 233.1,
+      "duration": 3.8,
+      "text": "versus a 10 store group paying 20K per"
+    },
+    {
+      "start": 235.3,
+      "duration": 3.2,
+      "text": "month. That feels like variable pricing."
+    },
+    {
+      "start": 237.0,
+      "duration": 2.8,
+      "text": "They're paying more if they do more more"
+    },
+    {
+      "start": 238.5,
+      "duration": 3.4,
+      "text": "car sales and more repairs."
+    },
+    {
+      "start": 239.8,
+      "duration": 4.1,
+      "text": ">> Well, what I mean is is the size of"
+    },
+    {
+      "start": 241.9,
+      "duration": 4.6,
+      "text": "these dealerships is a lot different."
+    },
+    {
+      "start": 243.8,
+      "duration": 5.6,
+      "text": "You may may have a little rural uh VW"
+    },
+    {
+      "start": 246.6,
+      "duration": 5.5,
+      "text": "store that does 400 repair orders in a"
+    },
+    {
+      "start": 249.4,
+      "duration": 6.0,
+      "text": "month. You may have a one in in the city"
+    },
+    {
+      "start": 252.1,
+      "duration": 6.8,
+      "text": "that does 2,000. So when I say variable,"
+    },
+    {
+      "start": 255.4,
+      "duration": 6.2,
+      "text": "we charge the dealer based on how big"
+    },
+    {
+      "start": 258.9,
+      "duration": 4.4,
+      "text": "their dealership is. And we've used the"
+    },
+    {
+      "start": 261.7,
+      "duration": 5.0,
+      "text": "size of these dealerships to estimate"
+    },
+    {
+      "start": 263.3,
+      "duration": 5.3,
+      "text": "the consumables and and uh and what we"
+    },
+    {
+      "start": 266.6,
+      "duration": 3.4,
+      "text": "need to charge to make it a good deal"
+    },
+    {
+      "start": 268.6,
+      "duration": 3.1,
+      "text": "for them and for us to make the margins"
+    },
+    {
+      "start": 270.1,
+      "duration": 3.8,
+      "text": "we need to make."
+    },
+    {
+      "start": 271.7,
+      "duration": 3.8,
+      "text": ">> Okay. And of the 2,000 roofs, right,"
+    },
+    {
+      "start": 273.9,
+      "duration": 3.8,
+      "text": "that you're servicing, to use your your"
+    },
+    {
+      "start": 275.4,
+      "duration": 5.4,
+      "text": "language, how many store groups is that?"
+    },
+    {
+      "start": 277.7,
+      "duration": 3.7,
+      "text": "We have uh we send about 300 invoices a"
+    },
+    {
+      "start": 280.9,
+      "duration": 2.4,
+      "text": "month."
+    },
+    {
+      "start": 281.4,
+      "duration": 4.2,
+      "text": ">> Okay. Okay. So, pretty then the average"
+    },
+    {
+      "start": 283.3,
+      "duration": 2.8,
+      "text": "store group has about seven seven or"
+    },
+    {
+      "start": 285.5,
+      "duration": 2.2,
+      "text": "eight routes."
+    },
+    {
+      "start": 286.1,
+      "duration": 4.2,
+      "text": ">> Yeah. Yeah. That's a pretty good guess."
+    },
+    {
+      "start": 287.8,
+      "duration": 4.7,
+      "text": "A lot of our dealerships are enterprise"
+    },
+    {
+      "start": 290.3,
+      "duration": 5.0,
+      "text": "customers. They want to uh combine this"
+    },
+    {
+      "start": 292.5,
+      "duration": 3.2,
+      "text": "all in one view and uh they make it"
+    },
+    {
+      "start": 295.3,
+      "duration": 1.9,
+      "text": "easy."
+    },
+    {
+      "start": 295.7,
+      "duration": 3.9,
+      "text": ">> And you just gave an example of a store"
+    },
+    {
+      "start": 297.2,
+      "duration": 4.6,
+      "text": "group 10 paying 6K and another same size"
+    },
+    {
+      "start": 299.6,
+      "duration": 3.5,
+      "text": "paying 20K. If I tried to pin you into"
+    },
+    {
+      "start": 301.8,
+      "duration": 2.4,
+      "text": "an average, is it fair to say the"
+    },
+    {
+      "start": 303.1,
+      "duration": 2.6,
+      "text": "average store group will pay something"
+    },
+    {
+      "start": 304.2,
+      "duration": 3.1,
+      "text": "like, you know, 10 grand a month, 15"
+    },
+    {
+      "start": 305.7,
+      "duration": 5.8,
+      "text": "grand a month? I I think the average"
+    },
+    {
+      "start": 307.4,
+      "duration": 6.5,
+      "text": "rooftop for us uh pays about $1,000 a"
+    },
+    {
+      "start": 311.4,
+      "duration": 5.5,
+      "text": "month. Now, that is for our core"
+    },
+    {
+      "start": 313.8,
+      "duration": 4.6,
+      "text": "product. We've we have another um we"
+    },
+    {
+      "start": 317.0,
+      "duration": 4.3,
+      "text": "have another product. Have you ever"
+    },
+    {
+      "start": 318.5,
+      "duration": 4.3,
+      "text": "received on your phone a uh call those"
+    },
+    {
+      "start": 321.3,
+      "duration": 2.4,
+      "text": "labeled potential spam?"
+    },
+    {
+      "start": 322.8,
+      "duration": 4.6,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 323.7,
+      "duration": 8.2,
+      "text": ">> So, um dealers are it's epidemic for"
+    },
+    {
+      "start": 327.4,
+      "duration": 7.0,
+      "text": "dealers. Um a lot of customers uh will"
+    },
+    {
+      "start": 331.8,
+      "duration": 4.6,
+      "text": "flag their calls as potential spam. So,"
+    },
+    {
+      "start": 334.3,
+      "duration": 4.2,
+      "text": "we will uh we bundle that into Voli. We"
+    },
+    {
+      "start": 336.5,
+      "duration": 4.3,
+      "text": "also sell it separate. About half of our"
+    },
+    {
+      "start": 338.5,
+      "duration": 4.8,
+      "text": "customers just buy that from us and it's"
+    },
+    {
+      "start": 340.8,
+      "duration": 5.0,
+      "text": "a few hundred a month depending on okay"
+    },
+    {
+      "start": 343.3,
+      "duration": 5.3,
+      "text": "between just just say it's an average of"
+    },
+    {
+      "start": 345.8,
+      "duration": 3.2,
+      "text": "uh $300 to $400 a month for our average"
+    },
+    {
+      "start": 348.6,
+      "duration": 1.8,
+      "text": "customer."
+    },
+    {
+      "start": 349.0,
+      "duration": 2.9,
+      "text": ">> Okay. Well, Scott, because you have two"
+    },
+    {
+      "start": 350.4,
+      "duration": 2.8,
+      "text": "you have car dealerships and then you"
+    },
+    {
+      "start": 351.8,
+      "duration": 3.6,
+      "text": "have store groups and they're they're"
+    },
+    {
+      "start": 353.2,
+      "duration": 3.8,
+      "text": "different. 2,000 roofs and 300 store"
+    },
+    {
+      "start": 355.4,
+      "duration": 3.4,
+      "text": "groups. So, the price points sort of are"
+    },
+    {
+      "start": 357.0,
+      "duration": 3.4,
+      "text": "over, but but I guess to just sort of"
+    },
+    {
+      "start": 358.9,
+      "duration": 3.1,
+      "text": "make the math easy for my audience, if"
+    },
+    {
+      "start": 360.4,
+      "duration": 4.1,
+      "text": "the you said the average rooftop is"
+    },
+    {
+      "start": 362.0,
+      "duration": 3.5,
+      "text": "paying about a grand per month, right?"
+    },
+    {
+      "start": 364.5,
+      "duration": 2.9,
+      "text": ">> Yep. Yes."
+    },
+    {
+      "start": 365.5,
+      "duration": 4.3,
+      "text": ">> Okay. And I can I multiply that times"
+    },
+    {
+      "start": 367.4,
+      "duration": 3.6,
+      "text": "the 2,000 car dealerships sort of back"
+    },
+    {
+      "start": 369.8,
+      "duration": 4.2,
+      "text": "into your monthly revenue."
+    },
+    {
+      "start": 371.0,
+      "duration": 5.4,
+      "text": ">> Yeah. Our monthly revenue is about Well,"
+    },
+    {
+      "start": 374.1,
+      "duration": 3.5,
+      "text": "it's it's going to be $1.2 million this"
+    },
+    {
+      "start": 376.4,
+      "duration": 2.6,
+      "text": "month. So,"
+    },
+    {
+      "start": 377.6,
+      "duration": 1.8,
+      "text": ">> that's incredible. Congrat. How's that"
+    },
+    {
+      "start": 379.0,
+      "duration": 3.0,
+      "text": "feel?"
+    },
+    {
+      "start": 379.4,
+      "duration": 4.9,
+      "text": ">> Um, we bootstrapped it. I I love what we"
+    },
+    {
+      "start": 382.0,
+      "duration": 4.8,
+      "text": "do. I wish I didn't feel like I had to"
+    },
+    {
+      "start": 384.3,
+      "duration": 3.9,
+      "text": "learn every lesson the hard way, but uh"
+    },
+    {
+      "start": 386.8,
+      "duration": 3.4,
+      "text": "we're we're pretty proud of it. We need"
+    },
+    {
+      "start": 388.2,
+      "duration": 4.3,
+      "text": "to do a lot better, but it's going to be"
+    },
+    {
+      "start": 390.2,
+      "duration": 3.7,
+      "text": "a great year. It it's up to us to do a"
+    },
+    {
+      "start": 392.6,
+      "duration": 2.8,
+      "text": "good job."
+    },
+    {
+      "start": 393.9,
+      "duration": 2.4,
+      "text": ">> When did you launch the business? What"
+    },
+    {
+      "start": 395.4,
+      "duration": 5.4,
+      "text": "year?"
+    },
+    {
+      "start": 396.3,
+      "duration": 7.2,
+      "text": ">> 2017. Um we we put on four customers and"
+    },
+    {
+      "start": 400.7,
+      "duration": 5.1,
+      "text": "we ran with them, myself and a couple"
+    },
+    {
+      "start": 403.5,
+      "duration": 5.4,
+      "text": "technical co-founders. We ran with them"
+    },
+    {
+      "start": 405.8,
+      "duration": 6.0,
+      "text": "all through 2018 and uh practiced on"
+    },
+    {
+      "start": 409.0,
+      "duration": 5.5,
+      "text": "them. We started selling to vendors of"
+    },
+    {
+      "start": 411.8,
+      "duration": 5.2,
+      "text": "automotive dealers first uh just to"
+    },
+    {
+      "start": 414.5,
+      "duration": 6.3,
+      "text": "build out the product and we started"
+    },
+    {
+      "start": 417.0,
+      "duration": 6.6,
+      "text": "selling direct to dealer in uh late 2020"
+    },
+    {
+      "start": 420.8,
+      "duration": 5.8,
+      "text": "of course coming out of co so um put our"
+    },
+    {
+      "start": 423.6,
+      "duration": 5.1,
+      "text": "first dealer on in March 2021"
+    },
+    {
+      "start": 426.6,
+      "duration": 2.6,
+      "text": "and it's been fast and furious from"
+    },
+    {
+      "start": 428.7,
+      "duration": 2.0,
+      "text": "then."
+    },
+    {
+      "start": 429.2,
+      "duration": 2.7,
+      "text": ">> Do you remember your first million"
+    },
+    {
+      "start": 430.7,
+      "duration": 6.9,
+      "text": "dollar year?"
+    },
+    {
+      "start": 431.9,
+      "duration": 8.3,
+      "text": ">> Yes. Yep. It was uh um it was uh 2020,"
+    },
+    {
+      "start": 437.6,
+      "duration": 4.8,
+      "text": "so sure felt a lot easier at that point,"
+    },
+    {
+      "start": 440.2,
+      "duration": 3.8,
+      "text": "but uh um I wouldn't trade it."
+    },
+    {
+      "start": 442.4,
+      "duration": 2.8,
+      "text": ">> You were still at four customers there,"
+    },
+    {
+      "start": 444.0,
+      "duration": 6.2,
+      "text": "right? Or no?"
+    },
+    {
+      "start": 445.2,
+      "duration": 7.2,
+      "text": ">> Um by 2020, we had uh about uh 40"
+    },
+    {
+      "start": 450.2,
+      "duration": 3.0,
+      "text": "automotive vendors using it. So,"
+    },
+    {
+      "start": 452.4,
+      "duration": 4.2,
+      "text": ">> okay. 40"
+    },
+    {
+      "start": 453.1,
+      "duration": 5.0,
+      "text": ">> callers that that service dealers."
+    },
+    {
+      "start": 456.6,
+      "duration": 3.4,
+      "text": ">> Yeah. So, you were sort of in a pilot"
+    },
+    {
+      "start": 458.1,
+      "duration": 4.2,
+      "text": "phase with four customers from 2017 to"
+    },
+    {
+      "start": 460.0,
+      "duration": 4.2,
+      "text": "2019. and you really hit the gas in 2020"
+    },
+    {
+      "start": 462.3,
+      "duration": 3.6,
+      "text": "and went from zero to a million dollars"
+    },
+    {
+      "start": 464.2,
+      "duration": 3.6,
+      "text": "of revenue basically in like 18-ish"
+    },
+    {
+      "start": 465.9,
+      "duration": 3.0,
+      "text": "months across 40 customers. How did you"
+    },
+    {
+      "start": 467.8,
+      "duration": 1.7,
+      "text": "get those 40 customers? What was the"
+    },
+    {
+      "start": 469.0,
+      "duration": 4.4,
+      "text": "strategy?"
+    },
+    {
+      "start": 469.4,
+      "duration": 6.0,
+      "text": ">> I had a um just a nonsense part of the"
+    },
+    {
+      "start": 473.4,
+      "duration": 5.4,
+      "text": "story here, but I owned a bunch of pizza"
+    },
+    {
+      "start": 475.4,
+      "duration": 5.2,
+      "text": "places and uh I hired a marketing person"
+    },
+    {
+      "start": 478.7,
+      "duration": 3.4,
+      "text": "uh to run it for my stores and pretty"
+    },
+    {
+      "start": 480.6,
+      "duration": 3.9,
+      "text": "soon I'm doing all this database work"
+    },
+    {
+      "start": 482.2,
+      "duration": 4.2,
+      "text": "for this chain that we are franchising."
+    },
+    {
+      "start": 484.6,
+      "duration": 4.6,
+      "text": "And I started working with automotive"
+    },
+    {
+      "start": 486.4,
+      "duration": 5.0,
+      "text": "dealers in 2002"
+    },
+    {
+      "start": 489.1,
+      "duration": 5.7,
+      "text": "and uh it was a company called Driving"
+    },
+    {
+      "start": 491.4,
+      "duration": 5.2,
+      "text": "Loyalty. We sold it in 2015. I had a"
+    },
+    {
+      "start": 494.8,
+      "duration": 4.6,
+      "text": "pretty good network. So we didn't"
+    },
+    {
+      "start": 496.6,
+      "duration": 4.6,
+      "text": "actually add a sales manager till 2023."
+    },
+    {
+      "start": 499.4,
+      "duration": 2.8,
+      "text": ">> And so how big was the team in 2020 when"
+    },
+    {
+      "start": 501.2,
+      "duration": 4.9,
+      "text": "you hit a million revenue?"
+    },
+    {
+      "start": 502.2,
+      "duration": 6.9,
+      "text": ">> 2020 we had uh 10 full-time employees."
+    },
+    {
+      "start": 506.1,
+      "duration": 6.6,
+      "text": "In uh June of 2023,"
+    },
+    {
+      "start": 509.1,
+      "duration": 7.5,
+      "text": "we had 19 total employees, 15 full-time,"
+    },
+    {
+      "start": 512.7,
+      "duration": 4.6,
+      "text": "and now we have 63 employees, 58"
+    },
+    {
+      "start": 516.6,
+      "duration": 2.6,
+      "text": "full-time."
+    },
+    {
+      "start": 517.4,
+      "duration": 3.7,
+      "text": ">> Okay. Wow. Well, and if you're doing,"
+    },
+    {
+      "start": 519.3,
+      "duration": 3.1,
+      "text": "you said you're doing 1.2 million a"
+    },
+    {
+      "start": 521.0,
+      "duration": 4.1,
+      "text": "month, right? So, you're doing about 14"
+    },
+    {
+      "start": 522.4,
+      "duration": 4.0,
+      "text": "million a year divided by that 63. I"
+    },
+    {
+      "start": 525.1,
+      "duration": 3.6,
+      "text": "mean, you you that's really good. What"
+    },
+    {
+      "start": 526.4,
+      "duration": 3.9,
+      "text": "is that? That's 230,000 of revenue per"
+    },
+    {
+      "start": 528.7,
+      "duration": 3.6,
+      "text": "employee. That's pretty efficient. With"
+    },
+    {
+      "start": 530.3,
+      "duration": 3.4,
+      "text": "my old company, I always felt like I"
+    },
+    {
+      "start": 532.3,
+      "duration": 3.9,
+      "text": "could never make good decisions because"
+    },
+    {
+      "start": 533.7,
+      "duration": 4.9,
+      "text": "I was always adding the person for when"
+    },
+    {
+      "start": 536.2,
+      "duration": 4.4,
+      "text": "I got big. And so I had very strict"
+    },
+    {
+      "start": 538.6,
+      "duration": 3.8,
+      "text": "rules at the start since I wrote all the"
+    },
+    {
+      "start": 540.6,
+      "duration": 4.1,
+      "text": "checks. I didn't have some of the"
+    },
+    {
+      "start": 542.4,
+      "duration": 4.7,
+      "text": "pressures that other people have. And it"
+    },
+    {
+      "start": 544.7,
+      "duration": 5.8,
+      "text": "was painful. I'm getting buried somewhat"
+    },
+    {
+      "start": 547.1,
+      "duration": 5.6,
+      "text": "in admin, but u I'm very strict of how"
+    },
+    {
+      "start": 550.6,
+      "duration": 4.3,
+      "text": "we've added added workers. We need to"
+    },
+    {
+      "start": 552.7,
+      "duration": 3.8,
+      "text": "move faster now. It's honestly it's"
+    },
+    {
+      "start": 554.9,
+      "duration": 5.0,
+      "text": "harder to spend the cash we're sitting"
+    },
+    {
+      "start": 556.5,
+      "duration": 5.4,
+      "text": "on than um than you'd think because you"
+    },
+    {
+      "start": 559.9,
+      "duration": 3.5,
+      "text": "don't want you know it's it's a precious"
+    },
+    {
+      "start": 561.8,
+      "duration": 2.3,
+      "text": "commodity to have and you want to do it"
+    },
+    {
+      "start": 563.4,
+      "duration": 2.2,
+      "text": "efficiently."
+    },
+    {
+      "start": 564.2,
+      "duration": 3.0,
+      "text": ">> Well, tell me about your champagne"
+    },
+    {
+      "start": 565.7,
+      "duration": 2.7,
+      "text": "problems. How much cash are you sitting"
+    },
+    {
+      "start": 567.2,
+      "duration": 3.2,
+      "text": "on?"
+    },
+    {
+      "start": 568.4,
+      "duration": 5.9,
+      "text": ">> Um I I I don't know if I want to"
+    },
+    {
+      "start": 570.4,
+      "duration": 5.8,
+      "text": "publicize that, but uh um we we've we've"
+    },
+    {
+      "start": 574.3,
+      "duration": 3.8,
+      "text": "been very strict with our margins, our"
+    },
+    {
+      "start": 576.2,
+      "duration": 3.0,
+      "text": "retention. We need to step on the gas."
+    },
+    {
+      "start": 578.2,
+      "duration": 2.9,
+      "text": "We'll just say that."
+    },
+    {
+      "start": 579.1,
+      "duration": 3.4,
+      "text": ">> Fair fair enough. If you I won't push"
+    },
+    {
+      "start": 581.0,
+      "duration": 3.4,
+      "text": "you on the cash number. Can you share"
+    },
+    {
+      "start": 582.6,
+      "duration": 3.3,
+      "text": "though? Um, what's your profit margin on"
+    },
+    {
+      "start": 584.5,
+      "duration": 3.0,
+      "text": "average the past couple months?"
+    },
+    {
+      "start": 585.8,
+      "duration": 2.7,
+      "text": ">> About 16%."
+    },
+    {
+      "start": 587.4,
+      "duration": 2.6,
+      "text": ">> Okay, that's pretty good. So, yeah. So,"
+    },
+    {
+      "start": 588.6,
+      "duration": 2.7,
+      "text": "you as a capital allocator trying to"
+    },
+    {
+      "start": 590.0,
+      "duration": 2.7,
+      "text": "think about growth, how do you decide"
+    },
+    {
+      "start": 591.3,
+      "duration": 4.7,
+      "text": "what to do with that money? Because if"
+    },
+    {
+      "start": 592.7,
+      "duration": 5.2,
+      "text": "you're doing 1.4 top line, right? What"
+    },
+    {
+      "start": 596.0,
+      "duration": 3.0,
+      "text": "is that? That's $240,000 a month of"
+    },
+    {
+      "start": 597.9,
+      "duration": 2.1,
+      "text": "basically free cash flow. You got to"
+    },
+    {
+      "start": 599.0,
+      "duration": 4.1,
+      "text": "figure out how to reinvest."
+    },
+    {
+      "start": 600.0,
+      "duration": 5.4,
+      "text": ">> Yeah. Um, we we're trying to hire uh"
+    },
+    {
+      "start": 603.0,
+      "duration": 4.1,
+      "text": "we're trying to build out some products"
+    },
+    {
+      "start": 605.4,
+      "duration": 3.9,
+      "text": "and and we've done it all. I mean, like"
+    },
+    {
+      "start": 607.1,
+      "duration": 3.9,
+      "text": "I said, I these hard lessons we seem to"
+    },
+    {
+      "start": 609.4,
+      "duration": 3.9,
+      "text": "learn over and over and over. You know,"
+    },
+    {
+      "start": 611.0,
+      "duration": 4.1,
+      "text": "where do we spend it? We are rounding"
+    },
+    {
+      "start": 613.3,
+      "duration": 4.8,
+      "text": "out a few of the products. We're trying"
+    },
+    {
+      "start": 615.1,
+      "duration": 6.0,
+      "text": "to aggressively our sales team now has"
+    },
+    {
+      "start": 618.1,
+      "duration": 5.1,
+      "text": "12 people in it um as of Monday and we"
+    },
+    {
+      "start": 621.1,
+      "duration": 3.4,
+      "text": "could add to that. It's a good question."
+    },
+    {
+      "start": 623.2,
+      "duration": 2.8,
+      "text": ">> Tell me tell me more about your sales"
+    },
+    {
+      "start": 624.6,
+      "duration": 3.1,
+      "text": "team because this is a very niche sort"
+    },
+    {
+      "start": 626.0,
+      "duration": 3.4,
+      "text": "of sales like are these folks do they"
+    },
+    {
+      "start": 627.7,
+      "duration": 3.1,
+      "text": "carry a quota? What's their base plus"
+    },
+    {
+      "start": 629.4,
+      "duration": 3.8,
+      "text": "commission? How do you structure that?"
+    },
+    {
+      "start": 630.8,
+      "duration": 4.3,
+      "text": ">> So the uh the average salesperson so"
+    },
+    {
+      "start": 633.2,
+      "duration": 5.7,
+      "text": "seven of them are AEES. I've got a"
+    },
+    {
+      "start": 635.1,
+      "duration": 5.9,
+      "text": "manager and then four SDRs and uh they"
+    },
+    {
+      "start": 638.9,
+      "duration": 4.2,
+      "text": "have a their quota each month of for the"
+    },
+    {
+      "start": 641.0,
+      "duration": 4.2,
+      "text": "AES is $8,500"
+    },
+    {
+      "start": 643.0,
+      "duration": 4.5,
+      "text": ">> of new MR or new AR"
+    },
+    {
+      "start": 645.2,
+      "duration": 5.0,
+      "text": ">> in in monthly MR. So"
+    },
+    {
+      "start": 647.5,
+      "duration": 5.8,
+      "text": ">> okay so they have to add 8,500 of new MR"
+    },
+    {
+      "start": 650.2,
+      "duration": 3.8,
+      "text": "each month or about 100,000 of new AR"
+    },
+    {
+      "start": 653.4,
+      "duration": 4.2,
+      "text": "every month."
+    },
+    {
+      "start": 654.0,
+      "duration": 6.3,
+      "text": ">> That's our goal. Uh now no that 8,500"
+    },
+    {
+      "start": 657.5,
+      "duration": 7.0,
+      "text": "time 7 of the AES we've got a different"
+    },
+    {
+      "start": 660.3,
+      "duration": 6.8,
+      "text": "different plan for the SDRs. So 8,500 uh"
+    },
+    {
+      "start": 664.5,
+      "duration": 5.4,
+      "text": "for the for the AEES uh what is that"
+    },
+    {
+      "start": 667.1,
+      "duration": 5.3,
+      "text": "seven that's about 60 grand in MR."
+    },
+    {
+      "start": 669.8,
+      "duration": 5.9,
+      "text": "That's our goal for the month. We also"
+    },
+    {
+      "start": 672.4,
+      "duration": 5.4,
+      "text": "have uh a couple of allied partners who"
+    },
+    {
+      "start": 675.8,
+      "duration": 4.4,
+      "text": "we're hoping to get some revenue for as"
+    },
+    {
+      "start": 677.8,
+      "duration": 3.7,
+      "text": "well. We're trying to step on it."
+    },
+    {
+      "start": 680.2,
+      "duration": 2.8,
+      "text": ">> Is that fair? I mean is that a fair"
+    },
+    {
+      "start": 681.5,
+      "duration": 3.5,
+      "text": "statement then? Are you are you adding"
+    },
+    {
+      "start": 683.0,
+      "duration": 3.9,
+      "text": "about a h 100red,000 of new ARR per"
+    },
+    {
+      "start": 685.0,
+      "duration": 5.3,
+      "text": "month the past couple months?"
+    },
+    {
+      "start": 686.9,
+      "duration": 9.0,
+      "text": ">> No. Um no. a fair statement would we"
+    },
+    {
+      "start": 690.3,
+      "duration": 7.0,
+      "text": "added 66,000 in in MR in November and"
+    },
+    {
+      "start": 695.8,
+      "duration": 3.5,
+      "text": ">> but that's another that's about a mill"
+    },
+    {
+      "start": 697.3,
+      "duration": 3.2,
+      "text": "that's that's pushing like 800,000 of AR"
+    },
+    {
+      "start": 699.4,
+      "duration": 3.4,
+      "text": "though."
+    },
+    {
+      "start": 700.5,
+      "duration": 3.7,
+      "text": ">> Yeah, we we've got a good product. We've"
+    },
+    {
+      "start": 702.7,
+      "duration": 2.2,
+      "text": "we've just kind of pushed it up to the"
+    },
+    {
+      "start": 704.2,
+      "duration": 2.1,
+      "text": "starting line."
+    },
+    {
+      "start": 705.0,
+      "duration": 2.8,
+      "text": ">> Yeah, you're so humble. I feel like I"
+    },
+    {
+      "start": 706.2,
+      "duration": 3.1,
+      "text": "have to pull I have to make you brag"
+    },
+    {
+      "start": 707.8,
+      "duration": 3.6,
+      "text": "about yourself a little bit here."
+    },
+    {
+      "start": 709.4,
+      "duration": 3.7,
+      "text": ">> I love what we do. I don't take any of"
+    },
+    {
+      "start": 711.4,
+      "duration": 3.5,
+      "text": "it for granted. anyone out here"
+    },
+    {
+      "start": 713.0,
+      "duration": 4.6,
+      "text": "listening, you know, it's funny when"
+    },
+    {
+      "start": 714.9,
+      "duration": 5.5,
+      "text": "when we talk about this uh entrepreneurs"
+    },
+    {
+      "start": 717.7,
+      "duration": 4.5,
+      "text": "always daydream like the next pro the"
+    },
+    {
+      "start": 720.4,
+      "duration": 4.1,
+      "text": "next feature is going to save them and"
+    },
+    {
+      "start": 722.2,
+      "duration": 5.7,
+      "text": "everyone's going to flock to buy it. Uh"
+    },
+    {
+      "start": 724.5,
+      "duration": 5.0,
+      "text": "we are at the at the part now where we"
+    },
+    {
+      "start": 727.8,
+      "duration": 4.2,
+      "text": "need to go get the customers. This is a"
+    },
+    {
+      "start": 729.5,
+      "duration": 5.0,
+      "text": "selling function. We have uh we have a"
+    },
+    {
+      "start": 732.1,
+      "duration": 5.2,
+      "text": "product called pulse which we rolled out"
+    },
+    {
+      "start": 734.5,
+      "duration": 5.8,
+      "text": "which is is AI call intelligence. Uh"
+    },
+    {
+      "start": 737.3,
+      "duration": 6.0,
+      "text": "will rounded that out by NA. NATO is the"
+    },
+    {
+      "start": 740.2,
+      "duration": 5.0,
+      "text": "National Auto Dealers Convention uh in"
+    },
+    {
+      "start": 743.3,
+      "duration": 5.1,
+      "text": "early February. We'll have a very very"
+    },
+    {
+      "start": 745.2,
+      "duration": 7.3,
+      "text": "very strong offering there in in the"
+    },
+    {
+      "start": 748.4,
+      "duration": 5.8,
+      "text": "market. And uh it's time for us to to uh"
+    },
+    {
+      "start": 752.5,
+      "duration": 3.8,
+      "text": "not wait for something to happen. We got"
+    },
+    {
+      "start": 754.2,
+      "duration": 4.1,
+      "text": "to go and get it now. And and I mean,"
+    },
+    {
+      "start": 756.3,
+      "duration": 4.5,
+      "text": "you know, you do you do thousands of"
+    },
+    {
+      "start": 758.2,
+      "duration": 4.4,
+      "text": "these podcasts. Everyone thinks that"
+    },
+    {
+      "start": 760.8,
+      "duration": 3.2,
+      "text": "that they're clever than everyone else."
+    },
+    {
+      "start": 762.6,
+      "duration": 3.2,
+      "text": "We're at the stage where we need to get"
+    },
+    {
+      "start": 764.0,
+      "duration": 2.3,
+      "text": "off our vines and get this get this"
+    },
+    {
+      "start": 765.8,
+      "duration": 3.0,
+      "text": "going."
+    },
+    {
+      "start": 766.3,
+      "duration": 4.6,
+      "text": ">> Yeah. What I find is that the most"
+    },
+    {
+      "start": 768.8,
+      "duration": 4.6,
+      "text": "successful software companies, they all"
+    },
+    {
+      "start": 770.9,
+      "duration": 3.8,
+      "text": "use the same 33 growth tactics. Everyone"
+    },
+    {
+      "start": 773.4,
+      "duration": 3.1,
+      "text": "thinks they're doing something new and"
+    },
+    {
+      "start": 774.6,
+      "duration": 4.3,
+      "text": "different, but generally speaking, they"
+    },
+    {
+      "start": 776.6,
+      "duration": 4.2,
+      "text": "all grow using one of these 33 ways. And"
+    },
+    {
+      "start": 779.0,
+      "duration": 3.1,
+      "text": "I don't want to miss your unique genius"
+    },
+    {
+      "start": 780.7,
+      "duration": 3.5,
+      "text": "because it's not every day I talk to"
+    },
+    {
+      "start": 782.1,
+      "duration": 3.8,
+      "text": "someone that's making their AR and SDR"
+    },
+    {
+      "start": 784.2,
+      "duration": 3.4,
+      "text": "relationships work, right? But you're"
+    },
+    {
+      "start": 785.9,
+      "duration": 4.7,
+      "text": "doing accountbased marketing, right,"
+    },
+    {
+      "start": 787.6,
+      "duration": 6.3,
+      "text": "with your team of 13 or 14 folks. Uh the"
+    },
+    {
+      "start": 790.6,
+      "duration": 5.1,
+      "text": "seven AES have 8,500 of new MR per month"
+    },
+    {
+      "start": 793.9,
+      "duration": 4.2,
+      "text": "quota which means if that AE hits their"
+    },
+    {
+      "start": 795.8,
+      "duration": 6.1,
+      "text": "quota for the year they've helped add"
+    },
+    {
+      "start": 798.2,
+      "duration": 6.4,
+      "text": "100K of new MR or 1.2 million of AR."
+    },
+    {
+      "start": 801.8,
+      "duration": 4.3,
+      "text": "Scott, if I am one of those AES for you,"
+    },
+    {
+      "start": 804.6,
+      "duration": 3.0,
+      "text": "what is my base salary and what"
+    },
+    {
+      "start": 806.2,
+      "duration": 3.4,
+      "text": "commission am I making if I add a"
+    },
+    {
+      "start": 807.5,
+      "duration": 4.6,
+      "text": "million of revenue in a year?"
+    },
+    {
+      "start": 809.5,
+      "duration": 5.8,
+      "text": ">> Yeah, I mean I I think that um we've got"
+    },
+    {
+      "start": 812.2,
+      "duration": 5.5,
+      "text": "a a percent of revenue that we pay out"
+    },
+    {
+      "start": 815.3,
+      "duration": 6.6,
+      "text": "over the first four months and a bonus"
+    },
+    {
+      "start": 817.7,
+      "duration": 6.4,
+      "text": "system. um uh you should be able to make"
+    },
+    {
+      "start": 821.8,
+      "duration": 4.6,
+      "text": "about a buck 50 in commission and then"
+    },
+    {
+      "start": 824.1,
+      "duration": 4.2,
+      "text": "their base range is based on on what"
+    },
+    {
+      "start": 826.4,
+      "duration": 4.6,
+      "text": "their what you know what their"
+    },
+    {
+      "start": 828.3,
+      "duration": 4.7,
+      "text": "experience level is. So, um, someone we"
+    },
+    {
+      "start": 831.0,
+      "duration": 3.4,
+      "text": "promoted is a little lower. Um, and"
+    },
+    {
+      "start": 833.0,
+      "duration": 2.6,
+      "text": "then, you know, and then"
+    },
+    {
+      "start": 834.4,
+      "duration": 3.7,
+      "text": ">> what's the range there on base? Like"
+    },
+    {
+      "start": 835.7,
+      "duration": 5.6,
+      "text": "50,000 up to 100,000 maybe."
+    },
+    {
+      "start": 838.1,
+      "duration": 5.2,
+      "text": ">> Uh, 75 to 100."
+    },
+    {
+      "start": 841.3,
+      "duration": 3.4,
+      "text": ">> 75 to 100. Okay. So, just to repeat that"
+    },
+    {
+      "start": 843.3,
+      "duration": 2.9,
+      "text": "back to you, those AES, depending on"
+    },
+    {
+      "start": 844.7,
+      "duration": 4.1,
+      "text": "their seniority, they can make between"
+    },
+    {
+      "start": 846.2,
+      "duration": 4.1,
+      "text": "75K and 100K base per year. And if they"
+    },
+    {
+      "start": 848.8,
+      "duration": 3.2,
+      "text": "hit their quota target, which is about a"
+    },
+    {
+      "start": 850.2,
+      "duration": 4.0,
+      "text": "million of new AR per year, they can add"
+    },
+    {
+      "start": 852.0,
+      "duration": 4.6,
+      "text": "maybe another 150,000 of commission for"
+    },
+    {
+      "start": 854.2,
+      "duration": 3.6,
+      "text": "on target earnings of about 250K on a"
+    },
+    {
+      "start": 856.6,
+      "duration": 1.7,
+      "text": "million of new ARR."
+    },
+    {
+      "start": 857.8,
+      "duration": 2.0,
+      "text": ">> Yes."
+    },
+    {
+      "start": 858.3,
+      "duration": 3.4,
+      "text": ">> That's great. That's a 4 to1 ratio."
+    },
+    {
+      "start": 859.8,
+      "duration": 3.0,
+      "text": "That's a profitable sales rep. Uh did"
+    },
+    {
+      "start": 861.8,
+      "duration": 2.5,
+      "text": "you come from sales? You already knew"
+    },
+    {
+      "start": 862.9,
+      "duration": 2.5,
+      "text": "that or you figured it out the hard way."
+    },
+    {
+      "start": 864.2,
+      "duration": 4.0,
+      "text": "Trial and error."
+    },
+    {
+      "start": 865.4,
+      "duration": 5.6,
+      "text": ">> It's it's hard lessons. I mean uh trying"
+    },
+    {
+      "start": 868.2,
+      "duration": 5.3,
+      "text": "hard, working hard. Yeah. I mean, we've"
+    },
+    {
+      "start": 871.0,
+      "duration": 3.8,
+      "text": "we've we've read all the same books and"
+    },
+    {
+      "start": 873.5,
+      "duration": 2.9,
+      "text": "and uh"
+    },
+    {
+      "start": 874.8,
+      "duration": 2.7,
+      "text": ">> Scott, take a look at this chart any"
+    },
+    {
+      "start": 876.4,
+      "duration": 2.7,
+      "text": "here. So, I want to make sure I'm not"
+    },
+    {
+      "start": 877.5,
+      "duration": 2.8,
+      "text": "missing any other tactics you use that"
+    },
+    {
+      "start": 879.1,
+      "duration": 2.5,
+      "text": "maybe you took for granted, but you're"
+    },
+    {
+      "start": 880.3,
+      "duration": 3.5,
+      "text": "actually a genius at. You just told us"
+    },
+    {
+      "start": 881.6,
+      "duration": 4.4,
+      "text": "about your ABM strategy. Are you doing"
+    },
+    {
+      "start": 883.8,
+      "duration": 4.6,
+      "text": "anything like affiliates or selling"
+    },
+    {
+      "start": 886.0,
+      "duration": 4.4,
+      "text": "through value added resellers or doing"
+    },
+    {
+      "start": 888.5,
+      "duration": 2.8,
+      "text": "paid ads? Anything else on here that"
+    },
+    {
+      "start": 890.4,
+      "duration": 2.9,
+      "text": "you're using?"
+    },
+    {
+      "start": 891.3,
+      "duration": 5.6,
+      "text": ">> Yeah, so I had to put my reading glasses"
+    },
+    {
+      "start": 893.3,
+      "duration": 6.7,
+      "text": "on for this. Um, we we do a lot of"
+    },
+    {
+      "start": 896.9,
+      "duration": 5.4,
+      "text": "content. We've got uh we do at least a"
+    },
+    {
+      "start": 900.0,
+      "duration": 4.6,
+      "text": "customer video a week. We do a lot on"
+    },
+    {
+      "start": 902.3,
+      "duration": 5.1,
+      "text": "LinkedIn. One of the interesting things"
+    },
+    {
+      "start": 904.6,
+      "duration": 6.8,
+      "text": "about automotive and and I've had a hard"
+    },
+    {
+      "start": 907.4,
+      "duration": 7.0,
+      "text": "time getting marketers who who wanted to"
+    },
+    {
+      "start": 911.4,
+      "duration": 5.8,
+      "text": "actually be more than just a keyboard"
+    },
+    {
+      "start": 914.4,
+      "duration": 5.0,
+      "text": "cowboy. Um, one of the hard things about"
+    },
+    {
+      "start": 917.1,
+      "duration": 4.5,
+      "text": "about automotive is a stock pond."
+    },
+    {
+      "start": 919.4,
+      "duration": 5.7,
+      "text": "There's 18,000 franchise dealers in the"
+    },
+    {
+      "start": 921.6,
+      "duration": 5.9,
+      "text": "US and uh and then whatever in in Canada"
+    },
+    {
+      "start": 925.0,
+      "duration": 4.6,
+      "text": "and we just have a handful there. But we"
+    },
+    {
+      "start": 927.5,
+      "duration": 5.0,
+      "text": "know who they are. So, we're we're very"
+    },
+    {
+      "start": 929.7,
+      "duration": 7.0,
+      "text": "aggressive in uh in going and getting"
+    },
+    {
+      "start": 932.6,
+      "duration": 7.5,
+      "text": "them directly. We do we do have uh a"
+    },
+    {
+      "start": 936.7,
+      "duration": 5.1,
+      "text": "couple we have one reseller for that uh"
+    },
+    {
+      "start": 940.1,
+      "duration": 3.4,
+      "text": "that dealer identity product I"
+    },
+    {
+      "start": 941.8,
+      "duration": 3.6,
+      "text": "mentioned. I've got one more"
+    },
+    {
+      "start": 943.4,
+      "duration": 4.6,
+      "text": "relationship that I think will will be"
+    },
+    {
+      "start": 945.4,
+      "duration": 4.1,
+      "text": "quite a good channel this next year. So,"
+    },
+    {
+      "start": 948.1,
+      "duration": 4.3,
+      "text": "I mean that's our plan. Hopefully"
+    },
+    {
+      "start": 949.5,
+      "duration": 5.6,
+      "text": "hopefully we can add 50 to 60 internally"
+    },
+    {
+      "start": 952.4,
+      "duration": 5.4,
+      "text": "and we can add another 20 or 30 outside"
+    },
+    {
+      "start": 955.1,
+      "duration": 4.3,
+      "text": "of that and and it'll be a great year. A"
+    },
+    {
+      "start": 957.8,
+      "duration": 3.0,
+      "text": "and Scott, how much do you and your"
+    },
+    {
+      "start": 959.4,
+      "duration": 2.2,
+      "text": "other co-founders still own of the"
+    },
+    {
+      "start": 960.9,
+      "duration": 4.6,
+      "text": "business today?"
+    },
+    {
+      "start": 961.7,
+      "duration": 6.2,
+      "text": ">> So, this is an interesting deal. Um, uh,"
+    },
+    {
+      "start": 965.4,
+      "duration": 5.0,
+      "text": "it is I've got a lot of family family"
+    },
+    {
+      "start": 967.9,
+      "duration": 4.2,
+      "text": "members working here with me and it's"
+    },
+    {
+      "start": 970.5,
+      "duration": 4.2,
+      "text": "not always easier working for your kids,"
+    },
+    {
+      "start": 972.1,
+      "duration": 4.1,
+      "text": "but um, so I've done some estate."
+    },
+    {
+      "start": 974.6,
+      "duration": 2.2,
+      "text": ">> Your kids work for you or you work for"
+    },
+    {
+      "start": 976.2,
+      "duration": 3.4,
+      "text": "them?"
+    },
+    {
+      "start": 976.9,
+      "duration": 5.2,
+      "text": ">> Um, they work for me. Uh, but they're"
+    },
+    {
+      "start": 979.6,
+      "duration": 5.7,
+      "text": "pretty strong. A lot of them. Um my"
+    },
+    {
+      "start": 982.1,
+      "duration": 6.9,
+      "text": "family plus uh plus one of our"
+    },
+    {
+      "start": 985.3,
+      "duration": 6.2,
+      "text": "co-founders owns about 85%. And then our"
+    },
+    {
+      "start": 989.0,
+      "duration": 3.9,
+      "text": "other work employee pool, those type of"
+    },
+    {
+      "start": 991.4,
+      "duration": 4.2,
+      "text": "things own the rest."
+    },
+    {
+      "start": 992.9,
+      "duration": 4.8,
+      "text": ">> Okay. But no outside investors."
+    },
+    {
+      "start": 995.6,
+      "duration": 2.7,
+      "text": ">> Not yet. No. Um"
+    },
+    {
+      "start": 997.7,
+      "duration": 2.6,
+      "text": ">> interesting."
+    },
+    {
+      "start": 998.3,
+      "duration": 4.2,
+      "text": ">> And and really at this point I'm not"
+    },
+    {
+      "start": 1000.3,
+      "duration": 3.8,
+      "text": "opposed to it. I I actually don't mind"
+    },
+    {
+      "start": 1002.6,
+      "duration": 4.1,
+      "text": "the thought. It's been a long time since"
+    },
+    {
+      "start": 1004.1,
+      "duration": 4.2,
+      "text": "I've had a boss. Maybe maybe 30 years."
+    },
+    {
+      "start": 1006.6,
+      "duration": 4.6,
+      "text": "I'm not opposed to the pressure that it"
+    },
+    {
+      "start": 1008.2,
+      "duration": 5.3,
+      "text": "would take uh to have that, but it has"
+    },
+    {
+      "start": 1011.2,
+      "duration": 4.9,
+      "text": "to be a creative to the shareholders. It"
+    },
+    {
+      "start": 1013.5,
+      "duration": 5.1,
+      "text": "has to be a reason why we're going to"
+    },
+    {
+      "start": 1016.1,
+      "duration": 3.2,
+      "text": "move much faster at this point. So, all"
+    },
+    {
+      "start": 1018.6,
+      "duration": 2.4,
+      "text": "things"
+    },
+    {
+      "start": 1019.3,
+      "duration": 3.3,
+      "text": ">> I've got a Yeah, I've got a lot of"
+    },
+    {
+      "start": 1021.0,
+      "duration": 2.6,
+      "text": "growth equity folks that listen to the"
+    },
+    {
+      "start": 1022.6,
+      "duration": 2.6,
+      "text": "show, so they're going to want me to ask"
+    },
+    {
+      "start": 1023.7,
+      "duration": 2.5,
+      "text": "this question, think back into your"
+    },
+    {
+      "start": 1025.1,
+      "duration": 2.7,
+      "text": "growth rate. You said you broke a"
+    },
+    {
+      "start": 1026.2,
+      "duration": 3.4,
+      "text": "million of revenue in 2020. You're at"
+    },
+    {
+      "start": 1027.8,
+      "duration": 3.0,
+      "text": "about 14 million today. We missed the"
+    },
+    {
+      "start": 1029.6,
+      "duration": 2.4,
+      "text": "middle part of the journey, though. What"
+    },
+    {
+      "start": 1030.8,
+      "duration": 2.3,
+      "text": "year did you break five million of"
+    },
+    {
+      "start": 1032.0,
+      "duration": 3.4,
+      "text": "revenue? Do you remember?"
+    },
+    {
+      "start": 1033.1,
+      "duration": 6.7,
+      "text": ">> Yeah. 2023"
+    },
+    {
+      "start": 1035.4,
+      "duration": 10.6,
+      "text": "we did uh um so it was 1 to 2.4"
+    },
+    {
+      "start": 1039.8,
+      "duration": 10.3,
+      "text": "to uh to 4.8 to um 6.7"
+    },
+    {
+      "start": 1046.1,
+      "duration": 6.3,
+      "text": "to 9.6. Have I added the years right? Uh"
+    },
+    {
+      "start": 1050.2,
+      "duration": 7.5,
+      "text": ">> you got it. You got it. A million in"
+    },
+    {
+      "start": 1052.4,
+      "duration": 9.0,
+      "text": "2020. 2021 is 2.4. 2022 is 2.4. 2023 is"
+    },
+    {
+      "start": 1057.7,
+      "duration": 6.2,
+      "text": "6.7. Next year 24 is 9.6. This year 14"
+    },
+    {
+      "start": 1061.4,
+      "duration": 4.9,
+      "text": "million. healthy healthy growth rate."
+    },
+    {
+      "start": 1063.9,
+      "duration": 6.2,
+      "text": ">> So about about 50%. I think we're going"
+    },
+    {
+      "start": 1066.3,
+      "duration": 9.0,
+      "text": "to be 46% this year. So"
+    },
+    {
+      "start": 1070.2,
+      "duration": 6.8,
+      "text": ">> our our margins are are pretty good. Um"
+    },
+    {
+      "start": 1075.3,
+      "duration": 2.2,
+      "text": "I'd like them a couple points higher."
+    },
+    {
+      "start": 1077.0,
+      "duration": 2.5,
+      "text": "But"
+    },
+    {
+      "start": 1077.5,
+      "duration": 3.8,
+      "text": ">> Scott, this kind of vertical specific"
+    },
+    {
+      "start": 1079.4,
+      "duration": 3.5,
+      "text": "SAS, you know, before AI would be"
+    },
+    {
+      "start": 1081.3,
+      "duration": 4.3,
+      "text": "trading at somewhere between maybe maybe"
+    },
+    {
+      "start": 1083.0,
+      "duration": 4.4,
+      "text": "10 and 20x topline, you know, depending"
+    },
+    {
+      "start": 1085.6,
+      "duration": 4.1,
+      "text": "on the growth room you got with. Now the"
+    },
+    {
+      "start": 1087.4,
+      "duration": 3.9,
+      "text": "question is well wait vertical niche SAS"
+    },
+    {
+      "start": 1089.7,
+      "duration": 2.9,
+      "text": "is is good but we want to make sure"
+    },
+    {
+      "start": 1091.3,
+      "duration": 3.1,
+      "text": "they're not going to get replaced by AI"
+    },
+    {
+      "start": 1092.6,
+      "duration": 3.5,
+      "text": "and if so if if you have an AI play then"
+    },
+    {
+      "start": 1094.4,
+      "duration": 3.7,
+      "text": "you can still get that 15 20 sort of"
+    },
+    {
+      "start": 1096.1,
+      "duration": 4.1,
+      "text": "multiple. Do you have an AI angle today?"
+    },
+    {
+      "start": 1098.1,
+      "duration": 4.3,
+      "text": ">> Voli uh we just kind of lucked into this"
+    },
+    {
+      "start": 1100.2,
+      "duration": 4.4,
+      "text": "and we do we do have to answer that"
+    },
+    {
+      "start": 1102.4,
+      "duration": 4.5,
+      "text": "question every single demo we're on. Um"
+    },
+    {
+      "start": 1104.6,
+      "duration": 4.4,
+      "text": "we do have our own internal strategy for"
+    },
+    {
+      "start": 1106.9,
+      "duration": 5.0,
+      "text": "a digital service assistant. Of course"
+    },
+    {
+      "start": 1109.0,
+      "duration": 5.5,
+      "text": "Pulse is AI call intelligence which we"
+    },
+    {
+      "start": 1111.9,
+      "duration": 4.7,
+      "text": "already have in our platform. One of the"
+    },
+    {
+      "start": 1114.5,
+      "duration": 3.9,
+      "text": "things that we kind of lucked into was"
+    },
+    {
+      "start": 1116.6,
+      "duration": 4.4,
+      "text": "we just learned that we're the perfect"
+    },
+    {
+      "start": 1118.4,
+      "duration": 5.5,
+      "text": "layer for the dealer in between the"
+    },
+    {
+      "start": 1121.0,
+      "duration": 4.6,
+      "text": "robots and the humans. Um, you know,"
+    },
+    {
+      "start": 1123.9,
+      "duration": 3.9,
+      "text": "it's it's compared to what they were"
+    },
+    {
+      "start": 1125.6,
+      "duration": 5.8,
+      "text": "using before with blindly doing things"
+    },
+    {
+      "start": 1127.8,
+      "duration": 6.6,
+      "text": "with desk phones and transfers and or"
+    },
+    {
+      "start": 1131.4,
+      "duration": 5.5,
+      "text": "emails out of the blue, SMSs, etc. So,"
+    },
+    {
+      "start": 1134.4,
+      "duration": 4.3,
+      "text": ">> it's a part of our strategy. Um, our"
+    },
+    {
+      "start": 1136.9,
+      "duration": 4.3,
+      "text": "vision of the company is to become the"
+    },
+    {
+      "start": 1138.7,
+      "duration": 3.9,
+      "text": "platform for dealer communication and uh"
+    },
+    {
+      "start": 1141.2,
+      "duration": 3.7,
+      "text": "and that's what we're focused on"
+    },
+    {
+      "start": 1142.6,
+      "duration": 4.0,
+      "text": "entirely. AI is part of it. We're also"
+    },
+    {
+      "start": 1144.9,
+      "duration": 3.2,
+      "text": "going to plug in to everyone else."
+    },
+    {
+      "start": 1146.6,
+      "duration": 3.2,
+      "text": ">> Well, if you get really aggressive and"
+    },
+    {
+      "start": 1148.1,
+      "duration": 4.3,
+      "text": "you want to go buy other companies with"
+    },
+    {
+      "start": 1149.8,
+      "duration": 4.3,
+      "text": "your own cash flow plus maybe a partner,"
+    },
+    {
+      "start": 1152.4,
+      "duration": 3.8,
+      "text": "you know, I'm obviously running Founder"
+    },
+    {
+      "start": 1154.2,
+      "duration": 4.6,
+      "text": "Path, my fund. We fund these kinds of"
+    },
+    {
+      "start": 1156.2,
+      "duration": 4.2,
+      "text": "roll-ups all the time. Five, $10 million"
+    },
+    {
+      "start": 1158.7,
+      "duration": 4.2,
+      "text": "sort of debt checks where you keep all"
+    },
+    {
+      "start": 1160.4,
+      "duration": 4.2,
+      "text": "the equity. So, my self-serving pitch to"
+    },
+    {
+      "start": 1162.9,
+      "duration": 3.3,
+      "text": "you is if you I I've got about 10"
+    },
+    {
+      "start": 1164.6,
+      "duration": 3.4,
+      "text": "companies you should go buy that also"
+    },
+    {
+      "start": 1166.2,
+      "duration": 3.4,
+      "text": "sell into the same space but don't"
+    },
+    {
+      "start": 1168.0,
+      "duration": 3.3,
+      "text": "directly compete with your product."
+    },
+    {
+      "start": 1169.5,
+      "duration": 4.4,
+      "text": "Would you ever consider a rollup"
+    },
+    {
+      "start": 1171.3,
+      "duration": 4.5,
+      "text": "strategy like that? You know, I'm"
+    },
+    {
+      "start": 1173.9,
+      "duration": 2.6,
+      "text": "churning through a few of those thoughts"
+    },
+    {
+      "start": 1175.8,
+      "duration": 2.3,
+      "text": "right now."
+    },
+    {
+      "start": 1176.6,
+      "duration": 3.3,
+      "text": ">> Interesting. Interesting. Well, let's"
+    },
+    {
+      "start": 1178.1,
+      "duration": 2.9,
+      "text": "stay close. It's really incredible what"
+    },
+    {
+      "start": 1179.8,
+      "duration": 2.5,
+      "text": "you've built. Anything that you want to"
+    },
+    {
+      "start": 1181.0,
+      "duration": 2.7,
+      "text": "touch on that we haven't already touched"
+    },
+    {
+      "start": 1182.3,
+      "duration": 1.9,
+      "text": "on related to your entrepreneurial"
+    },
+    {
+      "start": 1183.7,
+      "duration": 2.8,
+      "text": "journey here?"
+    },
+    {
+      "start": 1184.2,
+      "duration": 6.5,
+      "text": ">> You know, I don't think so. I I'd like"
+    },
+    {
+      "start": 1186.5,
+      "duration": 6.6,
+      "text": "to not uh have you feel like I was"
+    },
+    {
+      "start": 1190.7,
+      "duration": 4.2,
+      "text": "humble or promotional. I I think it's"
+    },
+    {
+      "start": 1193.1,
+      "duration": 3.5,
+      "text": "all right in front of us. You know, I I"
+    },
+    {
+      "start": 1194.9,
+      "duration": 3.6,
+      "text": "guess the thing I'd like to touch on is"
+    },
+    {
+      "start": 1196.6,
+      "duration": 4.2,
+      "text": "I know that this needs to be monetized"
+    },
+    {
+      "start": 1198.5,
+      "duration": 4.7,
+      "text": "at some point. Um, I'm not the only"
+    },
+    {
+      "start": 1200.8,
+      "duration": 5.0,
+      "text": "shareholder. Uh, I've got to enrich the"
+    },
+    {
+      "start": 1203.2,
+      "duration": 5.8,
+      "text": "other people around around me. I think"
+    },
+    {
+      "start": 1205.8,
+      "duration": 5.1,
+      "text": "it's perverse to build a company to sell"
+    },
+    {
+      "start": 1209.0,
+      "duration": 5.1,
+      "text": "it. You need to build a company to"
+    },
+    {
+      "start": 1210.9,
+      "duration": 5.5,
+      "text": "provide good value. And then, you know,"
+    },
+    {
+      "start": 1214.2,
+      "duration": 3.9,
+      "text": "lo and behold, I've I've sold 16"
+    },
+    {
+      "start": 1216.4,
+      "duration": 4.1,
+      "text": "restaurants. I've sold two other"
+    },
+    {
+      "start": 1218.1,
+      "duration": 4.8,
+      "text": "software companies. Um, that's always"
+    },
+    {
+      "start": 1220.5,
+      "duration": 3.8,
+      "text": "been my focus. It'll continue to be. I'm"
+    },
+    {
+      "start": 1222.9,
+      "duration": 3.4,
+      "text": "going to try to run these like I'm going"
+    },
+    {
+      "start": 1224.3,
+      "duration": 3.4,
+      "text": "to own them forever. And I feel like"
+    },
+    {
+      "start": 1226.2,
+      "duration": 3.7,
+      "text": "that's the only way to do it. And I"
+    },
+    {
+      "start": 1227.8,
+      "duration": 3.8,
+      "text": "think if there's one model or message"
+    },
+    {
+      "start": 1229.9,
+      "duration": 4.7,
+      "text": "for everyone out there is that that's"
+    },
+    {
+      "start": 1231.6,
+      "duration": 4.6,
+      "text": "what's important is uh is you know you"
+    },
+    {
+      "start": 1234.6,
+      "duration": 3.2,
+      "text": "don't matter till you matter. You you"
+    },
+    {
+      "start": 1236.2,
+      "duration": 4.7,
+      "text": "know if you want to be valuable then you"
+    },
+    {
+      "start": 1237.8,
+      "duration": 4.6,
+      "text": "got to really provide value. And uh"
+    },
+    {
+      "start": 1240.9,
+      "duration": 4.3,
+      "text": "that's what kind of bothers me about"
+    },
+    {
+      "start": 1242.4,
+      "duration": 4.9,
+      "text": "this whole thing is I I think people"
+    },
+    {
+      "start": 1245.2,
+      "duration": 4.6,
+      "text": "look at you know the opposite view is"
+    },
+    {
+      "start": 1247.3,
+      "duration": 5.0,
+      "text": "I'm I've got the end in mind instead of"
+    },
+    {
+      "start": 1249.8,
+      "duration": 4.2,
+      "text": "really really being valuable. And that's"
+    },
+    {
+      "start": 1252.2,
+      "duration": 3.6,
+      "text": "that's I'm going to continue to focus on"
+    },
+    {
+      "start": 1254.0,
+      "duration": 3.4,
+      "text": "that. Well, you've built great value and"
+    },
+    {
+      "start": 1255.8,
+      "duration": 3.0,
+      "text": "if you do want to create liquidity for"
+    },
+    {
+      "start": 1257.4,
+      "duration": 3.0,
+      "text": "your shareholders, you want to think"
+    },
+    {
+      "start": 1258.8,
+      "duration": 3.0,
+      "text": "potentially about a growth equity round"
+    },
+    {
+      "start": 1260.3,
+      "duration": 3.0,
+      "text": "or something down the line. It's in your"
+    },
+    {
+      "start": 1261.8,
+      "duration": 2.6,
+      "text": "blood. You've sold pizza shops, it"
+    },
+    {
+      "start": 1263.3,
+      "duration": 2.6,
+      "text": "sounds like, or other things in the"
+    },
+    {
+      "start": 1264.3,
+      "duration": 3.4,
+      "text": "past. So, let me ask this question."
+    },
+    {
+      "start": 1265.9,
+      "duration": 3.8,
+      "text": "Someone offered you 70 million all cash"
+    },
+    {
+      "start": 1267.8,
+      "duration": 2.8,
+      "text": "today for 60% of the business. Do you"
+    },
+    {
+      "start": 1269.8,
+      "duration": 3.7,
+      "text": "take the deal?"
+    },
+    {
+      "start": 1270.6,
+      "duration": 4.8,
+      "text": ">> It depends on on the strategic partner."
+    },
+    {
+      "start": 1273.4,
+      "duration": 6.3,
+      "text": "I'm not opposed to it. Obviously, that"
+    },
+    {
+      "start": 1275.4,
+      "duration": 6.6,
+      "text": "would be uh that'd be good money for for"
+    },
+    {
+      "start": 1279.8,
+      "duration": 4.8,
+      "text": "our shareholders and I would I would"
+    },
+    {
+      "start": 1282.0,
+      "duration": 5.0,
+      "text": "have to thoughtfully consider that. Um"
+    },
+    {
+      "start": 1284.6,
+      "duration": 4.4,
+      "text": "it depends on who it is. I I I still"
+    },
+    {
+      "start": 1287.0,
+      "duration": 3.0,
+      "text": "want to work and I'm always going to"
+    },
+    {
+      "start": 1289.0,
+      "duration": 2.2,
+      "text": "work for sure."
+    },
+    {
+      "start": 1290.0,
+      "duration": 2.5,
+      "text": ">> How old are you, Scott, if you don't"
+    },
+    {
+      "start": 1291.1,
+      "duration": 6.0,
+      "text": "mind me asking?"
+    },
+    {
+      "start": 1292.5,
+      "duration": 6.0,
+      "text": ">> I'm 57 and I'm never put [laughter]"
+    },
+    {
+      "start": 1297.1,
+      "duration": 2.6,
+      "text": ">> Are you married?"
+    },
+    {
+      "start": 1298.5,
+      "duration": 2.6,
+      "text": ">> Yeah, married. My wife"
+    },
+    {
+      "start": 1299.8,
+      "duration": 2.5,
+      "text": ">> Your wife would kill your your spouse"
+    },
+    {
+      "start": 1301.0,
+      "duration": 2.3,
+      "text": "would kill you, right? if you if you"
+    },
+    {
+      "start": 1302.2,
+      "duration": 2.5,
+      "text": "retired and stayed home all day, she'd"
+    },
+    {
+      "start": 1303.4,
+      "duration": 4.6,
+      "text": "say, \"Please go get a job.\""
+    },
+    {
+      "start": 1304.7,
+      "duration": 5.7,
+      "text": ">> Yeah. She uh I've been married 34 years."
+    },
+    {
+      "start": 1307.9,
+      "duration": 3.9,
+      "text": "She she knows what she stuck with. And"
+    },
+    {
+      "start": 1310.4,
+      "duration": 3.3,
+      "text": "uh [laughter] yeah, I'm never going to"
+    },
+    {
+      "start": 1311.8,
+      "duration": 3.0,
+      "text": "quit working now. When I'm when this"
+    },
+    {
+      "start": 1313.7,
+      "duration": 3.1,
+      "text": "journey is done, I'm going to do"
+    },
+    {
+      "start": 1314.8,
+      "duration": 4.4,
+      "text": "something else. I'm I'm excited for the"
+    },
+    {
+      "start": 1316.8,
+      "duration": 5.0,
+      "text": "next chapter. But this is three to five"
+    },
+    {
+      "start": 1319.2,
+      "duration": 5.0,
+      "text": "more years for sure for me. Either as a"
+    },
+    {
+      "start": 1321.8,
+      "duration": 4.7,
+      "text": "minority owner. What's that?"
+    },
+    {
+      "start": 1324.2,
+      "duration": 5.7,
+      "text": ">> I was No, go ahead. As a minority owner,"
+    },
+    {
+      "start": 1326.6,
+      "duration": 4.9,
+      "text": ">> as as as going for the second bite or,"
+    },
+    {
+      "start": 1329.9,
+      "duration": 3.2,
+      "text": "you know, I'm I don't know. you know,"
+    },
+    {
+      "start": 1331.4,
+      "duration": 4.7,
+      "text": "I'm I'm really wrestling with a lot of"
+    },
+    {
+      "start": 1333.1,
+      "duration": 4.6,
+      "text": "those things right now. Um, mainly"
+    },
+    {
+      "start": 1336.2,
+      "duration": 3.8,
+      "text": "because I want to make sure that I'm"
+    },
+    {
+      "start": 1337.7,
+      "duration": 4.4,
+      "text": "doing the best for Voli, the best for my"
+    },
+    {
+      "start": 1340.0,
+      "duration": 5.4,
+      "text": "customers. So, this is an an interesting"
+    },
+    {
+      "start": 1342.1,
+      "duration": 3.8,
+      "text": "timed uh podcast. You I feel like I've"
+    },
+    {
+      "start": 1345.4,
+      "duration": 3.7,
+      "text": "just"
+    },
+    {
+      "start": 1345.9,
+      "duration": 4.6,
+      "text": ">> I've just done a ton of talking."
+    },
+    {
+      "start": 1349.0,
+      "duration": 2.9,
+      "text": ">> No, you've been great. You look, I think"
+    },
+    {
+      "start": 1350.6,
+      "duration": 2.7,
+      "text": "you have a lot of growth equity firms"
+    },
+    {
+      "start": 1351.9,
+      "duration": 2.7,
+      "text": "reach out after this a lot, listen to"
+    },
+    {
+      "start": 1353.3,
+      "duration": 2.6,
+      "text": "the show. They get great deals done from"
+    },
+    {
+      "start": 1354.6,
+      "duration": 2.5,
+      "text": "the show and you've built really"
+    },
+    {
+      "start": 1355.9,
+      "duration": 2.9,
+      "text": "something special here. So, thank you"
+    },
+    {
+      "start": 1357.1,
+      "duration": 3.1,
+      "text": "for sharing your story with us. As we"
+    },
+    {
+      "start": 1358.8,
+      "duration": 2.0,
+      "text": "wrap up here, where can people find you"
+    },
+    {
+      "start": 1360.2,
+      "duration": 3.0,
+      "text": "online?"
+    },
+    {
+      "start": 1360.8,
+      "duration": 4.5,
+      "text": ">> My email, scottvali.com. If you go to"
+    },
+    {
+      "start": 1363.2,
+      "duration": 5.2,
+      "text": "volley.com,"
+    },
+    {
+      "start": 1365.3,
+      "duration": 4.8,
+      "text": "um there's all sorts of forms and uh you"
+    },
+    {
+      "start": 1368.4,
+      "duration": 3.3,
+      "text": "know, we're we're not hard to catch."
+    },
+    {
+      "start": 1370.1,
+      "duration": 3.9,
+      "text": ">> Guys, there you have it. Voli launched"
+    },
+    {
+      "start": 1371.7,
+      "duration": 3.8,
+      "text": "back in 2017 with four customers. They"
+    },
+    {
+      "start": 1374.0,
+      "duration": 3.5,
+      "text": "treated those customers really well"
+    },
+    {
+      "start": 1375.5,
+      "duration": 4.8,
+      "text": "through 2019 before breaking their first"
+    },
+    {
+      "start": 1377.5,
+      "duration": 4.7,
+      "text": "million of revenue in 2020. They broke 6"
+    },
+    {
+      "start": 1380.3,
+      "duration": 4.4,
+      "text": "million of revenue in 2023. Today doing"
+    },
+    {
+      "start": 1382.2,
+      "duration": 5.0,
+      "text": "over 14 million of revenue. They've sold"
+    },
+    {
+      "start": 1384.7,
+      "duration": 5.1,
+      "text": "their software product to 300 different"
+    },
+    {
+      "start": 1387.2,
+      "duration": 5.1,
+      "text": "store groups. that spans over 2,000"
+    },
+    {
+      "start": 1389.8,
+      "duration": 4.6,
+      "text": "rooftops. Think car dealerships, car"
+    },
+    {
+      "start": 1392.3,
+      "duration": 4.2,
+      "text": "repair shops, things like that. Really"
+    },
+    {
+      "start": 1394.5,
+      "duration": 3.5,
+      "text": "incredible uh really incredible revenue"
+    },
+    {
+      "start": 1396.6,
+      "duration": 3.0,
+      "text": "metrics. They've been bootstrapped."
+    },
+    {
+      "start": 1398.0,
+      "duration": 4.6,
+      "text": "There's 12 on their sales team with"
+    },
+    {
+      "start": 1399.6,
+      "duration": 4.8,
+      "text": "healthy uh seven AES on the team with a"
+    },
+    {
+      "start": 1402.6,
+      "duration": 3.9,
+      "text": "healthy ratio in terms of their quota"
+    },
+    {
+      "start": 1404.4,
+      "duration": 3.9,
+      "text": "target to ontarget earnings. Um still"
+    },
+    {
+      "start": 1406.5,
+      "duration": 4.2,
+      "text": "own majority of the business as they've"
+    },
+    {
+      "start": 1408.3,
+      "duration": 4.6,
+      "text": "scaled. He still wants to do more. 57"
+    },
+    {
+      "start": 1410.6,
+      "duration": 4.9,
+      "text": "years old. It's a family business plus"
+    },
+    {
+      "start": 1412.9,
+      "duration": 4.1,
+      "text": "some plus a bunch of other friends. 63"
+    },
+    {
+      "start": 1415.5,
+      "duration": 3.4,
+      "text": "other friends as Scott continues to"
+    },
+    {
+      "start": 1417.0,
+      "duration": 3.7,
+      "text": "scale Volley. Check it out. Scott,"
+    },
+    {
+      "start": 1418.9,
+      "duration": 4.6,
+      "text": "thanks for taking us to the top. Thanks,"
+    },
+    {
+      "start": 1420.6,
+      "duration": 2.8,
+      "text": "Nathan."
+    }
+  ]
+}

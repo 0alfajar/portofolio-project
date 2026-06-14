@@ -1,0 +1,4791 @@
+{
+  "video_id": "4CjJnhmPy3o",
+  "title": "The 2025 SaaS Vibe Check - What Founders Need to Know Right Now",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 4.8,
+      "text": "and you guys know this it's just part of"
+    },
+    {
+      "start": 2.4,
+      "duration": 4.9,
+      "text": "the vibe check these older sales"
+    },
+    {
+      "start": 4.9,
+      "duration": 6.4,
+      "text": "playbooks marketing playbooks from 2020"
+    },
+    {
+      "start": 7.3,
+      "duration": 7.0,
+      "text": "21 2022 they're feeling mighty"
+    },
+    {
+      "start": 11.2,
+      "duration": 5.0,
+      "text": "creaky Mighty creaky I put these small"
+    },
+    {
+      "start": 14.3,
+      "duration": 3.2,
+      "text": "bullets at the bottom too many folks I"
+    },
+    {
+      "start": 16.2,
+      "duration": 4.7,
+      "text": "talk to that have been around for"
+    },
+    {
+      "start": 17.5,
+      "duration": 4.8,
+      "text": "they're just apathetic or jaded they are"
+    },
+    {
+      "start": 20.9,
+      "duration": 3.9,
+      "text": "I can't tell you how many interviews"
+    },
+    {
+      "start": 22.3,
+      "duration": 4.1,
+      "text": "I've done the last month or two where"
+    },
+    {
+      "start": 24.8,
+      "duration": 2.9,
+      "text": "folks bailed when they found out they"
+    },
+    {
+      "start": 26.4,
+      "duration": 2.4,
+      "text": "had to do the work themselves they"
+    },
+    {
+      "start": 27.7,
+      "duration": 3.2,
+      "text": "bailed when they found out they were"
+    },
+    {
+      "start": 28.8,
+      "duration": 4.1,
+      "text": "kpis they they bailed when they found"
+    },
+    {
+      "start": 31.0,
+      "duration": 4.2,
+      "text": "out they couldn't just the job couldn't"
+    },
+    {
+      "start": 33.0,
+      "duration": 3.8,
+      "text": "mostly be about them LinkedIn or making"
+    },
+    {
+      "start": 35.1,
+      "duration": 4.0,
+      "text": "videos about themselves people are"
+    },
+    {
+      "start": 36.8,
+      "duration": 4.0,
+      "text": "apathetic they're jaded things even"
+    },
+    {
+      "start": 39.1,
+      "duration": 3.0,
+      "text": "basic things you can look at what"
+    },
+    {
+      "start": 40.8,
+      "duration": 3.5,
+      "text": "HubSpot and others have talked about how"
+    },
+    {
+      "start": 42.2,
+      "duration": 4.8,
+      "text": "SEO is down because of Google's changes"
+    },
+    {
+      "start": 44.3,
+      "duration": 4.3,
+      "text": "in generative AI even tougher one of the"
+    },
+    {
+      "start": 47.0,
+      "duration": 4.0,
+      "text": "weirdest things of AI is categories that"
+    },
+    {
+      "start": 48.6,
+      "duration": 5.6,
+      "text": "used to be boring are now exciting"
+    },
+    {
+      "start": 51.0,
+      "duration": 6.4,
+      "text": "they're now exciting hello everybody"
+    },
+    {
+      "start": 54.2,
+      "duration": 5.2,
+      "text": "Welcome we're going to do an AMA mostly"
+    },
+    {
+      "start": 57.4,
+      "duration": 4.7,
+      "text": "today but since I had everybody I wanted"
+    },
+    {
+      "start": 59.4,
+      "duration": 5.0,
+      "text": "to take Comm minute and do a 2025 Vibe"
+    },
+    {
+      "start": 62.1,
+      "duration": 5.5,
+      "text": "check A vibe check and I don't know"
+    },
+    {
+      "start": 64.4,
+      "duration": 6.0,
+      "text": "where folks are based if you're in San"
+    },
+    {
+      "start": 67.6,
+      "duration": 5.2,
+      "text": "Francisco and you're intact and you're"
+    },
+    {
+      "start": 70.4,
+      "duration": 4.1,
+      "text": "even at the edge of AI you probably feel"
+    },
+    {
+      "start": 72.8,
+      "duration": 4.0,
+      "text": "that things are sometimes they're just"
+    },
+    {
+      "start": 74.6,
+      "duration": 4.4,
+      "text": "crazy Founders are everywhere why"
+    },
+    {
+      "start": 76.8,
+      "duration": 4.5,
+      "text": "combinator has four batches a year"
+    },
+    {
+      "start": 79.0,
+      "duration": 4.8,
+      "text": "there's AI events left and right things"
+    },
+    {
+      "start": 81.3,
+      "duration": 4.1,
+      "text": "feel Fast and Furious outside of that"
+    },
+    {
+      "start": 83.8,
+      "duration": 3.8,
+      "text": "ecosystem it can seem strange what's"
+    },
+    {
+      "start": 85.4,
+      "duration": 4.1,
+      "text": "going on and many folks are still"
+    },
+    {
+      "start": 87.6,
+      "duration": 3.5,
+      "text": "struggling today after a few tough years"
+    },
+    {
+      "start": 89.5,
+      "duration": 3.1,
+      "text": "I thought I wanted to spend maybe 10 or"
+    },
+    {
+      "start": 91.0,
+      "duration": 3.0,
+      "text": "15 minutes doing a Vibe check which we"
+    },
+    {
+      "start": 92.6,
+      "duration": 4.8,
+      "text": "can chat about and then we can chat"
+    },
+    {
+      "start": 94.0,
+      "duration": 5.7,
+      "text": "about other things as as well so let's"
+    },
+    {
+      "start": 97.4,
+      "duration": 5.2,
+      "text": "start with the vibe check and hopefully"
+    },
+    {
+      "start": 99.7,
+      "duration": 4.3,
+      "text": "this will be helpful again but maybe the"
+    },
+    {
+      "start": 102.6,
+      "duration": 3.0,
+      "text": "thing that and mostly I'm going to use"
+    },
+    {
+      "start": 104.0,
+      "duration": 3.7,
+      "text": "this to challenge some of the things I"
+    },
+    {
+      "start": 105.6,
+      "duration": 4.8,
+      "text": "see from both Debbie Downer people on"
+    },
+    {
+      "start": 107.7,
+      "duration": 4.4,
+      "text": "LinkedIn content producers course"
+    },
+    {
+      "start": 110.4,
+      "duration": 3.1,
+      "text": "sellers they're just saying a lot of"
+    },
+    {
+      "start": 112.0,
+      "duration": 3.3,
+      "text": "things that are not really actually"
+    },
+    {
+      "start": 113.5,
+      "duration": 5.1,
+      "text": "consistent in my experience which what's"
+    },
+    {
+      "start": 115.4,
+      "duration": 5.0,
+      "text": "happening in Cloud Ai and Sass today so"
+    },
+    {
+      "start": 118.6,
+      "duration": 4.1,
+      "text": "maybe the weirdest thing and I think"
+    },
+    {
+      "start": 120.3,
+      "duration": 4.3,
+      "text": "these charts from ey and I put them up"
+    },
+    {
+      "start": 122.7,
+      "duration": 5.9,
+      "text": "on SAS a couple weeks so you can search"
+    },
+    {
+      "start": 124.6,
+      "duration": 6.2,
+      "text": "on 2025 VC and you'll see a write up of"
+    },
+    {
+      "start": 128.6,
+      "duration": 3.8,
+      "text": "this this is the weird thing this is the"
+    },
+    {
+      "start": 130.8,
+      "duration": 3.0,
+      "text": "weird thing and it's going to explain a"
+    },
+    {
+      "start": 132.4,
+      "duration": 2.4,
+      "text": "lot of things these two charts I know"
+    },
+    {
+      "start": 133.8,
+      "duration": 4.3,
+      "text": "they're a little bit hard to see but"
+    },
+    {
+      "start": 134.8,
+      "duration": 5.6,
+      "text": "I'll explain them if you are connected"
+    },
+    {
+      "start": 138.1,
+      "duration": 5.1,
+      "text": "to Tech if you are in Venture Capital if"
+    },
+    {
+      "start": 140.4,
+      "duration": 5.1,
+      "text": "you are in the Bay Area or other things"
+    },
+    {
+      "start": 143.2,
+      "duration": 5.4,
+      "text": "it's like 20121 but totally different"
+    },
+    {
+      "start": 145.5,
+      "duration": 5.8,
+      "text": "but a lot like it there is Mania back I"
+    },
+    {
+      "start": 148.5,
+      "duration": 4.8,
+      "text": "can tell you at s fund I've got two two"
+    },
+    {
+      "start": 151.4,
+      "duration": 4.7,
+      "text": "super hot startups that are coming up on"
+    },
+    {
+      "start": 153.3,
+      "duration": 3.8,
+      "text": "unicorns and a bunch of VCS emailed me"
+    },
+    {
+      "start": 156.1,
+      "duration": 2.1,
+      "text": "they're like I don't even know if I want"
+    },
+    {
+      "start": 157.1,
+      "duration": 2.4,
+      "text": "to meet with them because I don't want"
+    },
+    {
+      "start": 158.2,
+      "duration": 3.1,
+      "text": "to have to make a decision in five"
+    },
+    {
+      "start": 159.5,
+      "duration": 3.3,
+      "text": "minutes on a huge investment I actually"
+    },
+    {
+      "start": 161.3,
+      "duration": 3.1,
+      "text": "want to do five minutes of diligence I"
+    },
+    {
+      "start": 162.8,
+      "duration": 4.0,
+      "text": "want to talk to a customer I want to"
+    },
+    {
+      "start": 164.4,
+      "duration": 4.3,
+      "text": "actually meet the rest of the team and"
+    },
+    {
+      "start": 166.8,
+      "duration": 5.4,
+      "text": "that's what the vibe felt like at at the"
+    },
+    {
+      "start": 168.7,
+      "duration": 5.9,
+      "text": "Peak at late 2020 early 2021 literally"
+    },
+    {
+      "start": 172.2,
+      "duration": 3.8,
+      "text": "VCS would email me they're like oh I'll"
+    },
+    {
+      "start": 174.6,
+      "duration": 3.9,
+      "text": "just invest and do the diligence after"
+    },
+    {
+      "start": 176.0,
+      "duration": 4.7,
+      "text": "the term sheet because it seemed like in"
+    },
+    {
+      "start": 178.5,
+      "duration": 3.7,
+      "text": "2021 when they average public this"
+    },
+    {
+      "start": 180.7,
+      "duration": 3.8,
+      "text": "sounds crazy today but the average"
+    },
+    {
+      "start": 182.2,
+      "duration": 5.8,
+      "text": "public SAS company was growing over 70%"
+    },
+    {
+      "start": 184.6,
+      "duration": 5.7,
+      "text": "in 2021 it was such crazy pandemic fueld"
+    },
+    {
+      "start": 188.0,
+      "duration": 3.9,
+      "text": "buying that honestly you could almost"
+    },
+    {
+      "start": 190.2,
+      "duration": 3.2,
+      "text": "make money in Venture just invest on"
+    },
+    {
+      "start": 191.9,
+      "duration": 3.0,
+      "text": "anything with good growth you it felt"
+    },
+    {
+      "start": 193.4,
+      "duration": 3.2,
+      "text": "like you didn't have to meet the people"
+    },
+    {
+      "start": 195.0,
+      "duration": 4.1,
+      "text": "and that has come back to an extent it"
+    },
+    {
+      "start": 196.6,
+      "duration": 5.4,
+      "text": "has come back to the extent because for"
+    },
+    {
+      "start": 199.1,
+      "duration": 4.7,
+      "text": "the best AI fueled companies the"
+    },
+    {
+      "start": 202.0,
+      "duration": 3.1,
+      "text": "growth's just insane again and so people"
+    },
+    {
+      "start": 203.8,
+      "duration": 3.6,
+      "text": "will take more and more risks so it"
+    },
+    {
+      "start": 205.1,
+      "duration": 4.7,
+      "text": "feels like it but this these two charts"
+    },
+    {
+      "start": 207.4,
+      "duration": 4.5,
+      "text": "show where the froth really is because"
+    },
+    {
+      "start": 209.8,
+      "duration": 4.6,
+      "text": "froth was more evenly distributed in"
+    },
+    {
+      "start": 211.9,
+      "duration": 6.8,
+      "text": "2021 if you were growing at top five or"
+    },
+    {
+      "start": 214.4,
+      "duration": 6.5,
+      "text": "10% rates seed a b CDE e were easy even"
+    },
+    {
+      "start": 218.8,
+      "duration": 4.3,
+      "text": "SAS was easy but even pseudo SAS real"
+    },
+    {
+      "start": 220.8,
+      "duration": 3.6,
+      "text": "estate agents pretending they were SAS"
+    },
+    {
+      "start": 223.1,
+      "duration": 2.7,
+      "text": "communities that were pretending they"
+    },
+    {
+      "start": 224.4,
+      "duration": 3.5,
+      "text": "were SAS things that weren't even"
+    },
+    {
+      "start": 225.8,
+      "duration": 3.3,
+      "text": "recurring Revenue that felt like SAS"
+    },
+    {
+      "start": 227.9,
+      "duration": 2.8,
+      "text": "people wanted to invest in everything"
+    },
+    {
+      "start": 229.1,
+      "duration": 3.3,
+      "text": "today it's very narrow and there's two"
+    },
+    {
+      "start": 230.7,
+      "duration": 3.8,
+      "text": "things happening if you look on the"
+    },
+    {
+      "start": 232.4,
+      "duration": 6.3,
+      "text": "bottom right here you'll see that the"
+    },
+    {
+      "start": 234.5,
+      "duration": 7.1,
+      "text": "majority of investing 44% in 2024"
+    },
+    {
+      "start": 238.8,
+      "duration": 5.1,
+      "text": "already the majority in 2 is into Ai and"
+    },
+    {
+      "start": 241.6,
+      "duration": 5.5,
+      "text": "AI native Investments every VC you talk"
+    },
+    {
+      "start": 243.9,
+      "duration": 4.7,
+      "text": "to wants to be AI you can AI wash your"
+    },
+    {
+      "start": 247.1,
+      "duration": 4.4,
+      "text": "app and pretend it is but you really"
+    },
+    {
+      "start": 248.6,
+      "duration": 5.5,
+      "text": "need to be either have a true generative"
+    },
+    {
+      "start": 251.5,
+      "duration": 4.4,
+      "text": "AI for solution or have something that's"
+    },
+    {
+      "start": 254.0,
+      "duration": 4.0,
+      "text": "very related to the parts of AI"
+    },
+    {
+      "start": 255.9,
+      "duration": 4.5,
+      "text": "infrastructure that are scaling like bad"
+    },
+    {
+      "start": 258.0,
+      "duration": 4.0,
+      "text": "right just because you add a little ml"
+    },
+    {
+      "start": 260.4,
+      "duration": 3.1,
+      "text": "or add a little chat widget if it"
+    },
+    {
+      "start": 262.0,
+      "duration": 2.9,
+      "text": "doesn't change the trajectory of your"
+    },
+    {
+      "start": 263.5,
+      "duration": 3.1,
+      "text": "company I don't think VCS are that"
+    },
+    {
+      "start": 264.9,
+      "duration": 3.2,
+      "text": "stupid they may be taking a lot of risk"
+    },
+    {
+      "start": 266.6,
+      "duration": 3.8,
+      "text": "but they're not stupid so realize the"
+    },
+    {
+      "start": 268.0,
+      "duration": 5.4,
+      "text": "majority of the the VC's going into so"
+    },
+    {
+      "start": 270.4,
+      "duration": 5.0,
+      "text": "if you're not in either AI SAS or"
+    },
+    {
+      "start": 273.5,
+      "duration": 4.6,
+      "text": "certain parts of vertical SAS it's"
+    },
+    {
+      "start": 275.4,
+      "duration": 4.4,
+      "text": "harder to fundraise than it has been in"
+    },
+    {
+      "start": 278.0,
+      "duration": 4.6,
+      "text": "years look take that chart at the bottom"
+    },
+    {
+      "start": 279.8,
+      "duration": 4.8,
+      "text": "right your odds if you're non AI in SAS"
+    },
+    {
+      "start": 282.6,
+      "duration": 4.4,
+      "text": "of getting funded are going down they're"
+    },
+    {
+      "start": 284.7,
+      "duration": 3.8,
+      "text": "going down so be thoughtful about that"
+    },
+    {
+      "start": 287.1,
+      "duration": 4.4,
+      "text": "the other thing that's happening on this"
+    },
+    {
+      "start": 288.5,
+      "duration": 4.6,
+      "text": "upper in this top chart and this is"
+    },
+    {
+      "start": 291.4,
+      "duration": 3.6,
+      "text": "obvious from the media but but this"
+    },
+    {
+      "start": 293.1,
+      "duration": 3.2,
+      "text": "chart really shows it is that yeah"
+    },
+    {
+      "start": 295.1,
+      "duration": 2.4,
+      "text": "there's massive amounts of money and"
+    },
+    {
+      "start": 296.3,
+      "duration": 3.6,
+      "text": "Venture but it's going into these epic"
+    },
+    {
+      "start": 297.5,
+      "duration": 6.0,
+      "text": "growth rounds it's going into anthropic"
+    },
+    {
+      "start": 299.9,
+      "duration": 6.5,
+      "text": "and and open Ai and level 11 and all of"
+    },
+    {
+      "start": 303.5,
+      "duration": 4.7,
+      "text": "these cool things and Harvey today Cisco"
+    },
+    {
+      "start": 306.4,
+      "duration": 4.7,
+      "text": "seoa putting 300 million into Harvey for"
+    },
+    {
+      "start": 308.2,
+      "duration": 4.6,
+      "text": "legal Harvey a that's 300 million it's"
+    },
+    {
+      "start": 311.0,
+      "duration": 3.4,
+      "text": "these growth rounds that are absorbing"
+    },
+    {
+      "start": 312.8,
+      "duration": 3.9,
+      "text": "massive amounts of capital especially"
+    },
+    {
+      "start": 314.5,
+      "duration": 4.6,
+      "text": "because in some cases like a data bricks"
+    },
+    {
+      "start": 316.7,
+      "duration": 5.2,
+      "text": "open a others the valuations are 50 60"
+    },
+    {
+      "start": 319.1,
+      "duration": 5.3,
+      "text": "100 300 billion so they can absorb"
+    },
+    {
+      "start": 321.8,
+      "duration": 4.2,
+      "text": "massive amounts of capital so all this"
+    },
+    {
+      "start": 324.4,
+      "duration": 3.8,
+      "text": "and what you can see on this chart on"
+    },
+    {
+      "start": 326.1,
+      "duration": 3.8,
+      "text": "the top chart is the low line is the"
+    },
+    {
+      "start": 328.2,
+      "duration": 3.8,
+      "text": "number of deals and the number of deals"
+    },
+    {
+      "start": 329.8,
+      "duration": 4.5,
+      "text": "actually continued to fall at the end of"
+    },
+    {
+      "start": 332.1,
+      "duration": 4.1,
+      "text": "last year even as the amount of money"
+    },
+    {
+      "start": 334.3,
+      "duration": 4.7,
+      "text": "went in went way up okay it went almost"
+    },
+    {
+      "start": 336.2,
+      "duration": 5.1,
+      "text": "back up to 20 2022 2021 levels at the"
+    },
+    {
+      "start": 339.0,
+      "duration": 4.0,
+      "text": "end of the year so the money is back but"
+    },
+    {
+      "start": 341.3,
+      "duration": 3.8,
+      "text": "instead of going into tons of deals it's"
+    },
+    {
+      "start": 343.1,
+      "duration": 5.2,
+      "text": "going into Ai and growth later stage"
+    },
+    {
+      "start": 345.1,
+      "duration": 4.4,
+      "text": "step so realize where you are if you do"
+    },
+    {
+      "start": 348.3,
+      "duration": 3.4,
+      "text": "listen I don't think most people should"
+    },
+    {
+      "start": 349.5,
+      "duration": 4.3,
+      "text": "fundraise this is not all about VC VC is"
+    },
+    {
+      "start": 351.7,
+      "duration": 3.7,
+      "text": "not the right choice for most people I"
+    },
+    {
+      "start": 353.8,
+      "duration": 3.8,
+      "text": "firmly believe that even if you do raise"
+    },
+    {
+      "start": 355.4,
+      "duration": 3.5,
+      "text": "VC for most folks a oneand done is the"
+    },
+    {
+      "start": 357.6,
+      "duration": 3.0,
+      "text": "best approach raise a little bit of seed"
+    },
+    {
+      "start": 358.9,
+      "duration": 3.3,
+      "text": "money and then call a day don't take the"
+    },
+    {
+      "start": 360.6,
+      "duration": 2.8,
+      "text": "stress and pressure but if you are"
+    },
+    {
+      "start": 362.2,
+      "duration": 3.3,
+      "text": "thinking about fundraising or want to"
+    },
+    {
+      "start": 363.4,
+      "duration": 3.3,
+      "text": "learn realize in the 2 by two people"
+    },
+    {
+      "start": 365.5,
+      "duration": 2.9,
+      "text": "want Ai and growth and everything else"
+    },
+    {
+      "start": 366.8,
+      "duration": 4.2,
+      "text": "is hard it's harder it's harder so it's"
+    },
+    {
+      "start": 368.4,
+      "duration": 4.6,
+      "text": "a weird world but it means overall VCS"
+    },
+    {
+      "start": 370.9,
+      "duration": 4.5,
+      "text": "are working super hard tons of deals are"
+    },
+    {
+      "start": 373.0,
+      "duration": 3.9,
+      "text": "being happening term sheets meetings but"
+    },
+    {
+      "start": 375.4,
+      "duration": 3.0,
+      "text": "it's just for that one little part of"
+    },
+    {
+      "start": 376.9,
+      "duration": 4.1,
+      "text": "the two by"
+    },
+    {
+      "start": 378.5,
+      "duration": 5.8,
+      "text": "two okay and the other thing I wanted to"
+    },
+    {
+      "start": 381.0,
+      "duration": 6.7,
+      "text": "highlight is just you know I think a lot"
+    },
+    {
+      "start": 384.3,
+      "duration": 5.1,
+      "text": "of B2B Founders are of three Minds on AI"
+    },
+    {
+      "start": 387.7,
+      "duration": 4.8,
+      "text": "right one they wish they were growing as"
+    },
+    {
+      "start": 389.4,
+      "duration": 4.5,
+      "text": "fast is cursor or Harvey or others they"
+    },
+    {
+      "start": 392.6,
+      "duration": 3.6,
+      "text": "wish they were getting to 100 million in"
+    },
+    {
+      "start": 393.9,
+      "duration": 3.4,
+      "text": "two years or one year or less but"
+    },
+    {
+      "start": 396.1,
+      "duration": 3.6,
+      "text": "they're a little skeptical they're like"
+    },
+    {
+      "start": 397.3,
+      "duration": 4.2,
+      "text": "you know what I I've tried this stuff it"
+    },
+    {
+      "start": 399.7,
+      "duration": 3.4,
+      "text": "even as great as the new models are"
+    },
+    {
+      "start": 401.4,
+      "duration": 3.1,
+      "text": "they're still hallucinating I can't get"
+    },
+    {
+      "start": 403.1,
+      "duration": 3.3,
+      "text": "it's not enough for my customers it"
+    },
+    {
+      "start": 404.6,
+      "duration": 3.5,
+      "text": "doesn't work I want to wait and see in"
+    },
+    {
+      "start": 406.4,
+      "duration": 3.1,
+      "text": "my category especially I hear this a lot"
+    },
+    {
+      "start": 408.1,
+      "duration": 3.6,
+      "text": "in vertical house where it's very"
+    },
+    {
+      "start": 409.5,
+      "duration": 4.8,
+      "text": "specific in my category I'm waiting to"
+    },
+    {
+      "start": 411.7,
+      "duration": 4.8,
+      "text": "see what's going to happen maybe that's"
+    },
+    {
+      "start": 414.3,
+      "duration": 4.7,
+      "text": "okay but if nothing else changes"
+    },
+    {
+      "start": 416.5,
+      "duration": 5.4,
+      "text": "everywhere and my biggest worry my"
+    },
+    {
+      "start": 419.0,
+      "duration": 5.1,
+      "text": "biggest Vibe check is move faster"
+    },
+    {
+      "start": 421.9,
+      "duration": 3.5,
+      "text": "because everyone is excited everyone is"
+    },
+    {
+      "start": 424.1,
+      "duration": 3.2,
+      "text": "building more software everyone is"
+    },
+    {
+      "start": 425.4,
+      "duration": 5.8,
+      "text": "shipping more software and you got to"
+    },
+    {
+      "start": 427.3,
+      "duration": 7.1,
+      "text": "move faster and I compared two two just"
+    },
+    {
+      "start": 431.2,
+      "duration": 5.6,
+      "text": "classic SAS players here on the right"
+    },
+    {
+      "start": 434.4,
+      "duration": 6.1,
+      "text": "Shopify yesterday announced they crossed"
+    },
+    {
+      "start": 436.8,
+      "duration": 6.4,
+      "text": "11 billion run rate 11 billion doll from"
+    },
+    {
+      "start": 440.5,
+      "duration": 6.0,
+      "text": "shoply and it's accelerating it's"
+    },
+    {
+      "start": 443.2,
+      "duration": 4.9,
+      "text": "growing 31% at 11.2 billion that's even"
+    },
+    {
+      "start": 446.6,
+      "duration": 3.8,
+      "text": "better than it sounds because that means"
+    },
+    {
+      "start": 448.1,
+      "duration": 4.7,
+      "text": "it's added over 3 billion of new e new a"
+    },
+    {
+      "start": 450.3,
+      "duration": 4.5,
+      "text": "year but most importantly it's the"
+    },
+    {
+      "start": 452.8,
+      "duration": 3.1,
+      "text": "fastest that's grown in three years the"
+    },
+    {
+      "start": 454.8,
+      "duration": 3.5,
+      "text": "fastest that's growing in three years"
+    },
+    {
+      "start": 456.0,
+      "duration": 5.2,
+      "text": "Shopify Shopify is accelerating it's"
+    },
+    {
+      "start": 458.3,
+      "duration": 5.3,
+      "text": "accelerating at 31% it was in the 20s a"
+    },
+    {
+      "start": 461.2,
+      "duration": 4.3,
+      "text": "year ago it's accelerating it's more"
+    },
+    {
+      "start": 463.6,
+      "duration": 2.9,
+      "text": "profitable Higher free cash margins and"
+    },
+    {
+      "start": 465.5,
+      "duration": 2.4,
+      "text": "it's accelerating even though it's"
+    },
+    {
+      "start": 466.4,
+      "duration": 3.6,
+      "text": "Crossing to double digit market share"
+    },
+    {
+      "start": 467.9,
+      "duration": 4.9,
+      "text": "it's just accelerating tripled since"
+    },
+    {
+      "start": 470.0,
+      "duration": 4.8,
+      "text": "2020 on the bottom I pointed out a"
+    },
+    {
+      "start": 472.8,
+      "duration": 3.8,
+      "text": "company that I do love but is growth is"
+    },
+    {
+      "start": 474.8,
+      "duration": 4.3,
+      "text": "slowed as pag your duty pag your duty is"
+    },
+    {
+      "start": 476.5,
+      "duration": 5.5,
+      "text": "coming up on 500 million Revenue a lot"
+    },
+    {
+      "start": 479.1,
+      "duration": 4.1,
+      "text": "but grow with this slow to 10% but the"
+    },
+    {
+      "start": 482.0,
+      "duration": 3.1,
+      "text": "toughest number and there's more"
+    },
+    {
+      "start": 483.2,
+      "duration": 5.3,
+      "text": "companies like this out there today than"
+    },
+    {
+      "start": 485.1,
+      "duration": 4.4,
+      "text": "is discussed 0% net new customer growth"
+    },
+    {
+      "start": 488.5,
+      "duration": 3.6,
+      "text": "this last quarter they announced they"
+    },
+    {
+      "start": 489.5,
+      "duration": 5.5,
+      "text": "had 15,050 customers a year ago they had"
+    },
+    {
+      "start": 492.0,
+      "duration": 4.8,
+      "text": "1549 they had one in a year you can"
+    },
+    {
+      "start": 495.0,
+      "duration": 3.8,
+      "text": "laugh you can say that's funny it's not"
+    },
+    {
+      "start": 496.8,
+      "duration": 4.1,
+      "text": "funny it's a lot of hard work they're"
+    },
+    {
+      "start": 498.8,
+      "duration": 3.6,
+      "text": "growing through the 107% NR they're"
+    },
+    {
+      "start": 500.9,
+      "duration": 2.4,
+      "text": "growing through going more Enterprise"
+    },
+    {
+      "start": 502.5,
+      "duration": 2.4,
+      "text": "and they're growing through price"
+    },
+    {
+      "start": 503.3,
+      "duration": 3.4,
+      "text": "increases which is the Playbook of a lot"
+    },
+    {
+      "start": 504.8,
+      "duration": 3.7,
+      "text": "of folks today that don't have new"
+    },
+    {
+      "start": 506.7,
+      "duration": 3.3,
+      "text": "products that don't have new moves that"
+    },
+    {
+      "start": 508.5,
+      "duration": 3.0,
+      "text": "aren't adding to their that aren't"
+    },
+    {
+      "start": 510.0,
+      "duration": 2.8,
+      "text": "adding to their playbook they're"
+    },
+    {
+      "start": 511.5,
+      "duration": 3.7,
+      "text": "somewhat out of ideas so what do you do"
+    },
+    {
+      "start": 512.9,
+      "duration": 3.6,
+      "text": "you raise prices again and again and you"
+    },
+    {
+      "start": 515.2,
+      "duration": 3.6,
+      "text": "push more and more Enterprise and"
+    },
+    {
+      "start": 516.5,
+      "duration": 4.4,
+      "text": "abandon your smaller customers which may"
+    },
+    {
+      "start": 518.8,
+      "duration": 4.1,
+      "text": "help you make the quarter but oftentimes"
+    },
+    {
+      "start": 520.9,
+      "duration": 4.6,
+      "text": "is abandoning the the future to hit your"
+    },
+    {
+      "start": 523.0,
+      "duration": 5.0,
+      "text": "present goals but this is too common if"
+    },
+    {
+      "start": 525.5,
+      "duration": 4.4,
+      "text": "you don't do anything so many folks are"
+    },
+    {
+      "start": 528.0,
+      "duration": 4.5,
+      "text": "ended up in this Frozen moment where"
+    },
+    {
+      "start": 529.8,
+      "duration": 4.5,
+      "text": "they're still going to grow with upsells"
+    },
+    {
+      "start": 532.5,
+      "duration": 4.1,
+      "text": "and going more Market but the customer"
+    },
+    {
+      "start": 534.4,
+      "duration": 4.1,
+      "text": "count is Frozen it's frozen and this is"
+    },
+    {
+      "start": 536.6,
+      "duration": 4.4,
+      "text": "more common I see it across there are"
+    },
+    {
+      "start": 538.5,
+      "duration": 5.1,
+      "text": "many if you talk to they have many"
+    },
+    {
+      "start": 540.9,
+      "duration": 4.8,
+      "text": "startups hundreds north of a 100 million"
+    },
+    {
+      "start": 543.6,
+      "duration": 4.4,
+      "text": "where the customer account is frozen so"
+    },
+    {
+      "start": 545.8,
+      "duration": 3.9,
+      "text": "what do you do you can complain about it"
+    },
+    {
+      "start": 548.0,
+      "duration": 3.9,
+      "text": "you can raise prices you can threaten to"
+    },
+    {
+      "start": 549.7,
+      "duration": 4.2,
+      "text": "sue customers if they leave that helps a"
+    },
+    {
+      "start": 551.9,
+      "duration": 3.0,
+      "text": "little bit like one or two percent but"
+    },
+    {
+      "start": 553.9,
+      "duration": 2.5,
+      "text": "you know what the real problem with"
+    },
+    {
+      "start": 554.9,
+      "duration": 3.2,
+      "text": "anyone in this they didn't ship enough"
+    },
+    {
+      "start": 556.4,
+      "duration": 3.8,
+      "text": "new amazing products that people want to"
+    },
+    {
+      "start": 558.2,
+      "duration": 4.4,
+      "text": "buy it's that simple and the the world"
+    },
+    {
+      "start": 560.2,
+      "duration": 4.0,
+      "text": "is accelerating and I know it it sounds"
+    },
+    {
+      "start": 562.6,
+      "duration": 3.4,
+      "text": "nutsy but if you're in the Bay Area you"
+    },
+    {
+      "start": 564.2,
+      "duration": 3.5,
+      "text": "will meet so many Founders today that"
+    },
+    {
+      "start": 566.0,
+      "duration": 4.4,
+      "text": "are working seven days a week 12 hours a"
+    },
+    {
+      "start": 567.7,
+      "duration": 4.3,
+      "text": "day Brian hallan who co-founded HubSpot"
+    },
+    {
+      "start": 570.4,
+      "duration": 3.3,
+      "text": "he wrote this up on on LinkedIn on"
+    },
+    {
+      "start": 572.0,
+      "duration": 3.2,
+      "text": "social media say I can't believe how"
+    },
+    {
+      "start": 573.8,
+      "duration": 2.9,
+      "text": "hard Founders are working today compared"
+    },
+    {
+      "start": 575.2,
+      "duration": 3.7,
+      "text": "to when I build HubSpot hubspot's worth"
+    },
+    {
+      "start": 576.7,
+      "duration": 3.4,
+      "text": "40 billion but they he and dar Mash as"
+    },
+    {
+      "start": 578.9,
+      "duration": 3.4,
+      "text": "hard as they work they didn't work as"
+    },
+    {
+      "start": 580.1,
+      "duration": 3.9,
+      "text": "hard as folks are working today and we"
+    },
+    {
+      "start": 582.3,
+      "duration": 3.3,
+      "text": "can talk about work life balance and we"
+    },
+    {
+      "start": 584.0,
+      "duration": 2.7,
+      "text": "can talk about quality of life and we"
+    },
+    {
+      "start": 585.6,
+      "duration": 3.7,
+      "text": "talk about why we're doing it but the"
+    },
+    {
+      "start": 586.7,
+      "duration": 4.5,
+      "text": "reality is since the dawn of software"
+    },
+    {
+      "start": 589.2,
+      "duration": 5.4,
+      "text": "it's been competitive right dates and"
+    },
+    {
+      "start": 591.2,
+      "duration": 5.0,
+      "text": "jobs everybody right and be aware if"
+    },
+    {
+      "start": 594.6,
+      "duration": 3.8,
+      "text": "your product is basically the same"
+    },
+    {
+      "start": 596.2,
+      "duration": 3.8,
+      "text": "product as two years ago you may be left"
+    },
+    {
+      "start": 598.4,
+      "duration": 3.0,
+      "text": "behind that this is the biggest Vibe"
+    },
+    {
+      "start": 600.0,
+      "duration": 3.3,
+      "text": "check I'm seeing folks left behind and"
+    },
+    {
+      "start": 601.4,
+      "duration": 3.3,
+      "text": "I'm talking to Founders and the"
+    },
+    {
+      "start": 603.3,
+      "duration": 3.1,
+      "text": "consistent message I'm telling to them"
+    },
+    {
+      "start": 604.7,
+      "duration": 3.2,
+      "text": "is it's not too late we're early in this"
+    },
+    {
+      "start": 606.4,
+      "duration": 3.9,
+      "text": "still early in this wave we're early in"
+    },
+    {
+      "start": 607.8,
+      "duration": 3.6,
+      "text": "AI for B2B in many use cases but you"
+    },
+    {
+      "start": 610.2,
+      "duration": 3.4,
+      "text": "better get ahead of it now you better"
+    },
+    {
+      "start": 611.5,
+      "duration": 4.2,
+      "text": "find a way to build 50% 100% more"
+    },
+    {
+      "start": 613.6,
+      "duration": 4.2,
+      "text": "product this year and be ahead of it"
+    },
+    {
+      "start": 615.7,
+      "duration": 3.9,
+      "text": "rather than being frozen in time because"
+    },
+    {
+      "start": 617.8,
+      "duration": 3.8,
+      "text": "there's a thousand competitors out there"
+    },
+    {
+      "start": 619.6,
+      "duration": 4.4,
+      "text": "that are gonna that want to steal your"
+    },
+    {
+      "start": 621.6,
+      "duration": 5.0,
+      "text": "lunch okay the last one I know folks"
+    },
+    {
+      "start": 624.0,
+      "duration": 4.3,
+      "text": "know this but this is why just for a"
+    },
+    {
+      "start": 626.6,
+      "duration": 4.2,
+      "text": "Vibe check I I thought it would throw it"
+    },
+    {
+      "start": 628.2,
+      "duration": 4.4,
+      "text": "out is this is why why it's like 2021"
+    },
+    {
+      "start": 630.7,
+      "duration": 3.1,
+      "text": "but different all over again there are"
+    },
+    {
+      "start": 632.6,
+      "duration": 2.5,
+      "text": "many folks that aren't growing at all"
+    },
+    {
+      "start": 633.8,
+      "duration": 3.5,
+      "text": "there are many folks whose customer"
+    },
+    {
+      "start": 635.1,
+      "duration": 4.4,
+      "text": "count is the same for the last two years"
+    },
+    {
+      "start": 637.3,
+      "duration": 4.2,
+      "text": "but man when you're hitting it today"
+    },
+    {
+      "start": 639.5,
+      "duration": 3.4,
+      "text": "you're hitting it better than ever so"
+    },
+    {
+      "start": 641.4,
+      "duration": 3.5,
+      "text": "here at the top now this isn't all"
+    },
+    {
+      "start": 642.9,
+      "duration": 4.5,
+      "text": "software SAS Revenue but deal announced"
+    },
+    {
+      "start": 644.9,
+      "duration": 4.8,
+      "text": "that 800 million is growing 70% last"
+    },
+    {
+      "start": 647.4,
+      "duration": 3.4,
+      "text": "week that's pretty good guys and that's"
+    },
+    {
+      "start": 649.7,
+      "duration": 2.8,
+      "text": "pretty good in a space where they"
+    },
+    {
+      "start": 650.8,
+      "duration": 3.6,
+      "text": "compete with 10 other customers like"
+    },
+    {
+      "start": 652.5,
+      "duration": 4.1,
+      "text": "directly indirectly they're competing"
+    },
+    {
+      "start": 654.4,
+      "duration": 3.6,
+      "text": "with remote and ripling and Gusto and so"
+    },
+    {
+      "start": 656.6,
+      "duration": 3.8,
+      "text": "many others they're not they don't own"
+    },
+    {
+      "start": 658.0,
+      "duration": 4.2,
+      "text": "this Market even they don't have on 80%"
+    },
+    {
+      "start": 660.4,
+      "duration": 4.7,
+      "text": "market share and they're still growing"
+    },
+    {
+      "start": 662.2,
+      "duration": 4.2,
+      "text": "70% at 800 million and look at cursor"
+    },
+    {
+      "start": 665.1,
+      "duration": 3.9,
+      "text": "and we could talk about cursor here's"
+    },
+    {
+      "start": 666.4,
+      "duration": 4.4,
+      "text": "cursor why wi in deal and a few others"
+    },
+    {
+      "start": 669.0,
+      "duration": 4.3,
+      "text": "we're talking about folks that can go to"
+    },
+    {
+      "start": 670.8,
+      "duration": 3.9,
+      "text": "100 million in a year or two and on the"
+    },
+    {
+      "start": 673.3,
+      "duration": 3.4,
+      "text": "right it's just look at all the money"
+    },
+    {
+      "start": 674.7,
+      "duration": 4.9,
+      "text": "going into Cloud infrastructure so I'm"
+    },
+    {
+      "start": 676.7,
+      "duration": 5.2,
+      "text": "not saying that this is you I'm not"
+    },
+    {
+      "start": 679.6,
+      "duration": 4.8,
+      "text": "saying that you are cursor or whiz or"
+    },
+    {
+      "start": 681.9,
+      "duration": 5.7,
+      "text": "deal but you gotta objectively learn"
+    },
+    {
+      "start": 684.4,
+      "duration": 7.3,
+      "text": "from them and what's happening today is"
+    },
+    {
+      "start": 687.6,
+      "duration": 6.4,
+      "text": "the cios are still trimming apps in many"
+    },
+    {
+      "start": 691.7,
+      "duration": 3.9,
+      "text": "Enterprises the app count is still flat"
+    },
+    {
+      "start": 694.0,
+      "duration": 3.7,
+      "text": "year-over-year the app count is flat"
+    },
+    {
+      "start": 695.6,
+      "duration": 5.6,
+      "text": "they are trimming they are forcing folks"
+    },
+    {
+      "start": 697.8,
+      "duration": 5.5,
+      "text": "to standardize on fewer vendors on the"
+    },
+    {
+      "start": 701.2,
+      "duration": 3.8,
+      "text": "same vendors to just forget about that"
+    },
+    {
+      "start": 703.2,
+      "duration": 3.9,
+      "text": "cool like just use what we have that's"
+    },
+    {
+      "start": 705.1,
+      "duration": 5.0,
+      "text": "happening but on the other hand budgets"
+    },
+    {
+      "start": 707.1,
+      "duration": 4.7,
+      "text": "overall have grown about 50% for AI so"
+    },
+    {
+      "start": 710.0,
+      "duration": 3.4,
+      "text": "you've got to comment calm down listen"
+    },
+    {
+      "start": 711.8,
+      "duration": 3.8,
+      "text": "and find the"
+    },
+    {
+      "start": 713.4,
+      "duration": 3.6,
+      "text": "budget maybe you think co-pilots are"
+    },
+    {
+      "start": 715.6,
+      "duration": 3.6,
+      "text": "silly but if there's budget in your"
+    },
+    {
+      "start": 717.0,
+      "duration": 3.2,
+      "text": "space go build a co-pilot okay maybe"
+    },
+    {
+      "start": 719.2,
+      "duration": 2.9,
+      "text": "maybe you think it's crazy that"
+    },
+    {
+      "start": 720.2,
+      "duration": 3.6,
+      "text": "Salesforce is charging $2 for agent"
+    },
+    {
+      "start": 722.1,
+      "duration": 3.8,
+      "text": "force but if it's working for them maybe"
+    },
+    {
+      "start": 723.8,
+      "duration": 4.4,
+      "text": "it'll work for you there are different"
+    },
+    {
+      "start": 725.9,
+      "duration": 4.0,
+      "text": "sources of budget in Ai and I'm not"
+    },
+    {
+      "start": 728.2,
+      "duration": 4.0,
+      "text": "suggesting be cynical maybe I'm"
+    },
+    {
+      "start": 729.8,
+      "duration": 4.0,
+      "text": "suggesting be a little cynical because"
+    },
+    {
+      "start": 732.3,
+      "duration": 3.8,
+      "text": "it's all a lot of this is an experiment"
+    },
+    {
+      "start": 733.8,
+      "duration": 4.4,
+      "text": "budget but go find it if you sit here"
+    },
+    {
+      "start": 736.0,
+      "duration": 4.2,
+      "text": "and you don't tap into this Budget on"
+    },
+    {
+      "start": 738.3,
+      "duration": 3.4,
+      "text": "the bottom right you're wasting an"
+    },
+    {
+      "start": 740.2,
+      "duration": 3.2,
+      "text": "opportunity you're wasting an"
+    },
+    {
+      "start": 741.6,
+      "duration": 4.8,
+      "text": "opportunity to tap into this massive"
+    },
+    {
+      "start": 743.4,
+      "duration": 4.1,
+      "text": "spend that is AI fueled and that AI at"
+    },
+    {
+      "start": 746.4,
+      "duration": 3.4,
+      "text": "the end of the day is fueling"
+    },
+    {
+      "start": 747.6,
+      "duration": 4.1,
+      "text": "applications it's fueling B2B"
+    },
+    {
+      "start": 749.8,
+      "duration": 3.5,
+      "text": "is so go get off if you're feeling sorry"
+    },
+    {
+      "start": 751.6,
+      "duration": 4.5,
+      "text": "for yourself if growth of slow go find"
+    },
+    {
+      "start": 753.3,
+      "duration": 4.9,
+      "text": "it because hypergrowth is crazy so it's"
+    },
+    {
+      "start": 756.1,
+      "duration": 4.8,
+      "text": "also the vibe check it's why some folks"
+    },
+    {
+      "start": 758.2,
+      "duration": 4.3,
+      "text": "in Venture are morose because they don't"
+    },
+    {
+      "start": 760.9,
+      "duration": 3.7,
+      "text": "have any players on this chart on the"
+    },
+    {
+      "start": 762.5,
+      "duration": 3.7,
+      "text": "bottom left and others think it's the"
+    },
+    {
+      "start": 764.6,
+      "duration": 3.0,
+      "text": "best of time and others are performative"
+    },
+    {
+      "start": 766.2,
+      "duration": 2.9,
+      "text": "and pretending their customer their"
+    },
+    {
+      "start": 767.6,
+      "duration": 4.2,
+      "text": "their Investments are doing this well"
+    },
+    {
+      "start": 769.1,
+      "duration": 4.0,
+      "text": "but it's driving lots and lots of froth"
+    },
+    {
+      "start": 771.8,
+      "duration": 3.2,
+      "text": "uh and"
+    },
+    {
+      "start": 773.1,
+      "duration": 3.2,
+      "text": "excitement okay just a couple other"
+    },
+    {
+      "start": 775.0,
+      "duration": 4.6,
+      "text": "points I just want to make something"
+    },
+    {
+      "start": 776.4,
+      "duration": 5.5,
+      "text": "super clear to folks I said this up"
+    },
+    {
+      "start": 779.7,
+      "duration": 5.3,
+      "text": "so many times on saster on our LinkedIn"
+    },
+    {
+      "start": 781.8,
+      "duration": 5.8,
+      "text": "on social media but profitability"
+    },
+    {
+      "start": 785.0,
+      "duration": 4.5,
+      "text": "efficiency is great it may be necessary"
+    },
+    {
+      "start": 787.6,
+      "duration": 3.2,
+      "text": "it may be necessary if you don't have"
+    },
+    {
+      "start": 789.5,
+      "duration": 3.5,
+      "text": "Capital if you're bootstrapped if You'"
+    },
+    {
+      "start": 790.8,
+      "duration": 4.0,
+      "text": "spent all your money the public markets"
+    },
+    {
+      "start": 793.0,
+      "duration": 4.9,
+      "text": "are demanding that everybody be be more"
+    },
+    {
+      "start": 794.8,
+      "duration": 5.9,
+      "text": "efficient but it's not enough so"
+    },
+    {
+      "start": 797.9,
+      "duration": 5.5,
+      "text": "profitable hurray no one cares no one"
+    },
+    {
+      "start": 800.8,
+      "duration": 5.1,
+      "text": "cares yes Shopify we talked about them"
+    },
+    {
+      "start": 803.4,
+      "duration": 3.7,
+      "text": "at at accelerating it at 12 billion they"
+    },
+    {
+      "start": 805.8,
+      "duration": 2.2,
+      "text": "are getting more efficient they're"
+    },
+    {
+      "start": 807.0,
+      "duration": 3.6,
+      "text": "getting more efficient because they're"
+    },
+    {
+      "start": 808.0,
+      "duration": 5.0,
+      "text": "growing 30% and they're increasing spend"
+    },
+    {
+      "start": 810.7,
+      "duration": 3.6,
+      "text": "in the teens like sales and marketing I"
+    },
+    {
+      "start": 813.0,
+      "duration": 3.5,
+      "text": "just wrote it up on sason five"
+    },
+    {
+      "start": 814.2,
+      "duration": 4.2,
+      "text": "interesting learning sales and marketing"
+    },
+    {
+      "start": 816.4,
+      "duration": 3.7,
+      "text": "product GNA they're all growing in the"
+    },
+    {
+      "start": 818.4,
+      "duration": 3.0,
+      "text": "teens they are hiring they are spending"
+    },
+    {
+      "start": 820.1,
+      "duration": 3.9,
+      "text": "more but in the teens while they grow"
+    },
+    {
+      "start": 821.5,
+      "duration": 4.4,
+      "text": "30% so if you hire but at a rate lower"
+    },
+    {
+      "start": 824.0,
+      "duration": 3.2,
+      "text": "than your growth rate you will get more"
+    },
+    {
+      "start": 825.9,
+      "duration": 2.8,
+      "text": "efficient and more profitable public"
+    },
+    {
+      "start": 827.2,
+      "duration": 3.5,
+      "text": "markets want that Monday blew out the"
+    },
+    {
+      "start": 828.7,
+      "duration": 3.8,
+      "text": "quarter they're more much more efficient"
+    },
+    {
+      "start": 830.8,
+      "duration": 4.4,
+      "text": "than they used to be yes but it's not"
+    },
+    {
+      "start": 832.5,
+      "duration": 5.4,
+      "text": "the end goal it's necessary but not"
+    },
+    {
+      "start": 835.2,
+      "duration": 6.4,
+      "text": "sufficient and if you look I inverted"
+    },
+    {
+      "start": 837.9,
+      "duration": 5.2,
+      "text": "sorted the besser cloud index public"
+    },
+    {
+      "start": 841.6,
+      "duration": 4.0,
+      "text": "companies by the lowest Revenue"
+    },
+    {
+      "start": 843.1,
+      "duration": 4.1,
+      "text": "multiples if you look at that chart EV"
+    },
+    {
+      "start": 845.6,
+      "duration": 3.7,
+      "text": "divided by annualized Revenue that's the"
+    },
+    {
+      "start": 847.2,
+      "duration": 3.8,
+      "text": "lowest multiples isn't perfect but it"
+    },
+    {
+      "start": 849.3,
+      "duration": 4.4,
+      "text": "get you a sense some of these folks are"
+    },
+    {
+      "start": 851.0,
+      "duration": 5.1,
+      "text": "super lean and efficient who cares four"
+    },
+    {
+      "start": 853.7,
+      "duration": 4.8,
+      "text": "ring central trading at 1.8x revenues"
+    },
+    {
+      "start": 856.1,
+      "duration": 5.7,
+      "text": "it's profitable right pag your duty we"
+    },
+    {
+      "start": 858.5,
+      "duration": 5.4,
+      "text": "talked about 3.4x bill.com who I love"
+    },
+    {
+      "start": 861.8,
+      "duration": 4.2,
+      "text": "one of the best but still 4X Zoom"
+    },
+    {
+      "start": 863.8,
+      "duration": 4.2,
+      "text": "massively profitable zoom's at four over"
+    },
+    {
+      "start": 866.0,
+      "duration": 4.2,
+      "text": "four billion in Revenue half of it is"
+    },
+    {
+      "start": 868.1,
+      "duration": 4.3,
+      "text": "free cash flow zum is generating two"
+    },
+    {
+      "start": 870.2,
+      "duration": 4.2,
+      "text": "billion of cash out of its four billion"
+    },
+    {
+      "start": 872.4,
+      "duration": 5.0,
+      "text": "no one cares it's worth three 3.8x"
+    },
+    {
+      "start": 874.4,
+      "duration": 5.3,
+      "text": "Revenue they care a little bit but they"
+    },
+    {
+      "start": 877.4,
+      "duration": 3.4,
+      "text": "don't care too much so I still see too"
+    },
+    {
+      "start": 879.6,
+      "duration": 4.6,
+      "text": "many"
+    },
+    {
+      "start": 880.8,
+      "duration": 5.8,
+      "text": "conversations of Founders folks of"
+    },
+    {
+      "start": 884.2,
+      "duration": 4.4,
+      "text": "Revenue Executives blaming other people"
+    },
+    {
+      "start": 886.6,
+      "duration": 3.9,
+      "text": "saying it's all about efficiency this is"
+    },
+    {
+      "start": 888.6,
+      "duration": 3.7,
+      "text": "the age of efficiency it's not we are"
+    },
+    {
+      "start": 890.5,
+      "duration": 3.7,
+      "text": "back to growth look at that chart look"
+    },
+    {
+      "start": 892.3,
+      "duration": 4.0,
+      "text": "at cursor look at whz this is what the"
+    },
+    {
+      "start": 894.2,
+      "duration": 3.7,
+      "text": "this is not only what VCS are hunting"
+    },
+    {
+      "start": 896.3,
+      "duration": 3.5,
+      "text": "it's tough this is where your recruits"
+    },
+    {
+      "start": 897.9,
+      "duration": 3.6,
+      "text": "want to work they now that there's so"
+    },
+    {
+      "start": 899.8,
+      "duration": 3.6,
+      "text": "many fast growing startups where do they"
+    },
+    {
+      "start": 901.6,
+      "duration": 4.7,
+      "text": "want to work they want to work at these"
+    },
+    {
+      "start": 903.3,
+      "duration": 4.6,
+      "text": "places so it it is challenging but Pro"
+    },
+    {
+      "start": 906.2,
+      "duration": 3.2,
+      "text": "profitability may be necessary as a"
+    },
+    {
+      "start": 908.0,
+      "duration": 2.5,
+      "text": "Founder I went profitable at four to"
+    },
+    {
+      "start": 909.5,
+      "duration": 3.0,
+      "text": "five million because I didn't want to"
+    },
+    {
+      "start": 910.5,
+      "duration": 3.8,
+      "text": "raise any more money it was great it was"
+    },
+    {
+      "start": 912.5,
+      "duration": 4.3,
+      "text": "freeing it was liberating I didn't have"
+    },
+    {
+      "start": 914.2,
+      "duration": 4.2,
+      "text": "to work for the man in a sense anymore I"
+    },
+    {
+      "start": 916.8,
+      "duration": 3.4,
+      "text": "didn't have to listen to my VCS too much"
+    },
+    {
+      "start": 918.4,
+      "duration": 3.4,
+      "text": "a little bit be respectful they bet on"
+    },
+    {
+      "start": 920.2,
+      "duration": 4.2,
+      "text": "you but I didn't listen to them too much"
+    },
+    {
+      "start": 921.8,
+      "duration": 6.2,
+      "text": "I went profitable but it didn't matter"
+    },
+    {
+      "start": 924.3,
+      "duration": 5.7,
+      "text": "Beyond um making the the business model"
+    },
+    {
+      "start": 928.0,
+      "duration": 3.2,
+      "text": "work for me I didn't need to raise but I"
+    },
+    {
+      "start": 930.0,
+      "duration": 3.0,
+      "text": "didn't get much credit and you're not"
+    },
+    {
+      "start": 931.2,
+      "duration": 3.6,
+      "text": "getting much credit today so don't"
+    },
+    {
+      "start": 933.0,
+      "duration": 3.9,
+      "text": "listen too much to folks that say"
+    },
+    {
+      "start": 934.8,
+      "duration": 4.4,
+      "text": "profitability is the end goal it is"
+    },
+    {
+      "start": 936.9,
+      "duration": 4.9,
+      "text": "really not um but it may be necessary it"
+    },
+    {
+      "start": 939.1,
+      "duration": 3.9,
+      "text": "may be necessary in today's world and"
+    },
+    {
+      "start": 941.8,
+      "duration": 4.0,
+      "text": "then I think two last points and then"
+    },
+    {
+      "start": 943.0,
+      "duration": 4.4,
+      "text": "we'll break this one I wish I could"
+    },
+    {
+      "start": 945.8,
+      "duration": 3.5,
+      "text": "we're going to talk a lot about this at"
+    },
+    {
+      "start": 947.4,
+      "duration": 3.8,
+      "text": "saster annual in May please come it's"
+    },
+    {
+      "start": 949.3,
+      "duration": 3.3,
+      "text": "going to be great it's something I don't"
+    },
+    {
+      "start": 951.2,
+      "duration": 4.4,
+      "text": "have all the answers to but I can"
+    },
+    {
+      "start": 952.6,
+      "duration": 5.1,
+      "text": "recognize the flags which is man and you"
+    },
+    {
+      "start": 955.6,
+      "duration": 5.1,
+      "text": "guys know this it's just part of the"
+    },
+    {
+      "start": 957.7,
+      "duration": 6.2,
+      "text": "vibe check these older sales playbooks"
+    },
+    {
+      "start": 960.7,
+      "duration": 5.8,
+      "text": "marketing playbooks from 2020 21 2022"
+    },
+    {
+      "start": 963.9,
+      "duration": 5.7,
+      "text": "they're feeling mighty"
+    },
+    {
+      "start": 966.5,
+      "duration": 5.0,
+      "text": "creaky Mighty creaky I put these small"
+    },
+    {
+      "start": 969.6,
+      "duration": 3.0,
+      "text": "bullets at the bottom too many folks I"
+    },
+    {
+      "start": 971.5,
+      "duration": 3.8,
+      "text": "talk to that have been around for a"
+    },
+    {
+      "start": 972.6,
+      "duration": 4.4,
+      "text": "while they're just apathetic or jaded"
+    },
+    {
+      "start": 975.4,
+      "duration": 3.6,
+      "text": "they are I can't tell you how many"
+    },
+    {
+      "start": 977.0,
+      "duration": 4.4,
+      "text": "interviews I've done the last month or"
+    },
+    {
+      "start": 979.0,
+      "duration": 3.9,
+      "text": "two where folks bailed when they found"
+    },
+    {
+      "start": 981.5,
+      "duration": 2.5,
+      "text": "out they had to do the work themselves"
+    },
+    {
+      "start": 982.8,
+      "duration": 3.2,
+      "text": "they bailed when they found out they"
+    },
+    {
+      "start": 984.0,
+      "duration": 4.0,
+      "text": "were kpis they they bailed when they"
+    },
+    {
+      "start": 986.0,
+      "duration": 4.0,
+      "text": "found out they couldn't just the job"
+    },
+    {
+      "start": 988.0,
+      "duration": 3.8,
+      "text": "couldn't mostly be about them LinkedIn"
+    },
+    {
+      "start": 990.0,
+      "duration": 4.4,
+      "text": "or making videos about themselves people"
+    },
+    {
+      "start": 991.8,
+      "duration": 4.4,
+      "text": "are apathetic they're jaded things even"
+    },
+    {
+      "start": 994.4,
+      "duration": 3.0,
+      "text": "basic things you can look at what"
+    },
+    {
+      "start": 996.1,
+      "duration": 3.5,
+      "text": "HubSpot and others have talked about how"
+    },
+    {
+      "start": 997.5,
+      "duration": 4.6,
+      "text": "SEO is down because of Google's changes"
+    },
+    {
+      "start": 999.6,
+      "duration": 3.9,
+      "text": "in generative AI even tougher there's"
+    },
+    {
+      "start": 1002.0,
+      "duration": 3.1,
+      "text": "like a thousand there are categories"
+    },
+    {
+      "start": 1003.5,
+      "duration": 3.2,
+      "text": "that used one of the weirdest things of"
+    },
+    {
+      "start": 1005.2,
+      "duration": 4.5,
+      "text": "AI is categories that used to be boring"
+    },
+    {
+      "start": 1006.7,
+      "duration": 5.2,
+      "text": "are now exciting they're now exciting"
+    },
+    {
+      "start": 1009.7,
+      "duration": 4.1,
+      "text": "when I invested in I co-led the aound in"
+    },
+    {
+      "start": 1012.0,
+      "duration": 3.5,
+      "text": "sales off and there were like three"
+    },
+    {
+      "start": 1013.8,
+      "duration": 2.9,
+      "text": "vendors in that whole space at the time"
+    },
+    {
+      "start": 1015.4,
+      "duration": 3.0,
+      "text": "and people were like who the hell wants"
+    },
+    {
+      "start": 1016.7,
+      "duration": 3.9,
+      "text": "to invest in sales tools this space"
+    },
+    {
+      "start": 1018.4,
+      "duration": 3.5,
+      "text": "sucks people would laugh at this now"
+    },
+    {
+      "start": 1020.6,
+      "duration": 4.4,
+      "text": "every kid in the world has this there's"
+    },
+    {
+      "start": 1021.9,
+      "duration": 3.8,
+      "text": "like how many AI SDR tools are there I"
+    },
+    {
+      "start": 1024.9,
+      "duration": 3.1,
+      "text": "count"
+    },
+    {
+      "start": 1025.8,
+      "duration": 5.2,
+      "text": "7,843 on our tracker okay maybe it's"
+    },
+    {
+      "start": 1028.0,
+      "duration": 4.6,
+      "text": "less legal oh my God I I I led the first"
+    },
+    {
+      "start": 1031.0,
+      "duration": 3.0,
+      "text": "investment in a company called logical"
+    },
+    {
+      "start": 1032.6,
+      "duration": 3.0,
+      "text": "Andy did our Workshop Wednesday he sold"
+    },
+    {
+      "start": 1034.0,
+      "duration": 3.1,
+      "text": "for 300 million last year to private"
+    },
+    {
+      "start": 1035.5,
+      "duration": 3.6,
+      "text": "Equity people were like why would you"
+    },
+    {
+      "start": 1037.1,
+      "duration": 3.4,
+      "text": "invest in legal that's nichy it's tiny"
+    },
+    {
+      "start": 1039.1,
+      "duration": 3.8,
+      "text": "they don't have any money the sales"
+    },
+    {
+      "start": 1040.5,
+      "duration": 4.8,
+      "text": "Cycles are long all true today and then"
+    },
+    {
+      "start": 1042.9,
+      "duration": 4.7,
+      "text": "boom SEO at 300 million in harv aai"
+    },
+    {
+      "start": 1045.3,
+      "duration": 4.2,
+      "text": "today there are hundreds and hundreds of"
+    },
+    {
+      "start": 1047.6,
+      "duration": 3.8,
+      "text": "AI focused legal startups now there are"
+    },
+    {
+      "start": 1049.5,
+      "duration": 4.0,
+      "text": "obviously reasons right what these"
+    },
+    {
+      "start": 1051.4,
+      "duration": 4.8,
+      "text": "things can do for reviewing an NDA for"
+    },
+    {
+      "start": 1053.4,
+      "duration": 4.6,
+      "text": "collaboration IL legal are are epic and"
+    },
+    {
+      "start": 1056.2,
+      "duration": 3.4,
+      "text": "most of these AI S strr tools are not"
+    },
+    {
+      "start": 1058.0,
+      "duration": 3.9,
+      "text": "great today but I believe in a year they"
+    },
+    {
+      "start": 1059.6,
+      "duration": 3.8,
+      "text": "will be so so there's a reason but what"
+    },
+    {
+      "start": 1061.9,
+      "duration": 4.1,
+      "text": "it means is your category may have been"
+    },
+    {
+      "start": 1063.4,
+      "duration": 4.3,
+      "text": "sleepy 12 or 18 months ago it may have"
+    },
+    {
+      "start": 1066.0,
+      "duration": 3.7,
+      "text": "five 10 a thousand times more"
+    },
+    {
+      "start": 1067.6,
+      "duration": 4.0,
+      "text": "competitors than before so it's just"
+    },
+    {
+      "start": 1069.7,
+      "duration": 3.4,
+      "text": "creaky and I don't have all the answers"
+    },
+    {
+      "start": 1071.6,
+      "duration": 4.1,
+      "text": "but I'm I'll point you to two things one"
+    },
+    {
+      "start": 1073.1,
+      "duration": 4.6,
+      "text": "we put up on our YouTube Kyle Norton who"
+    },
+    {
+      "start": 1075.8,
+      "duration": 3.6,
+      "text": "s of owner where I'm on the board"
+    },
+    {
+      "start": 1077.7,
+      "duration": 4.0,
+      "text": "they're adding 100 sales rep this year"
+    },
+    {
+      "start": 1079.4,
+      "duration": 3.6,
+      "text": "and he did this presentation on his"
+    },
+    {
+      "start": 1081.6,
+      "duration": 2.8,
+      "text": "secrets to scaling he's done a workshop"
+    },
+    {
+      "start": 1083.0,
+      "duration": 4.2,
+      "text": "Wednesday too he's done a lot of content"
+    },
+    {
+      "start": 1084.4,
+      "duration": 4.6,
+      "text": "with us he's I love how he thinks about"
+    },
+    {
+      "start": 1087.2,
+      "duration": 3.5,
+      "text": "stuff rationally stay art he'll share"
+    },
+    {
+      "start": 1089.0,
+      "duration": 3.9,
+      "text": "the AI tools he uses he'll share how"
+    },
+    {
+      "start": 1090.7,
+      "duration": 3.5,
+      "text": "he's managing his team today he'll share"
+    },
+    {
+      "start": 1092.8,
+      "duration": 2.4,
+      "text": "that the sales team's going back to the"
+    },
+    {
+      "start": 1094.2,
+      "duration": 3.1,
+      "text": "office"
+    },
+    {
+      "start": 1095.2,
+      "duration": 3.6,
+      "text": "interestingly a remote team going back"
+    },
+    {
+      "start": 1097.3,
+      "duration": 2.8,
+      "text": "to the office together he'll share all"
+    },
+    {
+      "start": 1098.8,
+      "duration": 3.7,
+      "text": "these secrets to skelling it's really"
+    },
+    {
+      "start": 1100.1,
+      "duration": 3.5,
+      "text": "good watch Kyle you got to hire someone"
+    },
+    {
+      "start": 1102.5,
+      "duration": 5.0,
+      "text": "like him"
+    },
+    {
+      "start": 1103.6,
+      "duration": 6.4,
+      "text": "today you can't hire the bitter siero"
+    },
+    {
+      "start": 1107.5,
+      "duration": 3.8,
+      "text": "from 2021 that's complaining that"
+    },
+    {
+      "start": 1110.0,
+      "duration": 2.8,
+      "text": "outbound doesn't work anymore and"
+    },
+    {
+      "start": 1111.3,
+      "duration": 3.6,
+      "text": "doesn't have any solutions I just see"
+    },
+    {
+      "start": 1112.8,
+      "duration": 4.4,
+      "text": "that left and right outbound doesn't"
+    },
+    {
+      "start": 1114.9,
+      "duration": 4.3,
+      "text": "work well Kyle it's working pretty good"
+    },
+    {
+      "start": 1117.2,
+      "duration": 5.2,
+      "text": "at owner but listen and learn how he"
+    },
+    {
+      "start": 1119.2,
+      "duration": 5.1,
+      "text": "does it okay yes look at this awful"
+    },
+    {
+      "start": 1122.4,
+      "duration": 4.0,
+      "text": "email I got from slack the other day I"
+    },
+    {
+      "start": 1124.3,
+      "duration": 3.9,
+      "text": "wrote this up on saster if you can read"
+    },
+    {
+      "start": 1126.4,
+      "duration": 3.4,
+      "text": "it just the people are still writing"
+    },
+    {
+      "start": 1128.2,
+      "duration": 4.1,
+      "text": "this old Playbook it's terrible greeing"
+    },
+    {
+      "start": 1129.8,
+      "duration": 3.8,
+      "text": "from slack and all caps they're telling"
+    },
+    {
+      "start": 1132.3,
+      "duration": 3.5,
+      "text": "me it's a pioneering product for"
+    },
+    {
+      "start": 1133.6,
+      "duration": 5.5,
+      "text": "collaboration can we set up a 30 minutes"
+    },
+    {
+      "start": 1135.8,
+      "duration": 5.5,
+      "text": "call I'm given two time slots that are"
+    },
+    {
+      "start": 1139.2,
+      "duration": 3.4,
+      "text": "good for them it doesn't say anything"
+    },
+    {
+      "start": 1141.3,
+      "duration": 2.2,
+      "text": "about me nor do they know we're already"
+    },
+    {
+      "start": 1142.5,
+      "duration": 3.2,
+      "text": "paying"
+    },
+    {
+      "start": 1143.5,
+      "duration": 4.0,
+      "text": "customers we're already paying customers"
+    },
+    {
+      "start": 1145.7,
+      "duration": 3.3,
+      "text": "for slacking Salesforce they don't even"
+    },
+    {
+      "start": 1147.5,
+      "duration": 4.5,
+      "text": "know it in their own CRM this is"
+    },
+    {
+      "start": 1149.0,
+      "duration": 4.6,
+      "text": "literally a terrible AI D so we're still"
+    },
+    {
+      "start": 1152.0,
+      "duration": 4.4,
+      "text": "running this Playbook and maybe it works"
+    },
+    {
+      "start": 1153.6,
+      "duration": 4.4,
+      "text": "a little bit for Salesforce for the Mega"
+    },
+    {
+      "start": 1156.4,
+      "duration": 3.2,
+      "text": "brands for the Mega Brands where just"
+    },
+    {
+      "start": 1158.0,
+      "duration": 2.8,
+      "text": "being in the game works at least a"
+    },
+    {
+      "start": 1159.6,
+      "duration": 3.7,
+      "text": "little bit I don't think this works for"
+    },
+    {
+      "start": 1160.8,
+      "duration": 5.9,
+      "text": "startups anymore so just I just wouldn't"
+    },
+    {
+      "start": 1163.3,
+      "duration": 5.8,
+      "text": "hire anybody who's all who has no new"
+    },
+    {
+      "start": 1166.6,
+      "duration": 4.2,
+      "text": "ideas for their playbook or their our"
+    },
+    {
+      "start": 1169.1,
+      "duration": 3.6,
+      "text": "ideas are going to bring in clay okay"
+    },
+    {
+      "start": 1170.8,
+      "duration": 4.3,
+      "text": "great amazing app that's not going to do"
+    },
+    {
+      "start": 1172.7,
+      "duration": 3.7,
+      "text": "it in today's world though it is working"
+    },
+    {
+      "start": 1175.1,
+      "duration": 3.2,
+      "text": "like the best ones are going faster than"
+    },
+    {
+      "start": 1176.4,
+      "duration": 4.1,
+      "text": "ever but it's not by running the old"
+    },
+    {
+      "start": 1178.2,
+      "duration": 4.6,
+      "text": "crey playbooks I'm just seeing them fail"
+    },
+    {
+      "start": 1180.5,
+      "duration": 3.8,
+      "text": "close to 100% of the time so I think"
+    },
+    {
+      "start": 1182.8,
+      "duration": 3.0,
+      "text": "that's just about it I'll highlight one"
+    },
+    {
+      "start": 1184.3,
+      "duration": 3.6,
+      "text": "more thing and then we can open it up to"
+    },
+    {
+      "start": 1185.8,
+      "duration": 4.6,
+      "text": "any questions but we just announced if"
+    },
+    {
+      "start": 1187.9,
+      "duration": 6.0,
+      "text": "you coming to saster annual and you have"
+    },
+    {
+      "start": 1190.4,
+      "duration": 6.1,
+      "text": "an AI first product or even an AI first"
+    },
+    {
+      "start": 1193.9,
+      "duration": 5.1,
+      "text": "feature apply to pitch it at the AI demo"
+    },
+    {
+      "start": 1196.5,
+      "duration": 3.9,
+      "text": "stage go on saster annual there's a link"
+    },
+    {
+      "start": 1199.0,
+      "duration": 2.4,
+      "text": "and you can come the slots are super"
+    },
+    {
+      "start": 1200.4,
+      "duration": 2.6,
+      "text": "short they're going to be like two"
+    },
+    {
+      "start": 1201.4,
+      "duration": 4.0,
+      "text": "minutes part of it's going to be for"
+    },
+    {
+      "start": 1203.0,
+      "duration": 4.9,
+      "text": "fundraising Mayfield is going to invest"
+    },
+    {
+      "start": 1205.4,
+      "duration": 3.9,
+      "text": "in the number one pitch from 500,000 up"
+    },
+    {
+      "start": 1207.9,
+      "duration": 3.6,
+      "text": "to 5 million so that's going to be fun"
+    },
+    {
+      "start": 1209.3,
+      "duration": 3.9,
+      "text": "so there'll be a there'll be a Pitch"
+    },
+    {
+      "start": 1211.5,
+      "duration": 3.4,
+      "text": "part of it if you have not raised money"
+    },
+    {
+      "start": 1213.2,
+      "duration": 3.9,
+      "text": "before Venture money you're eligible to"
+    },
+    {
+      "start": 1214.8,
+      "duration": 4.5,
+      "text": "win for this pitch but it's also just"
+    },
+    {
+      "start": 1217.1,
+      "duration": 4.4,
+      "text": "demos anyone can demo that's at scale"
+    },
+    {
+      "start": 1219.4,
+      "duration": 3.5,
+      "text": "that has Revenue will pick the best ones"
+    },
+    {
+      "start": 1221.5,
+      "duration": 4.0,
+      "text": "but we'll give you a slot you can come"
+    },
+    {
+      "start": 1222.8,
+      "duration": 4.0,
+      "text": "demoing yourself in front of thousands"
+    },
+    {
+      "start": 1225.5,
+      "duration": 2.4,
+      "text": "and it'll be tons of fun we'll have the"
+    },
+    {
+      "start": 1226.9,
+      "duration": 3.1,
+      "text": "best folks there there'll also be"
+    },
+    {
+      "start": 1227.9,
+      "duration": 4.3,
+      "text": "hundreds of other there'll be thousands"
+    },
+    {
+      "start": 1230.0,
+      "duration": 3.5,
+      "text": "of sales and revenue and marketing"
+    },
+    {
+      "start": 1232.2,
+      "duration": 2.2,
+      "text": "leaders just come piit your app just"
+    },
+    {
+      "start": 1233.5,
+      "duration": 1.7,
+      "text": "apply to come piit your app it's going"
+    },
+    {
+      "start": 1234.4,
+      "duration": 2.3,
+      "text": "to be really fun and we're going to run"
+    },
+    {
+      "start": 1235.2,
+      "duration": 4.2,
+      "text": "it for three days straight right in the"
+    },
+    {
+      "start": 1236.7,
+      "duration": 4.6,
+      "text": "middle of sasra anual so you got to do"
+    },
+    {
+      "start": 1239.4,
+      "duration": 4.2,
+      "text": "it in two minutes but we'll anyone that"
+    },
+    {
+      "start": 1241.4,
+      "duration": 3.4,
+      "text": "that passes the bar as near as we can"
+    },
+    {
+      "start": 1243.6,
+      "duration": 2.6,
+      "text": "tell will be able to pitch their app for"
+    },
+    {
+      "start": 1244.8,
+      "duration": 3.6,
+      "text": "two minutes live at s and it'll be a lot"
+    },
+    {
+      "start": 1246.1,
+      "duration": 4.5,
+      "text": "of fun too so apply to that and with"
+    },
+    {
+      "start": 1248.4,
+      "duration": 3.8,
+      "text": "that Emilia I will I'll open it up to"
+    },
+    {
+      "start": 1250.6,
+      "duration": 2.9,
+      "text": "any questions that we have yeah Jas"
+    },
+    {
+      "start": 1252.2,
+      "duration": 2.8,
+      "text": "let's say that people have been"
+    },
+    {
+      "start": 1253.5,
+      "duration": 4.1,
+      "text": "listening to you for the last year and"
+    },
+    {
+      "start": 1255.0,
+      "duration": 6.0,
+      "text": "they realize that they're not going to"
+    },
+    {
+      "start": 1257.6,
+      "duration": 5.0,
+      "text": "IPO turn it around he look the product's"
+    },
+    {
+      "start": 1261.0,
+      "duration": 3.8,
+      "text": "not there right now we get we have to do"
+    },
+    {
+      "start": 1262.6,
+      "duration": 4.2,
+      "text": "multiproduct everybody's somewhat defeat"
+    },
+    {
+      "start": 1264.8,
+      "duration": 3.7,
+      "text": "let's say people are somewhat jaded now"
+    },
+    {
+      "start": 1266.8,
+      "duration": 5.8,
+      "text": "like how do you turn the company culture"
+    },
+    {
+      "start": 1268.5,
+      "duration": 5.4,
+      "text": "around what do you do T tactically yeah"
+    },
+    {
+      "start": 1272.6,
+      "duration": 2.1,
+      "text": "I'll tell you I asked that question to"
+    },
+    {
+      "start": 1273.9,
+      "duration": 3.0,
+      "text": "many"
+    },
+    {
+      "start": 1274.7,
+      "duration": 5.0,
+      "text": "leaders I asked it on a lot of the"
+    },
+    {
+      "start": 1276.8,
+      "duration": 5.3,
+      "text": "podcasts I do and the interviews I I did"
+    },
+    {
+      "start": 1279.7,
+      "duration": 6.9,
+      "text": "and the truth"
+    },
+    {
+      "start": 1282.1,
+      "duration": 6.3,
+      "text": "is most driven Founders and most sales"
+    },
+    {
+      "start": 1286.6,
+      "duration": 3.0,
+      "text": "leaders that are really training hard"
+    },
+    {
+      "start": 1288.4,
+      "duration": 3.1,
+      "text": "that they're really going for it they're"
+    },
+    {
+      "start": 1289.6,
+      "duration": 3.6,
+      "text": "going to tell you you can't you got to"
+    },
+    {
+      "start": 1291.5,
+      "duration": 5.1,
+      "text": "bring in new blood you can't turn it"
+    },
+    {
+      "start": 1293.2,
+      "duration": 4.8,
+      "text": "around I no one thinks you can right"
+    },
+    {
+      "start": 1296.6,
+      "duration": 4.8,
+      "text": "there are certain things I talk with"
+    },
+    {
+      "start": 1298.0,
+      "duration": 4.6,
+      "text": "leaders and Founders behind closed doors"
+    },
+    {
+      "start": 1301.4,
+      "duration": 2.4,
+      "text": "and every there's certain things they"
+    },
+    {
+      "start": 1302.6,
+      "duration": 3.0,
+      "text": "don't say aloud that they don't say"
+    },
+    {
+      "start": 1303.8,
+      "duration": 3.5,
+      "text": "aloud that we need people to return the"
+    },
+    {
+      "start": 1305.6,
+      "duration": 4.0,
+      "text": "office because half our company doesn't"
+    },
+    {
+      "start": 1307.3,
+      "duration": 3.9,
+      "text": "work okay it doesn't you don't need"
+    },
+    {
+      "start": 1309.6,
+      "duration": 3.1,
+      "text": "return to office for high performers the"
+    },
+    {
+      "start": 1311.2,
+      "duration": 3.0,
+      "text": "best people will get it done they'll get"
+    },
+    {
+      "start": 1312.7,
+      "duration": 3.1,
+      "text": "it done from Antarctica or they'll get"
+    },
+    {
+      "start": 1314.2,
+      "duration": 4.0,
+      "text": "it done in the office but the mid"
+    },
+    {
+      "start": 1315.8,
+      "duration": 4.4,
+      "text": "performers just don't work from home"
+    },
+    {
+      "start": 1318.2,
+      "duration": 4.5,
+      "text": "right they barely work and so they they"
+    },
+    {
+      "start": 1320.2,
+      "duration": 4.1,
+      "text": "want to supervise them for 40 hours it's"
+    },
+    {
+      "start": 1322.7,
+      "duration": 3.0,
+      "text": "not about collaboration it's about"
+    },
+    {
+      "start": 1324.3,
+      "duration": 2.7,
+      "text": "getting any work done so you can't talk"
+    },
+    {
+      "start": 1325.7,
+      "duration": 3.6,
+      "text": "about that the other thing you can't"
+    },
+    {
+      "start": 1327.0,
+      "duration": 5.1,
+      "text": "talk about is like people that are jaded"
+    },
+    {
+      "start": 1329.3,
+      "duration": 5.4,
+      "text": "or broken a little training isn't going"
+    },
+    {
+      "start": 1332.1,
+      "duration": 4.8,
+      "text": "to help like a a team trip to Miami is"
+    },
+    {
+      "start": 1334.8,
+      "duration": 5.6,
+      "text": "not going to help you got to gently move"
+    },
+    {
+      "start": 1336.9,
+      "duration": 5.1,
+      "text": "them out like now you're better with"
+    },
+    {
+      "start": 1340.4,
+      "duration": 3.9,
+      "text": "half the employees as smallart as you"
+    },
+    {
+      "start": 1342.0,
+      "duration": 4.3,
+      "text": "are that all want to be there than folks"
+    },
+    {
+      "start": 1344.3,
+      "duration": 4.6,
+      "text": "polluting the culture right so you got"
+    },
+    {
+      "start": 1346.3,
+      "duration": 4.1,
+      "text": "to start over now and listen if growth"
+    },
+    {
+      "start": 1348.8,
+      "duration": 3.2,
+      "text": "is slowed and No One Believes In Your"
+    },
+    {
+      "start": 1350.4,
+      "duration": 3.9,
+      "text": "Vision except for you it's you're it's a"
+    },
+    {
+      "start": 1352.1,
+      "duration": 3.8,
+      "text": "tough you got a tough a tough situation"
+    },
+    {
+      "start": 1354.3,
+      "duration": 3.9,
+      "text": "it's still fixable but you need 100% new"
+    },
+    {
+      "start": 1355.9,
+      "duration": 4.9,
+      "text": "it day what often happens when you have"
+    },
+    {
+      "start": 1358.2,
+      "duration": 4.2,
+      "text": "a mission-based startup right is that a"
+    },
+    {
+      "start": 1360.8,
+      "duration": 2.9,
+      "text": "handful of the folks still are really"
+    },
+    {
+      "start": 1362.4,
+      "duration": 2.8,
+      "text": "into it right because of what you're"
+    },
+    {
+      "start": 1363.8,
+      "duration": 3.2,
+      "text": "doing they enjoy it and they see the"
+    },
+    {
+      "start": 1365.2,
+      "duration": 3.5,
+      "text": "challenge and they see the ability to to"
+    },
+    {
+      "start": 1366.9,
+      "duration": 4.0,
+      "text": "get traction throughout not most maybe"
+    },
+    {
+      "start": 1368.6,
+      "duration": 3.5,
+      "text": "not most or maybe not some but then you"
+    },
+    {
+      "start": 1371.0,
+      "duration": 2.8,
+      "text": "just got to line on the folks that"
+    },
+    {
+      "start": 1372.1,
+      "duration": 3.4,
+      "text": "believe and get rid of the rest doesn't"
+    },
+    {
+      "start": 1373.8,
+      "duration": 4.0,
+      "text": "mean fire maybe it means fire them"
+    },
+    {
+      "start": 1375.5,
+      "duration": 4.5,
+      "text": "tonight maybe it mean moves them out"
+    },
+    {
+      "start": 1377.8,
+      "duration": 3.5,
+      "text": "maybe that thing is just to go hire"
+    },
+    {
+      "start": 1380.0,
+      "duration": 2.9,
+      "text": "someone else and transition them out"
+    },
+    {
+      "start": 1381.3,
+      "duration": 3.0,
+      "text": "when you have new resources but they all"
+    },
+    {
+      "start": 1382.9,
+      "duration": 4.6,
+      "text": "got you can't turn people around like"
+    },
+    {
+      "start": 1384.3,
+      "duration": 5.3,
+      "text": "this I'm going to bring up Ali next um I"
+    },
+    {
+      "start": 1387.4,
+      "duration": 5.2,
+      "text": "get it that you talk about expansion and"
+    },
+    {
+      "start": 1389.6,
+      "duration": 4.6,
+      "text": "growth and everything but what I can"
+    },
+    {
+      "start": 1392.6,
+      "duration": 3.5,
+      "text": "understand why the end goal should not"
+    },
+    {
+      "start": 1394.2,
+      "duration": 3.8,
+      "text": "be profitability isn't the goal of the"
+    },
+    {
+      "start": 1396.2,
+      "duration": 5.0,
+      "text": "businesses make more money than you"
+    },
+    {
+      "start": 1398.0,
+      "duration": 4.6,
+      "text": "spend look it absolutely I have in the"
+    },
+    {
+      "start": 1401.1,
+      "duration": 4.1,
+      "text": "past"
+    },
+    {
+      "start": 1402.5,
+      "duration": 4.4,
+      "text": "run cash FL Break Even business I've run"
+    },
+    {
+      "start": 1405.2,
+      "duration": 2.8,
+      "text": "businesses that were reliant on venture"
+    },
+    {
+      "start": 1406.9,
+      "duration": 2.6,
+      "text": "capital and I've run businesses that"
+    },
+    {
+      "start": 1408.0,
+      "duration": 3.4,
+      "text": "were very profitable I've run businesses"
+    },
+    {
+      "start": 1409.5,
+      "duration": 3.6,
+      "text": "that made millions of dollars in profits"
+    },
+    {
+      "start": 1411.4,
+      "duration": 3.8,
+      "text": "per year"
+    },
+    {
+      "start": 1413.2,
+      "duration": 4.0,
+      "text": "and so I'll answer the question to you"
+    },
+    {
+      "start": 1415.2,
+      "duration": 4.0,
+      "text": "full if you can create a business that"
+    },
+    {
+      "start": 1417.2,
+      "duration": 4.1,
+      "text": "generates millions of dollars per year"
+    },
+    {
+      "start": 1419.2,
+      "duration": 4.8,
+      "text": "in your pocket that's something to think"
+    },
+    {
+      "start": 1421.3,
+      "duration": 4.6,
+      "text": "about like if like in the devops tools"
+    },
+    {
+      "start": 1424.0,
+      "duration": 4.6,
+      "text": "like for a while a lot of folks made fun"
+    },
+    {
+      "start": 1425.9,
+      "duration": 5.6,
+      "text": "of base camp okay because alas because"
+    },
+    {
+      "start": 1428.6,
+      "duration": 4.5,
+      "text": "alasan and base camp and others in the"
+    },
+    {
+      "start": 1431.5,
+      "duration": 3.6,
+      "text": "early days were huge competitors atas"
+    },
+    {
+      "start": 1433.2,
+      "duration": 3.6,
+      "text": "in's worth What Now 60 billion right and"
+    },
+    {
+      "start": 1435.1,
+      "duration": 5.2,
+      "text": "people like to say oh this base camp"
+    },
+    {
+      "start": 1436.7,
+      "duration": 5.2,
+      "text": "idea of being profitable and lean those"
+    },
+    {
+      "start": 1440.2,
+      "duration": 4.7,
+      "text": "guys are losers they don't say that"
+    },
+    {
+      "start": 1442.0,
+      "duration": 4.6,
+      "text": "anymore right because every year base"
+    },
+    {
+      "start": 1445.0,
+      "duration": 4.8,
+      "text": "camp has made the founders like $2"
+    },
+    {
+      "start": 1446.6,
+      "duration": 5.1,
+      "text": "million a year for 20 years they own"
+    },
+    {
+      "start": 1449.8,
+      "duration": 4.7,
+      "text": "even 10 years ago they bought a villa in"
+    },
+    {
+      "start": 1451.6,
+      "duration": 5.2,
+      "text": "Italy to race their Pagan okay what's up"
+    },
+    {
+      "start": 1454.5,
+      "duration": 4.4,
+      "text": "Pagani like $4 million I think they like"
+    },
+    {
+      "start": 1456.8,
+      "duration": 3.8,
+      "text": "bought like the first four street legal"
+    },
+    {
+      "start": 1458.9,
+      "duration": 3.4,
+      "text": "ones and then they bought a villa to"
+    },
+    {
+      "start": 1460.6,
+      "duration": 4.3,
+      "text": "race it in because base camp made so"
+    },
+    {
+      "start": 1462.2,
+      "duration": 4.8,
+      "text": "much money okay so like that can work"
+    },
+    {
+      "start": 1465.0,
+      "duration": 4.7,
+      "text": "right and so can and listen making a lot"
+    },
+    {
+      "start": 1467.1,
+      "duration": 5.8,
+      "text": "of money in your own company can work"
+    },
+    {
+      "start": 1469.6,
+      "duration": 4.9,
+      "text": "right but it doesn't first of all the"
+    },
+    {
+      "start": 1472.8,
+      "duration": 3.8,
+      "text": "math doesn't pencil out for VCS they"
+    },
+    {
+      "start": 1474.5,
+      "duration": 3.5,
+      "text": "can't invest looking for hundred or"
+    },
+    {
+      "start": 1476.6,
+      "duration": 3.8,
+      "text": "thousand extra returns for a share of"
+    },
+    {
+      "start": 1478.0,
+      "duration": 5.2,
+      "text": "the profits right you're not Venture"
+    },
+    {
+      "start": 1480.4,
+      "duration": 4.5,
+      "text": "back if you're profitable that's just"
+    },
+    {
+      "start": 1483.2,
+      "duration": 3.3,
+      "text": "one obvious thing and if you just if you"
+    },
+    {
+      "start": 1484.9,
+      "duration": 4.2,
+      "text": "don't understand just understand VCS"
+    },
+    {
+      "start": 1486.5,
+      "duration": 5.4,
+      "text": "want to need to invest in multi-billion"
+    },
+    {
+      "start": 1489.1,
+      "duration": 4.8,
+      "text": "dollar outcomes not millions of profits"
+    },
+    {
+      "start": 1492.0,
+      "duration": 4.6,
+      "text": "multi billion dollars of Mark caps so"
+    },
+    {
+      "start": 1493.9,
+      "duration": 5.1,
+      "text": "that that's a simple answer the subtler"
+    },
+    {
+      "start": 1496.5,
+      "duration": 4.2,
+      "text": "answer is listen running base camp and"
+    },
+    {
+      "start": 1499.0,
+      "duration": 4.0,
+      "text": "making 10 million bucks a year 20 that"
+    },
+    {
+      "start": 1500.8,
+      "duration": 3.8,
+      "text": "is a dream for 99% of folks okay only a"
+    },
+    {
+      "start": 1503.0,
+      "duration": 3.9,
+      "text": "few folks want to go differently want to"
+    },
+    {
+      "start": 1504.5,
+      "duration": 4.6,
+      "text": "go bigger than that but realize that the"
+    },
+    {
+      "start": 1506.9,
+      "duration": 4.0,
+      "text": "reality is we can talk about Net Present"
+    },
+    {
+      "start": 1509.2,
+      "duration": 3.0,
+      "text": "Value we can talk about discounted cash"
+    },
+    {
+      "start": 1510.9,
+      "duration": 2.7,
+      "text": "FL analysis and all the stuff that"
+    },
+    {
+      "start": 1512.2,
+      "duration": 3.8,
+      "text": "economists look at and blah blah blah"
+    },
+    {
+      "start": 1513.6,
+      "duration": 5.4,
+      "text": "blah blah the reality is the way to make"
+    },
+    {
+      "start": 1516.0,
+      "duration": 4.8,
+      "text": "a lot of money off a startup often is"
+    },
+    {
+      "start": 1519.0,
+      "duration": 5.0,
+      "text": "for someone to buy you for a lot of"
+    },
+    {
+      "start": 1520.8,
+      "duration": 4.3,
+      "text": "money and you are purchased on a"
+    },
+    {
+      "start": 1524.0,
+      "duration": 4.5,
+      "text": "multiple of"
+    },
+    {
+      "start": 1525.2,
+      "duration": 5.0,
+      "text": "Revenue so you're not purchased listen"
+    },
+    {
+      "start": 1528.5,
+      "duration": 3.0,
+      "text": "there are small private Equity firms"
+    },
+    {
+      "start": 1530.2,
+      "duration": 3.0,
+      "text": "that will pay you three times your cash"
+    },
+    {
+      "start": 1531.5,
+      "duration": 3.5,
+      "text": "flow so if you spend 10 years building a"
+    },
+    {
+      "start": 1533.2,
+      "duration": 3.3,
+      "text": "business that makes a million in profits"
+    },
+    {
+      "start": 1535.0,
+      "duration": 2.6,
+      "text": "and someone wants to buy you for three"
+    },
+    {
+      "start": 1536.4,
+      "duration": 3.6,
+      "text": "million you think that's a great deal"
+    },
+    {
+      "start": 1537.6,
+      "duration": 4.3,
+      "text": "after a decade of your life take it okay"
+    },
+    {
+      "start": 1540.0,
+      "duration": 3.4,
+      "text": "but if you're in a hot category today"
+    },
+    {
+      "start": 1542.0,
+      "duration": 3.4,
+      "text": "you might get bought for 200 million"
+    },
+    {
+      "start": 1543.4,
+      "duration": 3.4,
+      "text": "with one million Revenue what's the"
+    },
+    {
+      "start": 1545.3,
+      "duration": 4.1,
+      "text": "better outcome 200 million or three"
+    },
+    {
+      "start": 1546.8,
+      "duration": 4.2,
+      "text": "million right the reality is and you"
+    },
+    {
+      "start": 1549.4,
+      "duration": 4.4,
+      "text": "could debate it some you could say it's"
+    },
+    {
+      "start": 1551.0,
+      "duration": 6.3,
+      "text": "Shenanigans you could mock how it works"
+    },
+    {
+      "start": 1553.8,
+      "duration": 5.3,
+      "text": "but until a certain terminal point tech"
+    },
+    {
+      "start": 1557.3,
+      "duration": 4.6,
+      "text": "companies are Valu on a revenue of"
+    },
+    {
+      "start": 1559.1,
+      "duration": 5.1,
+      "text": "multiple until a certain point and so if"
+    },
+    {
+      "start": 1561.9,
+      "duration": 3.4,
+      "text": "you're not playing that game you might"
+    },
+    {
+      "start": 1564.2,
+      "duration": 3.5,
+      "text": "make a"
+    },
+    {
+      "start": 1565.4,
+      "duration": 4.1,
+      "text": "hundredth a thousandth of what you might"
+    },
+    {
+      "start": 1567.7,
+      "duration": 3.6,
+      "text": "make if you could lean into it right"
+    },
+    {
+      "start": 1569.4,
+      "duration": 3.8,
+      "text": "that that's the reason right so there's"
+    },
+    {
+      "start": 1571.2,
+      "duration": 4.1,
+      "text": "lots of theories I'm not an economist"
+    },
+    {
+      "start": 1573.2,
+      "duration": 4.0,
+      "text": "ultimately once you're public you can do"
+    },
+    {
+      "start": 1575.4,
+      "duration": 3.3,
+      "text": "these DCF analysis and you can stop"
+    },
+    {
+      "start": 1577.2,
+      "duration": 3.8,
+      "text": "looking at air multiples and you can"
+    },
+    {
+      "start": 1578.6,
+      "duration": 4.6,
+      "text": "start looking at EPS multiples but it's"
+    },
+    {
+      "start": 1581.0,
+      "duration": 4.2,
+      "text": "a long time until it happens so thanks"
+    },
+    {
+      "start": 1583.3,
+      "duration": 6.2,
+      "text": "for the question it's a good one thank"
+    },
+    {
+      "start": 1585.2,
+      "duration": 7.5,
+      "text": "you than I for the last question cool"
+    },
+    {
+      "start": 1589.4,
+      "duration": 5.2,
+      "text": "thanks so Jason we just got to one"
+    },
+    {
+      "start": 1592.7,
+      "duration": 3.3,
+      "text": "through founder Le sales and now this"
+    },
+    {
+      "start": 1594.6,
+      "duration": 2.5,
+      "text": "year we're going to try to get from one"
+    },
+    {
+      "start": 1596.0,
+      "duration": 2.8,
+      "text": "to"
+    },
+    {
+      "start": 1597.2,
+      "duration": 4.6,
+      "text": "three the"
+    },
+    {
+      "start": 1598.8,
+      "duration": 7.2,
+      "text": "smbs hiring my first account executive"
+    },
+    {
+      "start": 1601.8,
+      "duration": 5.5,
+      "text": "now okay any any pro tips there in terms"
+    },
+    {
+      "start": 1606.0,
+      "duration": 4.0,
+      "text": "of you got the company a million"
+    },
+    {
+      "start": 1607.2,
+      "duration": 4.5,
+      "text": "yourself as the salesperson pretty much"
+    },
+    {
+      "start": 1610.0,
+      "duration": 3.9,
+      "text": "yeah mostly and what's the deal size and"
+    },
+    {
+      "start": 1611.7,
+      "duration": 3.8,
+      "text": "who's the buyer and what's the deal size"
+    },
+    {
+      "start": 1613.9,
+      "duration": 3.6,
+      "text": "we sell to a similar buyer like"
+    },
+    {
+      "start": 1615.6,
+      "duration": 5.5,
+      "text": "owner.com we sell the restaurant coffee"
+    },
+    {
+      "start": 1617.5,
+      "duration": 5.2,
+      "text": "chop average deal de SI 5K ACP well 5K"
+    },
+    {
+      "start": 1621.1,
+      "duration": 3.4,
+      "text": "is still enough that someone can make"
+    },
+    {
+      "start": 1622.7,
+      "duration": 4.0,
+      "text": "money off the sale where you're at Al"
+    },
+    {
+      "start": 1624.5,
+      "duration": 4.3,
+      "text": "I've said this so many times but yet so"
+    },
+    {
+      "start": 1626.6,
+      "duration": 2.2,
+      "text": "few"
+    },
+    {
+      "start": 1629.0,
+      "duration": 4.7,
+      "text": "listen just listen at your ACV you"
+    },
+    {
+      "start": 1632.1,
+      "duration": 3.8,
+      "text": "probably need to hire a kid the kid"
+    },
+    {
+      "start": 1633.7,
+      "duration": 4.4,
+      "text": "could be 60 or 16 right but you need to"
+    },
+    {
+      "start": 1635.9,
+      "duration": 3.9,
+      "text": "hire this is a high velocity S&B"
+    },
+    {
+      "start": 1638.1,
+      "duration": 3.4,
+      "text": "business okay I don't know whether it's"
+    },
+    {
+      "start": 1639.8,
+      "duration": 3.7,
+      "text": "outbound or inbound but you're probably"
+    },
+    {
+      "start": 1641.4,
+      "duration": 3.5,
+      "text": "not you're probably not sitting in"
+    },
+    {
+      "start": 1643.5,
+      "duration": 4.8,
+      "text": "restaurants yourself are you is it door"
+    },
+    {
+      "start": 1645.0,
+      "duration": 6.3,
+      "text": "too or is it okay so you need it so"
+    },
+    {
+      "start": 1648.3,
+      "duration": 4.2,
+      "text": "interview 30 kids and again this is not"
+    },
+    {
+      "start": 1651.2,
+      "duration": 2.8,
+      "text": "a chronological thing this is more"
+    },
+    {
+      "start": 1652.6,
+      "duration": 4.1,
+      "text": "Spirit okay you don't need a grizzled"
+    },
+    {
+      "start": 1654.0,
+      "duration": 5.7,
+      "text": "veteran okay interview 30 kids of any"
+    },
+    {
+      "start": 1656.6,
+      "duration": 4.8,
+      "text": "age and be religious about this just"
+    },
+    {
+      "start": 1659.8,
+      "duration": 3.4,
+      "text": "only hire one you would buy your own"
+    },
+    {
+      "start": 1661.5,
+      "duration": 3.4,
+      "text": "product from don't give on this I don't"
+    },
+    {
+      "start": 1663.1,
+      "duration": 3.3,
+      "text": "care whether they work to toast I don't"
+    },
+    {
+      "start": 1664.9,
+      "duration": 4.0,
+      "text": "care if they worked an owner I don't"
+    },
+    {
+      "start": 1666.4,
+      "duration": 4.8,
+      "text": "care if they were the first person in at"
+    },
+    {
+      "start": 1668.9,
+      "duration": 4.1,
+      "text": "service Titan that those are almost the"
+    },
+    {
+      "start": 1671.3,
+      "duration": 3.2,
+      "text": "worst because they're full of themselves"
+    },
+    {
+      "start": 1673.0,
+      "duration": 5.3,
+      "text": "okay or or they're not willing to do the"
+    },
+    {
+      "start": 1674.4,
+      "duration": 7.4,
+      "text": "work slow it down and if you interview"
+    },
+    {
+      "start": 1678.4,
+      "duration": 5.2,
+      "text": "or 40 you will US almost always find one"
+    },
+    {
+      "start": 1681.8,
+      "duration": 3.8,
+      "text": "often from a unique background because"
+    },
+    {
+      "start": 1683.6,
+      "duration": 5.3,
+      "text": "like you're not as well known as toast"
+    },
+    {
+      "start": 1685.6,
+      "duration": 4.6,
+      "text": "or owner or Shopify so don't expect it"
+    },
+    {
+      "start": 1688.8,
+      "duration": 3.0,
+      "text": "they're GNA have the they may have a"
+    },
+    {
+      "start": 1690.2,
+      "duration": 3.6,
+      "text": "quirky background okay they may have"
+    },
+    {
+      "start": 1691.8,
+      "duration": 3.2,
+      "text": "gotten fired after two years it's some"
+    },
+    {
+      "start": 1693.7,
+      "duration": 4.2,
+      "text": "or they they may have joined three"
+    },
+    {
+      "start": 1695.1,
+      "duration": 5.2,
+      "text": "startups that all failed okay who cares"
+    },
+    {
+      "start": 1697.9,
+      "duration": 5.1,
+      "text": "my point is go in don't be prejudiced"
+    },
+    {
+      "start": 1700.3,
+      "duration": 5.0,
+      "text": "don't be biased too much screen for a"
+    },
+    {
+      "start": 1703.0,
+      "duration": 3.9,
+      "text": "little bit of product IQ okay they don't"
+    },
+    {
+      "start": 1705.2,
+      "duration": 2.5,
+      "text": "have to be like super the smartest kid"
+    },
+    {
+      "start": 1706.9,
+      "duration": 2.9,
+      "text": "in the world but they have to have"
+    },
+    {
+      "start": 1707.7,
+      "duration": 3.8,
+      "text": "product take you they have to before you"
+    },
+    {
+      "start": 1709.8,
+      "duration": 3.4,
+      "text": "even meet them I would make sure by"
+    },
+    {
+      "start": 1711.6,
+      "duration": 4.2,
+      "text": "email they understand your value prop"
+    },
+    {
+      "start": 1713.2,
+      "duration": 3.9,
+      "text": "for real don't just take dumb meetings"
+    },
+    {
+      "start": 1715.8,
+      "duration": 2.6,
+      "text": "like why do you think some just I just"
+    },
+    {
+      "start": 1717.2,
+      "duration": 2.9,
+      "text": "got one question before we get on the"
+    },
+    {
+      "start": 1718.4,
+      "duration": 4.1,
+      "text": "phone why do you think a restaurant"
+    },
+    {
+      "start": 1720.1,
+      "duration": 4.3,
+      "text": "would use us if the answer is terrible"
+    },
+    {
+      "start": 1722.4,
+      "duration": 3.8,
+      "text": "do not take the meeting do not waste you"
+    },
+    {
+      "start": 1724.4,
+      "duration": 3.2,
+      "text": "have not enough time if they give you a"
+    },
+    {
+      "start": 1726.3,
+      "duration": 3.0,
+      "text": "good answer no matter what their"
+    },
+    {
+      "start": 1727.6,
+      "duration": 3.0,
+      "text": "background is don't be prejudiced don't"
+    },
+    {
+      "start": 1729.2,
+      "duration": 3.4,
+      "text": "be biased no matter if they give you a"
+    },
+    {
+      "start": 1730.6,
+      "duration": 4.8,
+      "text": "background that's a hint then take up"
+    },
+    {
+      "start": 1732.6,
+      "duration": 5.0,
+      "text": "the call and over the next two to three"
+    },
+    {
+      "start": 1735.5,
+      "duration": 4.5,
+      "text": "screens ask yourself what you buy from"
+    },
+    {
+      "start": 1737.7,
+      "duration": 3.6,
+      "text": "them would you buy from them and I've"
+    },
+    {
+      "start": 1740.0,
+      "duration": 3.2,
+      "text": "written this post a couple times at"
+    },
+    {
+      "start": 1741.3,
+      "duration": 4.9,
+      "text": "saster everyone has this magical first"
+    },
+    {
+      "start": 1743.2,
+      "duration": 4.1,
+      "text": "sales rep okay that somehow out of all"
+    },
+    {
+      "start": 1746.2,
+      "duration": 2.6,
+      "text": "the folks they are the one that could"
+    },
+    {
+      "start": 1747.2,
+      "duration": 2.8,
+      "text": "sell the product in the early days okay"
+    },
+    {
+      "start": 1748.7,
+      "duration": 2.9,
+      "text": "and there's different versions of but if"
+    },
+    {
+      "start": 1750.0,
+      "duration": 3.1,
+      "text": "you T if you want to have fun anytime"
+    },
+    {
+      "start": 1751.6,
+      "duration": 2.9,
+      "text": "you talk to a Founder north of 10"
+    },
+    {
+      "start": 1753.1,
+      "duration": 3.6,
+      "text": "million ask them if they had a magical"
+    },
+    {
+      "start": 1754.6,
+      "duration": 3.0,
+      "text": "sales rep and what the secret was okay"
+    },
+    {
+      "start": 1756.6,
+      "duration": 2.1,
+      "text": "and you'll hear all different"
+    },
+    {
+      "start": 1757.5,
+      "duration": 3.8,
+      "text": "backgrounds I could share the background"
+    },
+    {
+      "start": 1758.7,
+      "duration": 5.9,
+      "text": "of mine but the one thing is they're"
+    },
+    {
+      "start": 1761.3,
+      "duration": 5.7,
+      "text": "usually product sants right and they"
+    },
+    {
+      "start": 1764.6,
+      "duration": 3.9,
+      "text": "just love the mission they know the"
+    },
+    {
+      "start": 1767.0,
+      "duration": 3.5,
+      "text": "product and they know the mission they"
+    },
+    {
+      "start": 1768.6,
+      "duration": 4.8,
+      "text": "they're often mediocre at"
+    },
+    {
+      "start": 1770.5,
+      "duration": 4.2,
+      "text": "sales not always but they're often mid"
+    },
+    {
+      "start": 1773.4,
+      "duration": 4.2,
+      "text": "pack they're not they don't have all the"
+    },
+    {
+      "start": 1774.6,
+      "duration": 6.1,
+      "text": "great tactics in the games and they but"
+    },
+    {
+      "start": 1777.6,
+      "duration": 5.2,
+      "text": "man and I had this guy his name was Joe"
+    },
+    {
+      "start": 1780.8,
+      "duration": 3.8,
+      "text": "klei of all the guys I interviewed I"
+    },
+    {
+      "start": 1782.8,
+      "duration": 3.2,
+      "text": "didn't get it at the time but my"
+    },
+    {
+      "start": 1784.6,
+      "duration": 3.2,
+      "text": "co-founder came into my office almost"
+    },
+    {
+      "start": 1786.0,
+      "duration": 3.7,
+      "text": "yelling you gotta hire this guy Joe I'm"
+    },
+    {
+      "start": 1787.8,
+      "duration": 5.0,
+      "text": "like I don't know man like his"
+    },
+    {
+      "start": 1789.7,
+      "duration": 4.8,
+      "text": "background's weird and it's just there's"
+    },
+    {
+      "start": 1792.8,
+      "duration": 3.0,
+      "text": "some seems like a nice guy but I don't"
+    },
+    {
+      "start": 1794.5,
+      "duration": 2.9,
+      "text": "get his know this is the best I didn't"
+    },
+    {
+      "start": 1795.8,
+      "duration": 3.4,
+      "text": "get at the time it's because he knew he"
+    },
+    {
+      "start": 1797.4,
+      "duration": 3.5,
+      "text": "already knew the product the mission the"
+    },
+    {
+      "start": 1799.2,
+      "duration": 4.0,
+      "text": "value prop cold no one else could in the"
+    },
+    {
+      "start": 1800.9,
+      "duration": 3.8,
+      "text": "first 30 and then I'll fast forward you"
+    },
+    {
+      "start": 1803.2,
+      "duration": 3.1,
+      "text": "that next year at dreamforce not that"
+    },
+    {
+      "start": 1804.8,
+      "duration": 2.8,
+      "text": "much longer is it dreamforce this just"
+    },
+    {
+      "start": 1806.3,
+      "duration": 3.8,
+      "text": "Salesforce is big thing we were"
+    },
+    {
+      "start": 1807.6,
+      "duration": 4.9,
+      "text": "exhibiting there and this huge sales guy"
+    },
+    {
+      "start": 1810.1,
+      "duration": 3.6,
+      "text": "must have been like six5 huge Bulan I"
+    },
+    {
+      "start": 1812.4,
+      "duration": 3.2,
+      "text": "think it might have been a Kel's cousin"
+    },
+    {
+      "start": 1813.7,
+      "duration": 4.1,
+      "text": "or something like that big guy he grabs"
+    },
+    {
+      "start": 1815.6,
+      "duration": 3.8,
+      "text": "me walking into dream force and grabs me"
+    },
+    {
+      "start": 1817.8,
+      "duration": 3.3,
+      "text": "by my shirt he's because I had a I had a"
+    },
+    {
+      "start": 1819.4,
+      "duration": 3.3,
+      "text": "a company sweatshirt ecosan he grabs Me"
+    },
+    {
+      "start": 1821.1,
+      "duration": 3.9,
+      "text": "by do you work at echos sign I'm like"
+    },
+    {
+      "start": 1822.7,
+      "duration": 4.0,
+      "text": "yeah I'm the founder you know Joe klei"
+    },
+    {
+      "start": 1825.0,
+      "duration": 5.6,
+      "text": "I'm like yeah he's our he's on our sales"
+    },
+    {
+      "start": 1826.7,
+      "duration": 6.6,
+      "text": "team of one he's on our Sal I love Joe I"
+    },
+    {
+      "start": 1830.5,
+      "duration": 5.2,
+      "text": "love him that's who you want okay and"
+    },
+    {
+      "start": 1833.3,
+      "duration": 4.8,
+      "text": "it's not so much that Joe was lovable"
+    },
+    {
+      "start": 1835.7,
+      "duration": 4.4,
+      "text": "it's that he knew this product cold"
+    },
+    {
+      "start": 1838.2,
+      "duration": 3.3,
+      "text": "right and so when the when you finally"
+    },
+    {
+      "start": 1840.1,
+      "duration": 2.5,
+      "text": "get a prospect and you don't have enough"
+    },
+    {
+      "start": 1841.5,
+      "duration": 2.6,
+      "text": "leads in the early days you don't have"
+    },
+    {
+      "start": 1842.6,
+      "duration": 3.5,
+      "text": "enough Pro you're not overflowing with"
+    },
+    {
+      "start": 1844.0,
+      "duration": 3.8,
+      "text": "them right you need that sales rep that"
+    },
+    {
+      "start": 1846.0,
+      "duration": 4.2,
+      "text": "the customers are going to not just love"
+    },
+    {
+      "start": 1847.8,
+      "duration": 4.8,
+      "text": "but trust like they trusted Joe they"
+    },
+    {
+      "start": 1850.3,
+      "duration": 4.2,
+      "text": "trust to architect a solution to their"
+    },
+    {
+      "start": 1852.6,
+      "duration": 4.6,
+      "text": "problem and you've already closed a"
+    },
+    {
+      "start": 1854.5,
+      "duration": 5.0,
+      "text": "million of Revenue so I'll end it saying"
+    },
+    {
+      "start": 1857.2,
+      "duration": 5.0,
+      "text": "oh for yeah I don't care where they came"
+    },
+    {
+      "start": 1859.5,
+      "duration": 5.0,
+      "text": "from if they graduated from high school"
+    },
+    {
+      "start": 1862.2,
+      "duration": 3.8,
+      "text": "whether they dress weird whatever their"
+    },
+    {
+      "start": 1864.5,
+      "duration": 4.0,
+      "text": "problems are if if they don't bathe"
+    },
+    {
+      "start": 1866.0,
+      "duration": 5.7,
+      "text": "often enough that one that you would buy"
+    },
+    {
+      "start": 1868.5,
+      "duration": 4.6,
+      "text": "from hire her or him and don't hire"
+    },
+    {
+      "start": 1871.7,
+      "duration": 3.3,
+      "text": "anybody else or they'll be gone they'll"
+    },
+    {
+      "start": 1873.1,
+      "duration": 4.2,
+      "text": "close nothing they'll close nothing and"
+    },
+    {
+      "start": 1875.0,
+      "duration": 3.8,
+      "text": "even worse what will happen is you will"
+    },
+    {
+      "start": 1877.3,
+      "duration": 3.9,
+      "text": "quickly not even give them the leads"
+    },
+    {
+      "start": 1878.8,
+      "duration": 4.3,
+      "text": "because you'll see Revenue go down"
+    },
+    {
+      "start": 1881.2,
+      "duration": 4.4,
+      "text": "you'll see Revenue go down right so I"
+    },
+    {
+      "start": 1883.1,
+      "duration": 4.3,
+      "text": "hired that one guy Joe he and I got to 2"
+    },
+    {
+      "start": 1885.5,
+      "duration": 4.2,
+      "text": "million revenue and then I hired my"
+    },
+    {
+      "start": 1887.4,
+      "duration": 4.7,
+      "text": "first VP Sal from Salesforce he hired 10"
+    },
+    {
+      "start": 1889.7,
+      "duration": 3.6,
+      "text": "people all of them except Sam blonde who"
+    },
+    {
+      "start": 1892.1,
+      "duration": 2.7,
+      "text": "have done a lot with them became brecks"
+    },
+    {
+      "start": 1893.4,
+      "duration": 4.3,
+      "text": "all of them all the other nine clothes"
+    },
+    {
+      "start": 1894.8,
+      "duration": 4.6,
+      "text": "nothing and with 10 people that VP sales"
+    },
+    {
+      "start": 1897.6,
+      "duration": 4.2,
+      "text": "closed less than me and Joe"
+    },
+    {
+      "start": 1899.4,
+      "duration": 4.0,
+      "text": "did they all were came from the right"
+    },
+    {
+      "start": 1901.9,
+      "duration": 3.1,
+      "text": "places and they all checked the boxes"
+    },
+    {
+      "start": 1903.4,
+      "duration": 3.4,
+      "text": "and many of them were reasonably"
+    },
+    {
+      "start": 1905.0,
+      "duration": 3.8,
+      "text": "attractive and fun to go out for drinks"
+    },
+    {
+      "start": 1906.8,
+      "duration": 4.5,
+      "text": "with but they never knew the product and"
+    },
+    {
+      "start": 1908.8,
+      "duration": 4.5,
+      "text": "so we lost all of them except Sam lost"
+    },
+    {
+      "start": 1911.3,
+      "duration": 3.3,
+      "text": "100% of the deals to docy sign back then"
+    },
+    {
+      "start": 1913.3,
+      "duration": 3.3,
+      "text": "100% because they didn't know the"
+    },
+    {
+      "start": 1914.6,
+      "duration": 3.3,
+      "text": "product this was too early in the space"
+    },
+    {
+      "start": 1916.6,
+      "duration": 2.6,
+      "text": "the space was not matured they're not"
+    },
+    {
+      "start": 1918.0,
+      "duration": 2.4,
+      "text": "going to buy from someone that they"
+    },
+    {
+      "start": 1919.2,
+      "duration": 4.0,
+      "text": "don't know we didn't have this great"
+    },
+    {
+      "start": 1920.4,
+      "duration": 4.2,
+      "text": "brand right but when it was me or Joe we"
+    },
+    {
+      "start": 1923.1,
+      "duration": 3.4,
+      "text": "closed them and then when Brendan came"
+    },
+    {
+      "start": 1924.6,
+      "duration": 3.4,
+      "text": "back in and Sam did it then we could"
+    },
+    {
+      "start": 1926.5,
+      "duration": 4.0,
+      "text": "beat them in most deals right but they"
+    },
+    {
+      "start": 1928.0,
+      "duration": 4.6,
+      "text": "lost zero they closed nothing these nine"
+    },
+    {
+      "start": 1930.5,
+      "duration": 3.6,
+      "text": "reps nothing and I wouldn't have bought"
+    },
+    {
+      "start": 1932.6,
+      "duration": 3.4,
+      "text": "from them I wouldn't have bought from"
+    },
+    {
+      "start": 1934.1,
+      "duration": 4.3,
+      "text": "them but later when you scale then we"
+    },
+    {
+      "start": 1936.0,
+      "duration": 4.6,
+      "text": "can break when you scale you need a"
+    },
+    {
+      "start": 1938.4,
+      "duration": 5.4,
+      "text": "divver a more heterogeneous team you"
+    },
+    {
+      "start": 1940.6,
+      "duration": 5.4,
+      "text": "need folks you wouldn't buy from go talk"
+    },
+    {
+      "start": 1943.7,
+      "duration": 4.8,
+      "text": "to a tow WP you wouldn't buy from most"
+    },
+    {
+      "start": 1945.9,
+      "duration": 4.7,
+      "text": "toast stps okay but toast how ref is to"
+    },
+    {
+      "start": 1948.5,
+      "duration": 4.3,
+      "text": "to have a thousand or something like you"
+    },
+    {
+      "start": 1950.6,
+      "duration": 3.8,
+      "text": "your sales team will figure out how to"
+    },
+    {
+      "start": 1952.8,
+      "duration": 3.1,
+      "text": "train and onboard and then you'll have a"
+    },
+    {
+      "start": 1954.4,
+      "duration": 3.6,
+      "text": "brand and the brand will do a lot of the"
+    },
+    {
+      "start": 1956.0,
+      "duration": 5.7,
+      "text": "work for you and stuff but you ain't"
+    },
+    {
+      "start": 1958.0,
+      "duration": 4.9,
+      "text": "there triple redundant interview 30"
+    },
+    {
+      "start": 1961.7,
+      "duration": 2.6,
+      "text": "there's probably only one you'll buy"
+    },
+    {
+      "start": 1962.9,
+      "duration": 4.2,
+      "text": "your own product from make them even do"
+    },
+    {
+      "start": 1964.2,
+      "duration": 7.2,
+      "text": "a demo hire her him you will not fail"
+    },
+    {
+      "start": 1967.0,
+      "duration": 4.4,
+      "text": "thanks everybody see you next week"
+    }
+  ]
+}
