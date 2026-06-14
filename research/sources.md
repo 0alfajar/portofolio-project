@@ -9,10 +9,11 @@
 ---
 
 ## 1. Marlon Doll
-**Role:** Founder & CEO, Vireo Video (YouTube Marketing Agency)
-**YouTube:** https://www.youtube.com/@VireoVideo
-**LinkedIn:** https://ca.linkedin.com/in/marlondoll
-**Why chosen:** YouTube Certified Consultant (Audience Growth + Digital Rights). Google Partner agency. Former BBTV — built partnerships with Sony Pictures, Viacom, Warner Bros. Specifically focuses on SaaS/brand YouTube strategy. One of the few agencies that targets B2B SaaS YouTube growth specifically.
+- **Role:** Founder & CEO, Vireo Video (YouTube Marketing Agency)
+- **YouTube:** https://www.youtube.com/@VireoVideo
+- **LinkedIn:** https://ca.linkedin.com/in/marlondoll
+- **Why chosen:** YouTube Certified Consultant (Audience Growth + Digital Rights). Google Partner agency. Former BBTV — built partnerships with Sony Pictures, Viacom, Warner Bros. Specifically focuses on SaaS/brand YouTube strategy. One of the few agencies that targets B2B SaaS YouTube growth specifically.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -26,10 +27,11 @@
 ---
 
 ## 2. Dan Martell
-**Role:** Founder, SaaS Academy; 3x startup exits; Angel investor (60+ startups incl. Intercom, Udemy)
-**YouTube:** https://www.youtube.com/@danmartell (~2.8M subscribers, 344M+ views)
-**LinkedIn:** https://www.linkedin.com/in/danmartell
-**Why chosen:** Self-described "#1 YouTuber for SaaS businesses." Grew from 100K to 1M subs in 18 months. Author of WSJ bestseller "Buy Back Your Time." Runs Big Band Software (portfolio of SaaS companies). Proves YouTube works as a SaaS growth channel at massive scale.
+- **Role:** Founder, SaaS Academy; 3x startup exits; Angel investor (60+ startups incl. Intercom, Udemy)
+- **YouTube:** https://www.youtube.com/@danmartell (~2.8M subscribers, 344M+ views)
+- **LinkedIn:** https://www.linkedin.com/in/danmartell
+- **Why chosen:** Self-described "#1 YouTuber for SaaS businesses." Grew from 100K to 1M subs in 18 months. Author of WSJ bestseller "Buy Back Your Time." Runs Big Band Software (portfolio of SaaS companies). Proves YouTube works as a SaaS growth channel at massive scale.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -41,10 +43,11 @@
 ---
 
 ## 3. TK Kader
-**Role:** Founder, Unstoppable (SaaS GTM advisory); Managing Partner, TK Capital; ex-Bridgewater; founded ToutApp (backed by a16z, acquired by Marketo/Adobe)
-**YouTube:** https://www.youtube.com/@TKKader
-**LinkedIn:** https://www.linkedin.com/in/tkkader
-**Why chosen:** Helped 14+ companies reach $1M ARR, 6+ reach $3M ARR. Weekly "Unstoppable Sunday" videos specifically for B2B SaaS founders scaling to $10M+ ARR. International best-selling author. One of the most consistent B2B SaaS YouTube creators.
+- **Role:** Founder, Unstoppable (SaaS GTM advisory); Managing Partner, TK Capital; ex-Bridgewater; founded ToutApp (backed by a16z, acquired by Marketo/Adobe)
+- **YouTube:** https://www.youtube.com/@TKKader
+- **LinkedIn:** https://www.linkedin.com/in/tkkader
+- **Why chosen:** Helped 14+ companies reach $1M ARR, 6+ reach $3M ARR. Weekly "Unstoppable Sunday" videos specifically for B2B SaaS founders scaling to $10M+ ARR. International best-selling author. One of the most consistent B2B SaaS YouTube creators.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -58,10 +61,11 @@
 ---
 
 ## 4. Rob Walling
-**Role:** Founder, MicroConf (largest bootstrapped SaaS community); Founder, TinySeed (first startup accelerator for bootstrapped SaaS); Built & exited Drip
-**YouTube:** https://www.youtube.com/@RobWalling (~120K subscribers)
-**LinkedIn:** https://www.linkedin.com/in/robwalling
-**Why chosen:** Nearly two decades building/acquiring SaaS. Author of "The SaaS Playbook." Invested in 200+ startups. His channel is a masterclass in consistent B2B SaaS content — proves long-form educational YouTube works for niche audiences.
+- **Role:** Founder, MicroConf (largest bootstrapped SaaS community); Founder, TinySeed (first startup accelerator for bootstrapped SaaS); Built & exited Drip
+- **YouTube:** https://www.youtube.com/@RobWalling (~120K subscribers)
+- **LinkedIn:** https://www.linkedin.com/in/robwalling
+- **Why chosen:** Nearly two decades building/acquiring SaaS. Author of "The SaaS Playbook." Invested in 200+ startups. His channel is a masterclass in consistent B2B SaaS content — proves long-form educational YouTube works for niche audiences.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -74,10 +78,11 @@
 ---
 
 ## 5. Vasco Aires (Top Case Study)
-**Role:** Co-Founder, Arvow (AI SEO SaaS, bootstrapped to $79K MRR / $1M+ revenue)
-**YouTube:** https://www.youtube.com/@VascoAiresChannel (~7.4K subscribers)
-**LinkedIn:** https://www.linkedin.com/in/vascoamonteiro
-**Why chosen:** THE case study for "grew SaaS purely via YouTube." Bootstrapped Arvow from $0 → $1M using YouTube as PRIMARY growth channel. Documents entire strategy publicly. Shows that even small channels (7K subs) can drive massive SaaS revenue.
+- **Role:** Co-Founder, Arvow (AI SEO SaaS, bootstrapped to $79K MRR / $1M+ revenue)
+- **YouTube:** https://www.youtube.com/@VascoAiresChannel (~7.4K subscribers)
+- **LinkedIn:** https://www.linkedin.com/in/vascoamonteiro
+- **Why chosen:** THE case study for "grew SaaS purely via YouTube." Bootstrapped Arvow from $0 → $1M using YouTube as PRIMARY growth channel. Documents entire strategy publicly. Shows that even small channels (7K subs) can drive massive SaaS revenue.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -90,10 +95,11 @@
 ---
 
 ## 6. Arvid Kahl
-**Role:** Founder, The Bootstrapped Founder; Co-founded & sold FeedbackPanda (EdTech SaaS, $55K MRR); Building Podscan.fm
-**YouTube:** https://www.youtube.com/@TheBootstrappedFounder
-**LinkedIn:** https://ca.linkedin.com/in/arvidkahl
-**Why chosen:** Author of "Zero to Sold." Multi-format creator who documents audience-building and content marketing for SaaS founders. Teaches building in public as a growth strategy.
+- **Role:** Founder, The Bootstrapped Founder; Co-founded & sold FeedbackPanda (EdTech SaaS, $55K MRR); Building Podscan.fm
+- **YouTube:** https://www.youtube.com/@TheBootstrappedFounder
+- **LinkedIn:** https://ca.linkedin.com/in/arvidkahl
+- **Why chosen:** Author of "Zero to Sold." Multi-format creator who documents audience-building and content marketing for SaaS founders. Teaches building in public as a growth strategy.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -106,10 +112,11 @@
 ---
 
 ## 7. Jason Lemkin
-**Role:** Founder & CEO, SaaStr (world's largest B2B SaaS community — 10K+ person annual conference); SaaStr Fund (VC); Co-founded EchoSign (scaled to $100M+ ARR, acquired by Adobe)
-**YouTube:** https://www.youtube.com/@Saastr (~30K subscribers)
-**LinkedIn:** https://www.linkedin.com/in/jasonmlemkin
-**Why chosen:** THE most influential B2B SaaS community builder globally. $200M+ deployed as investor. SaaStr channel showcases how a SaaS community uses YouTube for authority-building and conference content distribution.
+- **Role:** Founder & CEO, SaaStr (world's largest B2B SaaS community — 10K+ person annual conference); SaaStr Fund (VC); Co-founded EchoSign (scaled to $100M+ ARR, acquired by Adobe)
+- **YouTube:** https://www.youtube.com/@Saastr (~30K subscribers)
+- **LinkedIn:** https://www.linkedin.com/in/jasonmlemkin
+- **Why chosen:** THE most influential B2B SaaS community builder globally. $200M+ deployed as investor. SaaStr channel showcases how a SaaS community uses YouTube for authority-building and conference content distribution.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -122,10 +129,11 @@
 ---
 
 ## 8. Nathan Latka
-**Role:** CEO, GetLatka (SaaS company database — 90K+ companies tracked); Host, "The Top Entrepreneurs" podcast (2,100+ interviews)
-**YouTube:** https://www.youtube.com/c/NathanLatkawatch (~42K subscribers)
-**LinkedIn:** https://www.linkedin.com/in/nathanlatka
-**Why chosen:** The definitive SaaS revenue data source. Every interview reveals real ARR, MRR, churn, CAC, LTV data. Demonstrates how data-driven YouTube content creates massive authority in B2B SaaS.
+- **Role:** CEO, GetLatka (SaaS company database — 90K+ companies tracked); Host, "The Top Entrepreneurs" podcast (2,100+ interviews)
+- **YouTube:** https://www.youtube.com/c/NathanLatkawatch (~42K subscribers)
+- **LinkedIn:** https://www.linkedin.com/in/nathanlatka
+- **Why chosen:** The definitive SaaS revenue data source. Every interview reveals real ARR, MRR, churn, CAC, LTV data. Demonstrates how data-driven YouTube content creates massive authority in B2B SaaS.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -137,10 +145,11 @@
 ---
 
 ## 9. Joran Hofman
-**Role:** Founder, Reditus (B2B SaaS affiliate management platform); Host, "Grow Your B2B SaaS" series
-**YouTube:** https://www.youtube.com/@getreditus
-**LinkedIn:** https://nl.linkedin.com/in/b2b-saas-growth
-**Why chosen:** Practitioner-founder who built Reditus while documenting B2B SaaS growth tactics. 6 seasons of expert interviews (20+ guests per season). Covers growth from 10K MRR to 10M ARR with real operators. Shows how to use YouTube as content engine for a niche SaaS.
+- **Role:** Founder, Reditus (B2B SaaS affiliate management platform); Host, "Grow Your B2B SaaS" series
+- **YouTube:** https://www.youtube.com/@getreditus
+- **LinkedIn:** https://nl.linkedin.com/in/b2b-saas-growth
+- **Why chosen:** Practitioner-founder who built Reditus while documenting B2B SaaS growth tactics. 6 seasons of expert interviews (20+ guests per season). Covers growth from 10K MRR to 10M ARR with real operators. Shows how to use YouTube as content engine for a niche SaaS.
+
 
 ### Key Videos:
 | Video | URL | Date |
@@ -153,10 +162,11 @@
 ---
 
 ## 10. Josef Newton & Sergey Ross
-**Role:** Co-Founders, Sway One (B2B SaaS video production & strategy agency). Clients: JustCall, Primer, PortSwigger
-**YouTube:** https://www.youtube.com/@swayonevideo
-**LinkedIn:** https://www.linkedin.com/in/josef-newton
-**Why chosen:** Specialist B2B SaaS video agency. Published research report on B2B podcasts going video-first. Podcast "Video First" focused on B2B SaaS video strategy. Published "8 Expert Insights About Mastering YouTube As a B2B SaaS Company" playbook. Directly serves the intersection of YouTube + B2B SaaS.
+- **Role:** Co-Founders, Sway One (B2B SaaS video production & strategy agency). Clients: JustCall, Primer, PortSwigger
+- **YouTube:** https://www.youtube.com/@swayonevideo
+- **LinkedIn:** https://www.linkedin.com/in/josef-newton
+- **Why chosen:** Specialist B2B SaaS video agency. Published research report on B2B podcasts going video-first. Podcast "Video First" focused on B2B SaaS video strategy. Published "8 Expert Insights About Mastering YouTube As a B2B SaaS Company" playbook. Directly serves the intersection of YouTube + B2B SaaS.
+
 
 ### Key Content:
 > Note: Only one item below is a direct YouTube video with transcript: `NFAg8OM4C84`. Other items are podcast, LinkedIn, or article materials saved/summarized under `/research/other/` and `/research/linkedin-posts/`.
