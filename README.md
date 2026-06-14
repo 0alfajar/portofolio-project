@@ -103,16 +103,6 @@ The video/source inventory is included here:
 research/other/video_inventory.csv
 ```
 
-## Important note about Josef Newton / Sway One
-
-The Josef Newton section includes four source materials, but only one is a direct YouTube video with a transcript:
-
-```text
-NFAg8OM4C84
-```
-
-The other Josef/Sway One materials are a podcast, a LinkedIn post, and an article. They are included as supplementary research, not as transcript files. This is also documented in `research/other/video_inventory.csv`.
-
 ## Early research themes
 
 The main patterns found so far:
