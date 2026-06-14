@@ -1,0 +1,2586 @@
+{
+  "video_id": "5xt6S5mes-I",
+  "title": "Vibe Coding Wont Kill SaaS",
+  "segments": [
+    {
+      "start": 0.5,
+      "duration": 5.7,
+      "text": "Hey, it's Arvid and this is the"
+    },
+    {
+      "start": 2.6,
+      "duration": 3.6,
+      "text": "Bootstrap founder."
+    },
+    {
+      "start": 9.4,
+      "duration": 4.6,
+      "text": "I really want to clean up a little bit"
+    },
+    {
+      "start": 11.9,
+      "duration": 4.6,
+      "text": "when it comes to VIP coding and software"
+    },
+    {
+      "start": 14.0,
+      "duration": 4.4,
+      "text": "as a service businesses because I think"
+    },
+    {
+      "start": 16.5,
+      "duration": 5.0,
+      "text": "there's a lot of confusion, just a lot"
+    },
+    {
+      "start": 18.4,
+      "duration": 5.7,
+      "text": "of hype and a lot of complaints about"
+    },
+    {
+      "start": 21.5,
+      "duration": 5.3,
+      "text": "the imminent demise of software as a"
+    },
+    {
+      "start": 24.1,
+      "duration": 5.4,
+      "text": "service businesses and solutions. I"
+    },
+    {
+      "start": 26.8,
+      "duration": 4.2,
+      "text": "think it's time that we have a voice out"
+    },
+    {
+      "start": 29.4,
+      "duration": 3.1,
+      "text": "here that's not a doomer. And I know"
+    },
+    {
+      "start": 31.0,
+      "duration": 4.9,
+      "text": "there are some people who are more"
+    },
+    {
+      "start": 32.6,
+      "duration": 5.7,
+      "text": "pragmatic about this, but a lot of it"
+    },
+    {
+      "start": 35.9,
+      "duration": 5.0,
+      "text": "out there right now is just so"
+    },
+    {
+      "start": 38.2,
+      "duration": 4.9,
+      "text": "apocalyptical. It's crazy. I'm certainly"
+    },
+    {
+      "start": 41.0,
+      "duration": 4.1,
+      "text": "not an apologist for the software as a"
+    },
+    {
+      "start": 43.1,
+      "duration": 4.5,
+      "text": "service movement either. Like not all"
+    },
+    {
+      "start": 45.0,
+      "duration": 5.7,
+      "text": "about it is great. But giving some"
+    },
+    {
+      "start": 47.6,
+      "duration": 5.0,
+      "text": "realistic expectations of where we are"
+    },
+    {
+      "start": 50.7,
+      "duration": 4.7,
+      "text": "and where the field is headed is"
+    },
+    {
+      "start": 52.6,
+      "duration": 5.4,
+      "text": "probably a good idea at this point. A"
+    },
+    {
+      "start": 55.4,
+      "duration": 4.5,
+      "text": "quick word from our sponsor, paddle.com."
+    },
+    {
+      "start": 57.9,
+      "duration": 3.6,
+      "text": "I use Paddle as my merchant of record"
+    },
+    {
+      "start": 59.9,
+      "duration": 3.8,
+      "text": "for all my software projects and they"
+    },
+    {
+      "start": 61.5,
+      "duration": 3.5,
+      "text": "take care of all the taxes, currencies,"
+    },
+    {
+      "start": 63.7,
+      "duration": 3.2,
+      "text": "all the transactions when they're"
+    },
+    {
+      "start": 65.0,
+      "duration": 3.8,
+      "text": "declined and credit cards when they have"
+    },
+    {
+      "start": 66.9,
+      "duration": 4.4,
+      "text": "to be updated so I can just focus on my"
+    },
+    {
+      "start": 68.8,
+      "duration": 4.5,
+      "text": "own customers. If you would rather build"
+    },
+    {
+      "start": 71.3,
+      "duration": 4.1,
+      "text": "your product instead of dealing with all"
+    },
+    {
+      "start": 73.3,
+      "duration": 4.6,
+      "text": "of these banks and regulators, check out"
+    },
+    {
+      "start": 75.4,
+      "duration": 6.4,
+      "text": "paddle.com as your payment provider and"
+    },
+    {
+      "start": 77.9,
+      "duration": 3.8,
+      "text": "your merchant of record."
+    },
+    {
+      "start": 81.8,
+      "duration": 5.2,
+      "text": "I believe that while software as a"
+    },
+    {
+      "start": 84.5,
+      "duration": 4.0,
+      "text": "service may struggle with things like"
+    },
+    {
+      "start": 87.0,
+      "duration": 3.2,
+      "text": "subscription fatigue right now, there's"
+    },
+    {
+      "start": 88.5,
+      "duration": 4.1,
+      "text": "a lot of people who don't want to pay"
+    },
+    {
+      "start": 90.2,
+      "duration": 5.4,
+      "text": "one more thing a month or even some"
+    },
+    {
+      "start": 92.6,
+      "duration": 5.0,
+      "text": "vibecoded slop solutions are replacing"
+    },
+    {
+      "start": 95.6,
+      "duration": 4.0,
+      "text": "certain purchases that some people might"
+    },
+    {
+      "start": 97.6,
+      "duration": 3.8,
+      "text": "have been making in the past. I don't"
+    },
+    {
+      "start": 99.6,
+      "duration": 3.8,
+      "text": "think it's the end and I don't think"
+    },
+    {
+      "start": 101.4,
+      "duration": 4.6,
+      "text": "it's necessarily a bad thing for our"
+    },
+    {
+      "start": 103.4,
+      "duration": 5.3,
+      "text": "industry to be where we are right now."
+    },
+    {
+      "start": 106.0,
+      "duration": 4.7,
+      "text": "There are a couple of things that I feel"
+    },
+    {
+      "start": 108.7,
+      "duration": 3.8,
+      "text": "are significantly undervalued when"
+    },
+    {
+      "start": 110.7,
+      "duration": 3.7,
+      "text": "people look at AI and what threat it"
+    },
+    {
+      "start": 112.5,
+      "duration": 4.1,
+      "text": "might pose to the software development"
+    },
+    {
+      "start": 114.4,
+      "duration": 4.5,
+      "text": "field and the SAS field in particular."
+    },
+    {
+      "start": 116.6,
+      "duration": 4.2,
+      "text": "So let's talk about that. Most"
+    },
+    {
+      "start": 118.9,
+      "duration": 4.5,
+      "text": "importantly, I think people who believe"
+    },
+    {
+      "start": 120.7,
+      "duration": 5.1,
+      "text": "that just because you can go to bolt.new"
+    },
+    {
+      "start": 123.4,
+      "duration": 4.7,
+      "text": "or to vzero lovable whatever the tool"
+    },
+    {
+      "start": 125.8,
+      "duration": 3.8,
+      "text": "might be explain what you want and then"
+    },
+    {
+      "start": 128.1,
+      "duration": 3.2,
+      "text": "have a vibe coding tool pretty much"
+    },
+    {
+      "start": 129.6,
+      "duration": 4.2,
+      "text": "build whatever its you've just"
+    },
+    {
+      "start": 131.3,
+      "duration": 5.4,
+      "text": "explained. I don't think this is the end"
+    },
+    {
+      "start": 133.8,
+      "duration": 4.7,
+      "text": "of all software as a service. But before"
+    },
+    {
+      "start": 136.6,
+      "duration": 3.1,
+      "text": "we dive into why this is a false"
+    },
+    {
+      "start": 138.6,
+      "duration": 4.2,
+      "text": "interpretation, maybe we should"
+    },
+    {
+      "start": 139.8,
+      "duration": 5.4,
+      "text": "determine what exactly VIP coding is"
+    },
+    {
+      "start": 142.7,
+      "duration": 5.8,
+      "text": "because a lot of software developers see"
+    },
+    {
+      "start": 145.1,
+      "duration": 5.3,
+      "text": "AI and they think like vibe coding it's"
+    },
+    {
+      "start": 148.5,
+      "duration": 4.9,
+      "text": "the same thing mostly because the"
+    },
+    {
+      "start": 150.4,
+      "duration": 6.2,
+      "text": "consensus in our community is that this"
+    },
+    {
+      "start": 153.4,
+      "duration": 6.5,
+      "text": "is what it means and I don't believe so."
+    },
+    {
+      "start": 156.6,
+      "duration": 5.4,
+      "text": "VIP coding is a version a subset of AI"
+    },
+    {
+      "start": 159.8,
+      "duration": 4.2,
+      "text": "assisted software engineering. let's"
+    },
+    {
+      "start": 162.0,
+      "duration": 4.3,
+      "text": "call it an extreme version of it. But"
+    },
+    {
+      "start": 164.1,
+      "duration": 5.4,
+      "text": "not all software created through AI"
+    },
+    {
+      "start": 166.3,
+      "duration": 4.5,
+      "text": "assisted engineering is vipcoded. VIP"
+    },
+    {
+      "start": 169.4,
+      "duration": 3.4,
+      "text": "coding is when you really don't care"
+    },
+    {
+      "start": 170.8,
+      "duration": 3.9,
+      "text": "about the underlying code at all. You"
+    },
+    {
+      "start": 172.9,
+      "duration": 3.4,
+      "text": "just say what you want, the thing builds"
+    },
+    {
+      "start": 174.7,
+      "duration": 5.0,
+      "text": "and it deploys in the background and"
+    },
+    {
+      "start": 176.3,
+      "duration": 5.8,
+      "text": "then it runs, that to me is a vibe coded"
+    },
+    {
+      "start": 179.8,
+      "duration": 4.1,
+      "text": "app. But the moment you dive into the"
+    },
+    {
+      "start": 182.1,
+      "duration": 3.7,
+      "text": "code, the moment you understand it, the"
+    },
+    {
+      "start": 183.8,
+      "duration": 5.0,
+      "text": "moment you know what the components are"
+    },
+    {
+      "start": 185.8,
+      "duration": 6.5,
+      "text": "underneath the UI or the API, it's not a"
+    },
+    {
+      "start": 188.9,
+      "duration": 5.1,
+      "text": "vioded project anymore. It is at most a"
+    },
+    {
+      "start": 192.2,
+      "duration": 4.8,
+      "text": "strongly AI assisted software"
+    },
+    {
+      "start": 194.0,
+      "duration": 5.4,
+      "text": "engineering project. So here is my"
+    },
+    {
+      "start": 197.0,
+      "duration": 4.2,
+      "text": "definitatory exercise. The general"
+    },
+    {
+      "start": 199.4,
+      "duration": 4.5,
+      "text": "consensus, let's call it the"
+    },
+    {
+      "start": 201.2,
+      "duration": 5.9,
+      "text": "thinkfluencer community on Twitter and"
+    },
+    {
+      "start": 203.8,
+      "duration": 6.2,
+      "text": "other social media seems to be that VIP"
+    },
+    {
+      "start": 207.1,
+      "duration": 4.6,
+      "text": "coding is taking our jobs that it's"
+    },
+    {
+      "start": 210.0,
+      "duration": 3.3,
+      "text": "making it harder to build simple SAS"
+    },
+    {
+      "start": 211.7,
+      "duration": 2.8,
+      "text": "businesses and monetize them and that"
+    },
+    {
+      "start": 213.3,
+      "duration": 3.5,
+      "text": "people can just build these things"
+    },
+    {
+      "start": 214.5,
+      "duration": 5.2,
+      "text": "internally and be perfectly happy with"
+    },
+    {
+      "start": 216.8,
+      "duration": 5.7,
+      "text": "those solutions. I believe that that is"
+    },
+    {
+      "start": 219.7,
+      "duration": 5.9,
+      "text": "completely false because it's easy to"
+    },
+    {
+      "start": 222.5,
+      "duration": 5.8,
+      "text": "vibe code a project to some degree maybe"
+    },
+    {
+      "start": 225.6,
+      "duration": 5.7,
+      "text": "but it's incredibly hard to v code a"
+    },
+    {
+      "start": 228.2,
+      "duration": 5.0,
+      "text": "business if not impossible and I think"
+    },
+    {
+      "start": 231.3,
+      "duration": 3.7,
+      "text": "people who have never built a business"
+    },
+    {
+      "start": 233.2,
+      "duration": 4.1,
+      "text": "but who have strong opinions about"
+    },
+    {
+      "start": 235.0,
+      "duration": 4.3,
+      "text": "software engineering mistake one for the"
+    },
+    {
+      "start": 237.3,
+      "duration": 3.7,
+      "text": "other here you can build a product with"
+    },
+    {
+      "start": 239.3,
+      "duration": 3.9,
+      "text": "all kinds of features that is not a"
+    },
+    {
+      "start": 241.0,
+      "duration": 4.4,
+      "text": "problem but a business and that is the"
+    },
+    {
+      "start": 243.2,
+      "duration": 5.2,
+      "text": "main part of what software as a service"
+    },
+    {
+      "start": 245.4,
+      "duration": 4.6,
+      "text": "is service part has significantly"
+    },
+    {
+      "start": 248.4,
+      "duration": 4.5,
+      "text": "different requirements than just"
+    },
+    {
+      "start": 250.0,
+      "duration": 4.8,
+      "text": "building a software tool. In fact, I"
+    },
+    {
+      "start": 252.9,
+      "duration": 3.8,
+      "text": "think people are so focused on the"
+    },
+    {
+      "start": 254.8,
+      "duration": 3.7,
+      "text": "software aspect of the whole software as"
+    },
+    {
+      "start": 256.6,
+      "duration": 4.0,
+      "text": "a service terminology that they"
+    },
+    {
+      "start": 258.5,
+      "duration": 4.6,
+      "text": "completely forget that it was never"
+    },
+    {
+      "start": 260.6,
+      "duration": 4.4,
+      "text": "really about the software. Software as a"
+    },
+    {
+      "start": 263.1,
+      "duration": 4.4,
+      "text": "service was always about the service"
+    },
+    {
+      "start": 265.0,
+      "duration": 4.9,
+      "text": "part, always about operating the"
+    },
+    {
+      "start": 267.5,
+      "duration": 4.2,
+      "text": "software, the implementation of changes,"
+    },
+    {
+      "start": 269.9,
+      "duration": 4.5,
+      "text": "the adaptation of software to new"
+    },
+    {
+      "start": 271.8,
+      "duration": 4.2,
+      "text": "things. The actual value of a software"
+    },
+    {
+      "start": 274.4,
+      "duration": 3.8,
+      "text": "as a service business and being a"
+    },
+    {
+      "start": 276.0,
+      "duration": 5.1,
+      "text": "customer of one is that somebody is"
+    },
+    {
+      "start": 278.2,
+      "duration": 5.0,
+      "text": "running and supplying the software, not"
+    },
+    {
+      "start": 281.1,
+      "duration": 5.9,
+      "text": "that the software itself contains the"
+    },
+    {
+      "start": 283.3,
+      "duration": 5.5,
+      "text": "value. If you understand that that the"
+    },
+    {
+      "start": 287.0,
+      "duration": 3.4,
+      "text": "value of a SAS is in the service, not in"
+    },
+    {
+      "start": 288.8,
+      "duration": 4.0,
+      "text": "the software, then you know that AI"
+    },
+    {
+      "start": 290.5,
+      "duration": 4.3,
+      "text": "tooling will only ever, at least in this"
+    },
+    {
+      "start": 292.8,
+      "duration": 3.7,
+      "text": "current situation that we're in, which"
+    },
+    {
+      "start": 294.8,
+      "duration": 3.9,
+      "text": "is likely going to be true for another"
+    },
+    {
+      "start": 296.5,
+      "duration": 4.7,
+      "text": "couple years, be good at creating"
+    },
+    {
+      "start": 298.7,
+      "duration": 5.0,
+      "text": "software, but it will be very limited at"
+    },
+    {
+      "start": 301.2,
+      "duration": 5.7,
+      "text": "creating and more so maintaining"
+    },
+    {
+      "start": 303.8,
+      "duration": 5.4,
+      "text": "businesses. You can vip code a product"
+    },
+    {
+      "start": 306.9,
+      "duration": 4.6,
+      "text": "no problem and it can look and feel like"
+    },
+    {
+      "start": 309.1,
+      "duration": 3.8,
+      "text": "an actual human-built software business."
+    },
+    {
+      "start": 311.4,
+      "duration": 3.4,
+      "text": "But the moment your first customer"
+    },
+    {
+      "start": 312.9,
+      "duration": 3.9,
+      "text": "service request comes in or the moment"
+    },
+    {
+      "start": 314.8,
+      "duration": 4.2,
+      "text": "your first integration request comes in"
+    },
+    {
+      "start": 316.8,
+      "duration": 3.7,
+      "text": "or somebody has a problem with that data"
+    },
+    {
+      "start": 319.0,
+      "duration": 3.8,
+      "text": "that you might need to adjust in a"
+    },
+    {
+      "start": 320.5,
+      "duration": 4.1,
+      "text": "database or built a particular feature."
+    },
+    {
+      "start": 322.7,
+      "duration": 3.1,
+      "text": "They need a certain file format"
+    },
+    {
+      "start": 324.6,
+      "duration": 3.1,
+      "text": "supported and they make that a"
+    },
+    {
+      "start": 325.8,
+      "duration": 3.9,
+      "text": "requirement for their purchase. you're"
+    },
+    {
+      "start": 327.7,
+      "duration": 4.4,
+      "text": "going to end up in vibe coding hell"
+    },
+    {
+      "start": 329.8,
+      "duration": 4.5,
+      "text": "because the vibe coded solution operates"
+    },
+    {
+      "start": 332.1,
+      "duration": 4.3,
+      "text": "under certain assumptions that come with"
+    },
+    {
+      "start": 334.2,
+      "duration": 4.2,
+      "text": "that system on which it is built. And"
+    },
+    {
+      "start": 336.4,
+      "duration": 4.2,
+      "text": "every single feature request that you"
+    },
+    {
+      "start": 338.5,
+      "duration": 4.6,
+      "text": "get will have to change these"
+    },
+    {
+      "start": 340.6,
+      "duration": 4.6,
+      "text": "assumptions, but it won't be able to."
+    },
+    {
+      "start": 343.1,
+      "duration": 4.8,
+      "text": "And everything that your customers do or"
+    },
+    {
+      "start": 345.2,
+      "duration": 4.2,
+      "text": "want it to be will have to lead to a"
+    },
+    {
+      "start": 347.9,
+      "duration": 3.1,
+      "text": "re-evaluation of your initial"
+    },
+    {
+      "start": 349.4,
+      "duration": 3.9,
+      "text": "assumptions. And these VIP coding"
+    },
+    {
+      "start": 351.0,
+      "duration": 4.0,
+      "text": "systems are not good at this. And that's"
+    },
+    {
+      "start": 353.4,
+      "duration": 3.8,
+      "text": "the whole trick here. That's the whole"
+    },
+    {
+      "start": 355.0,
+      "duration": 4.6,
+      "text": "basic truth that a lot of people with"
+    },
+    {
+      "start": 357.2,
+      "duration": 5.1,
+      "text": "strong opinions seem to be intentionally"
+    },
+    {
+      "start": 359.6,
+      "duration": 6.4,
+      "text": "forgetting. A software product is the"
+    },
+    {
+      "start": 362.3,
+      "duration": 5.4,
+      "text": "outcome of a business effort. A SAS is a"
+    },
+    {
+      "start": 366.0,
+      "duration": 4.1,
+      "text": "way of solving a business problem, a"
+    },
+    {
+      "start": 367.7,
+      "duration": 4.5,
+      "text": "challenge. And to be able to comprehend"
+    },
+    {
+      "start": 370.1,
+      "duration": 4.3,
+      "text": "not just how to solve that problem, but"
+    },
+    {
+      "start": 372.2,
+      "duration": 4.1,
+      "text": "what that problem is in the first place."
+    },
+    {
+      "start": 374.4,
+      "duration": 4.2,
+      "text": "Who struggles with it? Who should be"
+    },
+    {
+      "start": 376.2,
+      "duration": 4.9,
+      "text": "approached to purchase the solution? Who"
+    },
+    {
+      "start": 378.6,
+      "duration": 4.2,
+      "text": "they should be talking to? How those"
+    },
+    {
+      "start": 381.1,
+      "duration": 3.5,
+      "text": "people can be convinced? what"
+    },
+    {
+      "start": 382.9,
+      "duration": 3.7,
+      "text": "alternative solutions they are currently"
+    },
+    {
+      "start": 384.6,
+      "duration": 3.7,
+      "text": "using and what they think about the"
+    },
+    {
+      "start": 386.6,
+      "duration": 4.6,
+      "text": "field and certain integrations,"
+    },
+    {
+      "start": 388.3,
+      "duration": 5.4,
+      "text": "implementations, features, ideas. All of"
+    },
+    {
+      "start": 391.1,
+      "duration": 5.5,
+      "text": "this takes a lot of founder experience."
+    },
+    {
+      "start": 393.8,
+      "duration": 5.4,
+      "text": "It takes nuance and industry insight."
+    },
+    {
+      "start": 396.6,
+      "duration": 5.8,
+      "text": "Most software products exist in and come"
+    },
+    {
+      "start": 399.1,
+      "duration": 5.0,
+      "text": "from a niche from a very specific subset"
+    },
+    {
+      "start": 402.4,
+      "duration": 4.6,
+      "text": "of all the potential problems and"
+    },
+    {
+      "start": 404.1,
+      "duration": 5.0,
+      "text": "solutions in an industry. And if we have"
+    },
+    {
+      "start": 407.0,
+      "duration": 3.7,
+      "text": "learned one thing about the LLM AI"
+    },
+    {
+      "start": 409.0,
+      "duration": 4.2,
+      "text": "systems that we use to prompt our way"
+    },
+    {
+      "start": 410.6,
+      "duration": 5.8,
+      "text": "into products now, it's that these tools"
+    },
+    {
+      "start": 413.3,
+      "duration": 4.7,
+      "text": "are built for consensus purposes. An LLM"
+    },
+    {
+      "start": 416.4,
+      "duration": 4.4,
+      "text": "can act like it knows a lot about a"
+    },
+    {
+      "start": 418.0,
+      "duration": 5.0,
+      "text": "specific thing or it can act as a niche"
+    },
+    {
+      "start": 420.8,
+      "duration": 4.7,
+      "text": "persona, but in the end it will always"
+    },
+    {
+      "start": 423.0,
+      "duration": 5.3,
+      "text": "be the consensus engine that we created"
+    },
+    {
+      "start": 425.5,
+      "duration": 5.7,
+      "text": "it to be, right? Any LLM that you task"
+    },
+    {
+      "start": 428.3,
+      "duration": 5.4,
+      "text": "with something is trying to be the best"
+    },
+    {
+      "start": 431.2,
+      "duration": 4.9,
+      "text": "for everybody at this particular thing."
+    },
+    {
+      "start": 433.7,
+      "duration": 4.6,
+      "text": "And that just doesn't work in the niche"
+    },
+    {
+      "start": 436.1,
+      "duration": 4.7,
+      "text": "setting. It is very significant that we"
+    },
+    {
+      "start": 438.3,
+      "duration": 4.8,
+      "text": "understand this as founders. For a"
+    },
+    {
+      "start": 440.8,
+      "duration": 3.9,
+      "text": "product to be built well, the problem"
+    },
+    {
+      "start": 443.1,
+      "duration": 3.8,
+      "text": "and the solution have to be deeply"
+    },
+    {
+      "start": 444.7,
+      "duration": 5.0,
+      "text": "understood and then implemented and then"
+    },
+    {
+      "start": 446.9,
+      "duration": 5.5,
+      "text": "permanently adjusted all the time. All"
+    },
+    {
+      "start": 449.7,
+      "duration": 5.0,
+      "text": "these VIP coding tools seem to be like a"
+    },
+    {
+      "start": 452.4,
+      "duration": 3.9,
+      "text": "flicker in time. Some of them are great"
+    },
+    {
+      "start": 454.6,
+      "duration": 3.8,
+      "text": "and some of them will fulfill a purpose,"
+    },
+    {
+      "start": 456.3,
+      "duration": 3.6,
+      "text": "but they all come with an extremely"
+    },
+    {
+      "start": 458.4,
+      "duration": 3.2,
+      "text": "heavy maintenance burden that they"
+    },
+    {
+      "start": 459.9,
+      "duration": 3.8,
+      "text": "themselves cannot solve, that they"
+    },
+    {
+      "start": 461.6,
+      "duration": 5.6,
+      "text": "cannot deliver. And that burden is"
+    },
+    {
+      "start": 463.8,
+      "duration": 5.5,
+      "text": "surprisingly bearable when it is created"
+    },
+    {
+      "start": 467.2,
+      "duration": 4.5,
+      "text": "as a consequence of a human project"
+    },
+    {
+      "start": 469.3,
+      "duration": 3.8,
+      "text": "because when people build something,"
+    },
+    {
+      "start": 471.7,
+      "duration": 3.4,
+      "text": "they have the strong internal"
+    },
+    {
+      "start": 473.1,
+      "duration": 3.7,
+      "text": "understanding of what their codebase and"
+    },
+    {
+      "start": 475.1,
+      "duration": 4.6,
+      "text": "their product is about and what it's"
+    },
+    {
+      "start": 476.8,
+      "duration": 5.0,
+      "text": "doing and how it works. But it is"
+    },
+    {
+      "start": 479.8,
+      "duration": 4.2,
+      "text": "extremely frustrating to deal with this"
+    },
+    {
+      "start": 481.8,
+      "duration": 4.9,
+      "text": "in a vipcoded project. If you've ever"
+    },
+    {
+      "start": 483.9,
+      "duration": 4.6,
+      "text": "vipcoded anything or even heavily AI"
+    },
+    {
+      "start": 486.7,
+      "duration": 4.2,
+      "text": "assisted something that doesn't have"
+    },
+    {
+      "start": 488.6,
+      "duration": 4.5,
+      "text": "proper documentation, then the AI will"
+    },
+    {
+      "start": 491.0,
+      "duration": 4.2,
+      "text": "struggle. and not just struggle but fail"
+    },
+    {
+      "start": 493.0,
+      "duration": 3.4,
+      "text": "to remember what it was thinking when it"
+    },
+    {
+      "start": 495.1,
+      "duration": 4.5,
+      "text": "was building the thing in the first"
+    },
+    {
+      "start": 496.4,
+      "duration": 5.3,
+      "text": "place while stuff is being built while"
+    },
+    {
+      "start": 499.6,
+      "duration": 4.7,
+      "text": "the context window exists you will find"
+    },
+    {
+      "start": 501.7,
+      "duration": 4.7,
+      "text": "that AI tools are very very capable of"
+    },
+    {
+      "start": 504.3,
+      "duration": 3.4,
+      "text": "maintaining internal cohesion right they"
+    },
+    {
+      "start": 506.4,
+      "duration": 3.8,
+      "text": "have this understanding of what they're"
+    },
+    {
+      "start": 507.7,
+      "duration": 5.1,
+      "text": "doing but the moment that window is gone"
+    },
+    {
+      "start": 510.2,
+      "duration": 4.6,
+      "text": "either by compression or when you end"
+    },
+    {
+      "start": 512.8,
+      "duration": 4.0,
+      "text": "your session with lovable or whatever"
+    },
+    {
+      "start": 514.7,
+      "duration": 3.8,
+      "text": "the internal understanding this"
+    },
+    {
+      "start": 516.8,
+      "duration": 4.2,
+      "text": "fullyfledged representation of what the"
+    },
+    {
+      "start": 518.6,
+      "duration": 5.4,
+      "text": "vip coded tool was meant to build is"
+    },
+    {
+      "start": 521.0,
+      "duration": 5.1,
+      "text": "gone on forever. It literally vanishes"
+    },
+    {
+      "start": 523.9,
+      "duration": 3.8,
+      "text": "into this unreoverable state because"
+    },
+    {
+      "start": 526.1,
+      "duration": 3.8,
+      "text": "it's not meant to be understood or"
+    },
+    {
+      "start": 527.8,
+      "duration": 3.6,
+      "text": "persisted or maintained. It is just"
+    },
+    {
+      "start": 529.9,
+      "duration": 3.4,
+      "text": "meant to exist for the moment that"
+    },
+    {
+      "start": 531.4,
+      "duration": 3.9,
+      "text": "things are being built and then it's"
+    },
+    {
+      "start": 533.3,
+      "duration": 4.1,
+      "text": "gone. And maybe in the future we will"
+    },
+    {
+      "start": 535.3,
+      "duration": 3.9,
+      "text": "have ways to create this fully"
+    },
+    {
+      "start": 537.4,
+      "duration": 4.2,
+      "text": "comprehensive internal understanding of"
+    },
+    {
+      "start": 539.2,
+      "duration": 4.2,
+      "text": "a codebase like that I have in my mind"
+    },
+    {
+      "start": 541.5,
+      "duration": 5.4,
+      "text": "about my own codebase right now. Maybe"
+    },
+    {
+      "start": 543.4,
+      "duration": 4.7,
+      "text": "an AI can recall it or persist it plus"
+    },
+    {
+      "start": 546.9,
+      "duration": 3.4,
+      "text": "everything in the business around it."
+    },
+    {
+      "start": 548.2,
+      "duration": 4.2,
+      "text": "But right now with the tools we're"
+    },
+    {
+      "start": 550.2,
+      "duration": 3.8,
+      "text": "talking about today, we're not there."
+    },
+    {
+      "start": 552.4,
+      "duration": 3.0,
+      "text": "And I talked about this recently on the"
+    },
+    {
+      "start": 554.1,
+      "duration": 3.7,
+      "text": "podcast when I was discussing"
+    },
+    {
+      "start": 555.4,
+      "duration": 4.6,
+      "text": "comprehension debt, a new version of"
+    },
+    {
+      "start": 557.8,
+      "duration": 5.0,
+      "text": "technical debt. It's different than"
+    },
+    {
+      "start": 560.0,
+      "duration": 5.6,
+      "text": "technical debt because it's not really"
+    },
+    {
+      "start": 562.7,
+      "duration": 4.2,
+      "text": "code related. It is representation"
+    },
+    {
+      "start": 565.6,
+      "duration": 3.9,
+      "text": "related. It's that internal"
+    },
+    {
+      "start": 566.9,
+      "duration": 5.0,
+      "text": "understanding that is still for us as a"
+    },
+    {
+      "start": 569.5,
+      "duration": 4.8,
+      "text": "founder, as a developer to maintain. So"
+    },
+    {
+      "start": 571.8,
+      "duration": 5.4,
+      "text": "if we use AI tools, we need to persist"
+    },
+    {
+      "start": 574.3,
+      "duration": 5.0,
+      "text": "that kind of into text files that then"
+    },
+    {
+      "start": 577.3,
+      "duration": 5.1,
+      "text": "can be read by AI tools and by other"
+    },
+    {
+      "start": 579.3,
+      "duration": 5.0,
+      "text": "humans either using comments or strong"
+    },
+    {
+      "start": 582.4,
+      "duration": 3.7,
+      "text": "architectural documentation, whatever it"
+    },
+    {
+      "start": 584.3,
+      "duration": 4.4,
+      "text": "needs. We need to kind of make it more"
+    },
+    {
+      "start": 586.1,
+      "duration": 4.9,
+      "text": "accessible to the AI system. And"
+    },
+    {
+      "start": 588.7,
+      "duration": 3.6,
+      "text": "traditionally software engineering used"
+    },
+    {
+      "start": 591.0,
+      "duration": 2.8,
+      "text": "to work like this, right? Somebody"
+    },
+    {
+      "start": 592.3,
+      "duration": 3.3,
+      "text": "architects the thing, they write up"
+    },
+    {
+      "start": 593.8,
+      "duration": 4.0,
+      "text": "docs, they write up specs, and then they"
+    },
+    {
+      "start": 595.6,
+      "duration": 4.0,
+      "text": "implement it. Doesn't necessarily have"
+    },
+    {
+      "start": 597.8,
+      "duration": 3.4,
+      "text": "to be waterfall. It could also be, you"
+    },
+    {
+      "start": 599.6,
+      "duration": 4.0,
+      "text": "know, scrum and you repeat it and you"
+    },
+    {
+      "start": 601.1,
+      "duration": 4.6,
+      "text": "have sprints and whatnot. But there's a"
+    },
+    {
+      "start": 603.6,
+      "duration": 3.8,
+      "text": "thinking step, a documentation step, a"
+    },
+    {
+      "start": 605.8,
+      "duration": 3.8,
+      "text": "discussion step, and an implementation"
+    },
+    {
+      "start": 607.4,
+      "duration": 3.8,
+      "text": "step. And people fully understood what"
+    },
+    {
+      "start": 609.5,
+      "duration": 3.7,
+      "text": "they built. At least you would hope so."
+    },
+    {
+      "start": 611.1,
+      "duration": 3.4,
+      "text": "And they would write tests because they"
+    },
+    {
+      "start": 613.2,
+      "duration": 3.9,
+      "text": "had an understanding of what it should"
+    },
+    {
+      "start": 614.5,
+      "duration": 4.3,
+      "text": "be doing and then implemented it. So you"
+    },
+    {
+      "start": 617.1,
+      "duration": 3.0,
+      "text": "could test if a thing is doing what it"
+    },
+    {
+      "start": 618.8,
+      "duration": 2.9,
+      "text": "should be because we have this"
+    },
+    {
+      "start": 620.2,
+      "duration": 3.9,
+      "text": "expectation of what things are going to"
+    },
+    {
+      "start": 621.7,
+      "duration": 4.9,
+      "text": "be like. The test is written to see if"
+    },
+    {
+      "start": 624.1,
+      "duration": 4.9,
+      "text": "that expectation holds true. But if"
+    },
+    {
+      "start": 626.6,
+      "duration": 4.8,
+      "text": "nobody has that knowledge anymore, if it"
+    },
+    {
+      "start": 629.0,
+      "duration": 4.6,
+      "text": "is just vanishing after you use the"
+    },
+    {
+      "start": 631.4,
+      "duration": 4.2,
+      "text": "tool, how can you know if your codebase"
+    },
+    {
+      "start": 633.6,
+      "duration": 4.7,
+      "text": "is working or doing what it's supposed"
+    },
+    {
+      "start": 635.6,
+      "duration": 4.7,
+      "text": "to do? If it's small, sure, you can kind"
+    },
+    {
+      "start": 638.3,
+      "duration": 4.6,
+      "text": "of test your way through it manually or"
+    },
+    {
+      "start": 640.3,
+      "duration": 4.6,
+      "text": "even have an AI kind of comprehend it on"
+    },
+    {
+      "start": 642.9,
+      "duration": 3.5,
+      "text": "the fly by reading it all. But if it's"
+    },
+    {
+      "start": 645.0,
+      "duration": 3.1,
+      "text": "not, if it's bigger, if it's more"
+    },
+    {
+      "start": 646.4,
+      "duration": 3.3,
+      "text": "complicated, then all of a sudden you"
+    },
+    {
+      "start": 648.1,
+      "duration": 3.4,
+      "text": "have a problem. a really really big"
+    },
+    {
+      "start": 649.7,
+      "duration": 4.6,
+      "text": "problem because you won't be able to"
+    },
+    {
+      "start": 651.5,
+      "duration": 5.4,
+      "text": "know at all what your product actually"
+    },
+    {
+      "start": 654.2,
+      "duration": 5.0,
+      "text": "is. Not just what it does but also what"
+    },
+    {
+      "start": 657.0,
+      "duration": 4.7,
+      "text": "it is. You just don't know. And a"
+    },
+    {
+      "start": 659.2,
+      "duration": 4.8,
+      "text": "product that is that unreliable because"
+    },
+    {
+      "start": 661.7,
+      "duration": 4.9,
+      "text": "nobody knows what they have created."
+    },
+    {
+      "start": 664.0,
+      "duration": 4.8,
+      "text": "Well, that just makes a business that"
+    },
+    {
+      "start": 666.6,
+      "duration": 4.0,
+      "text": "has high churn, low retention, and"
+    },
+    {
+      "start": 668.8,
+      "duration": 5.1,
+      "text": "ultimately it turns into a business that"
+    },
+    {
+      "start": 670.6,
+      "duration": 5.9,
+      "text": "fails. So the phrase isn't SAS is dying"
+    },
+    {
+      "start": 673.9,
+      "duration": 4.7,
+      "text": "because of AI. It's more like certain"
+    },
+    {
+      "start": 676.5,
+      "duration": 4.3,
+      "text": "kinds of software engineering are"
+    },
+    {
+      "start": 678.6,
+      "duration": 3.8,
+      "text": "changing because of AI, but it has so"
+    },
+    {
+      "start": 680.8,
+      "duration": 4.2,
+      "text": "little to do with the actual potential"
+    },
+    {
+      "start": 682.5,
+      "duration": 5.0,
+      "text": "of a software as a service business as a"
+    },
+    {
+      "start": 685.0,
+      "duration": 4.0,
+      "text": "dying concept because people can now"
+    },
+    {
+      "start": 687.4,
+      "duration": 3.3,
+      "text": "tell lovable or some other tool that"
+    },
+    {
+      "start": 689.0,
+      "duration": 3.3,
+      "text": "they want a certain thing done in a"
+    },
+    {
+      "start": 690.7,
+      "duration": 3.8,
+      "text": "certain way. That's definitely not the"
+    },
+    {
+      "start": 692.3,
+      "duration": 4.6,
+      "text": "case. Think about why people buy"
+    },
+    {
+      "start": 694.6,
+      "duration": 4.6,
+      "text": "software as a service products because"
+    },
+    {
+      "start": 696.9,
+      "duration": 4.6,
+      "text": "often it's not that they couldn't build"
+    },
+    {
+      "start": 699.1,
+      "duration": 4.1,
+      "text": "something like that themselves. There"
+    },
+    {
+      "start": 701.5,
+      "duration": 4.2,
+      "text": "are people out there who are amazing"
+    },
+    {
+      "start": 703.2,
+      "duration": 4.7,
+      "text": "developers buying software for"
+    },
+    {
+      "start": 705.7,
+      "duration": 4.2,
+      "text": "developers that they could have written."
+    },
+    {
+      "start": 707.9,
+      "duration": 4.1,
+      "text": "We often think about buy versus build"
+    },
+    {
+      "start": 709.8,
+      "duration": 4.6,
+      "text": "and a lot of companies have let's call"
+    },
+    {
+      "start": 712.0,
+      "duration": 5.0,
+      "text": "it a sales challenge, right? They would"
+    },
+    {
+      "start": 714.4,
+      "duration": 5.0,
+      "text": "rather build it themselves. In many ways"
+    },
+    {
+      "start": 717.0,
+      "duration": 3.8,
+      "text": "during sales, it's the conversation"
+    },
+    {
+      "start": 719.4,
+      "duration": 3.9,
+      "text": "where you try to convince people that"
+    },
+    {
+      "start": 720.9,
+      "duration": 4.5,
+      "text": "their build cost would be significantly"
+    },
+    {
+      "start": 723.3,
+      "duration": 3.8,
+      "text": "higher than their buy cost. And that's"
+    },
+    {
+      "start": 725.4,
+      "duration": 4.2,
+      "text": "definitely true in most cases for most"
+    },
+    {
+      "start": 727.1,
+      "duration": 4.3,
+      "text": "SAS. But people are very well aware that"
+    },
+    {
+      "start": 729.6,
+      "duration": 4.3,
+      "text": "they could build any software product,"
+    },
+    {
+      "start": 731.4,
+      "duration": 5.8,
+      "text": "your software product very likely"
+    },
+    {
+      "start": 733.9,
+      "duration": 5.8,
+      "text": "because of the mode that you have. That"
+    },
+    {
+      "start": 737.3,
+      "duration": 4.6,
+      "text": "really is just time and energy spent."
+    },
+    {
+      "start": 739.7,
+      "duration": 4.2,
+      "text": "It's really not much more than that for"
+    },
+    {
+      "start": 741.8,
+      "duration": 3.3,
+      "text": "most software as a service businesses."
+    },
+    {
+      "start": 743.9,
+      "duration": 2.6,
+      "text": "At least that's the perception out"
+    },
+    {
+      "start": 745.1,
+      "duration": 3.9,
+      "text": "there, right? And yet they still choose"
+    },
+    {
+      "start": 746.6,
+      "duration": 4.8,
+      "text": "to buy it. I think the reason here is"
+    },
+    {
+      "start": 749.0,
+      "duration": 4.6,
+      "text": "the Parto principle. 80% of the way"
+    },
+    {
+      "start": 751.4,
+      "duration": 5.0,
+      "text": "there takes 20% of the time, but the"
+    },
+    {
+      "start": 753.6,
+      "duration": 5.4,
+      "text": "remaining 20% of the work takes like 80%"
+    },
+    {
+      "start": 756.4,
+      "duration": 4.6,
+      "text": "of the time. And most people who are in"
+    },
+    {
+      "start": 759.0,
+      "duration": 3.8,
+      "text": "successful businesses themselves, you"
+    },
+    {
+      "start": 761.0,
+      "duration": 5.2,
+      "text": "know, your buyers hopefully, they"
+    },
+    {
+      "start": 762.9,
+      "duration": 5.4,
+      "text": "understand very well that they don't see"
+    },
+    {
+      "start": 766.2,
+      "duration": 3.8,
+      "text": "the 20% that you have figured out over"
+    },
+    {
+      "start": 768.2,
+      "duration": 5.1,
+      "text": "the last couple years that would turn"
+    },
+    {
+      "start": 770.0,
+      "duration": 5.3,
+      "text": "into the 80 plus% of work for them. This"
+    },
+    {
+      "start": 773.4,
+      "duration": 4.0,
+      "text": "is why people buy SAS businesses"
+    },
+    {
+      "start": 775.3,
+      "duration": 3.8,
+      "text": "products that have been around for a"
+    },
+    {
+      "start": 777.4,
+      "duration": 3.7,
+      "text": "while. They kind of want to see that you"
+    },
+    {
+      "start": 779.0,
+      "duration": 4.2,
+      "text": "struggle for a bit, that you did the leg"
+    },
+    {
+      "start": 781.0,
+      "duration": 4.6,
+      "text": "work, and you've truly understood all"
+    },
+    {
+      "start": 783.2,
+      "duration": 3.8,
+      "text": "your customer needs. Smart people will"
+    },
+    {
+      "start": 785.6,
+      "duration": 2.8,
+      "text": "buy your product because they're"
+    },
+    {
+      "start": 787.0,
+      "duration": 3.0,
+      "text": "perfectly aware of the fact that you've"
+    },
+    {
+      "start": 788.4,
+      "duration": 3.8,
+      "text": "covered all the edge cases, that you've"
+    },
+    {
+      "start": 790.0,
+      "duration": 3.8,
+      "text": "encountered every single little thing"
+    },
+    {
+      "start": 792.2,
+      "duration": 3.2,
+      "text": "along the way. You've discovered"
+    },
+    {
+      "start": 793.8,
+      "duration": 3.3,
+      "text": "specific, really hard to maintain"
+    },
+    {
+      "start": 795.4,
+      "duration": 3.3,
+      "text": "integrations into systems that they"
+    },
+    {
+      "start": 797.1,
+      "duration": 3.1,
+      "text": "don't even know exist yet because they"
+    },
+    {
+      "start": 798.6,
+      "duration": 3.9,
+      "text": "didn't have to dive in as deep as you"
+    },
+    {
+      "start": 800.2,
+      "duration": 4.7,
+      "text": "did. That's why people buy your SAS"
+    },
+    {
+      "start": 802.6,
+      "duration": 3.6,
+      "text": "ultimately, not because it's 10% cheaper"
+    },
+    {
+      "start": 805.0,
+      "duration": 4.0,
+      "text": "than if they were to build it"
+    },
+    {
+      "start": 806.2,
+      "duration": 4.6,
+      "text": "themselves. People who think like this,"
+    },
+    {
+      "start": 809.0,
+      "duration": 3.9,
+      "text": "they are not successful founders or"
+    },
+    {
+      "start": 810.7,
+      "duration": 4.2,
+      "text": "successful builders or they work for"
+    },
+    {
+      "start": 812.9,
+      "duration": 4.6,
+      "text": "companies that are so hilariously over"
+    },
+    {
+      "start": 815.0,
+      "duration": 5.5,
+      "text": "capitalized that they can think it and"
+    },
+    {
+      "start": 817.4,
+      "duration": 4.2,
+      "text": "still turn a profit. Of course, a lot of"
+    },
+    {
+      "start": 820.5,
+      "duration": 3.1,
+      "text": "people think that they have to build"
+    },
+    {
+      "start": 821.7,
+      "duration": 4.1,
+      "text": "everything in-house or otherwise it's a"
+    },
+    {
+      "start": 823.6,
+      "duration": 4.3,
+      "text": "dependency risk that often comes up as"
+    },
+    {
+      "start": 825.8,
+      "duration": 5.1,
+      "text": "an argument against it. But building a"
+    },
+    {
+      "start": 827.9,
+      "duration": 5.4,
+      "text": "software tool that other people employ"
+    },
+    {
+      "start": 830.9,
+      "duration": 4.6,
+      "text": "half a dozen staff to maintain as a SAS"
+    },
+    {
+      "start": 833.4,
+      "duration": 3.9,
+      "text": "business all in itself clearly has"
+    },
+    {
+      "start": 835.5,
+      "duration": 3.9,
+      "text": "opportunity costs that will likely"
+    },
+    {
+      "start": 837.3,
+      "duration": 4.4,
+      "text": "outpace the $200 a month that you might"
+    },
+    {
+      "start": 839.4,
+      "duration": 4.2,
+      "text": "be paying for a subscription. I often"
+    },
+    {
+      "start": 841.7,
+      "duration": 4.6,
+      "text": "wonder why people don't seem to be able"
+    },
+    {
+      "start": 843.7,
+      "duration": 5.3,
+      "text": "to take that particular leap. Either"
+    },
+    {
+      "start": 846.2,
+      "duration": 5.9,
+      "text": "they pay 200 bucks a month for my tool"
+    },
+    {
+      "start": 849.0,
+      "duration": 5.2,
+      "text": "or they pay $20,000 a month to keep the"
+    },
+    {
+      "start": 852.2,
+      "duration": 4.0,
+      "text": "team working on their version of my"
+    },
+    {
+      "start": 854.2,
+      "duration": 3.7,
+      "text": "tool. People will always have these"
+    },
+    {
+      "start": 856.2,
+      "duration": 3.1,
+      "text": "weird issues and weird understandings"
+    },
+    {
+      "start": 857.8,
+      "duration": 4.2,
+      "text": "when they make their purchasing"
+    },
+    {
+      "start": 859.3,
+      "duration": 5.8,
+      "text": "decisions. But I certainly feel that"
+    },
+    {
+      "start": 862.0,
+      "duration": 4.5,
+      "text": "your ideal customer, not the customer"
+    },
+    {
+      "start": 865.0,
+      "duration": 3.8,
+      "text": "that has too much money or too little"
+    },
+    {
+      "start": 866.5,
+      "duration": 4.2,
+      "text": "money, your ideal customer, the middle,"
+    },
+    {
+      "start": 868.9,
+      "duration": 5.7,
+      "text": "they understand that they buy your SAS"
+    },
+    {
+      "start": 870.7,
+      "duration": 5.9,
+      "text": "for the last 20%. Like your 80%. But"
+    },
+    {
+      "start": 874.6,
+      "duration": 4.4,
+      "text": "they're 20%. Which brings me to the"
+    },
+    {
+      "start": 876.6,
+      "duration": 5.0,
+      "text": "whole point of this. If SAS is not"
+    },
+    {
+      "start": 879.0,
+      "duration": 5.0,
+      "text": "dying, but VIP coded internal solutions"
+    },
+    {
+      "start": 881.7,
+      "duration": 4.3,
+      "text": "are much easier for people to build."
+    },
+    {
+      "start": 883.9,
+      "duration": 4.6,
+      "text": "Well, how can we make sure that these"
+    },
+    {
+      "start": 886.0,
+      "duration": 4.9,
+      "text": "last 20% the invisible stuff becomes"
+    },
+    {
+      "start": 888.6,
+      "duration": 3.8,
+      "text": "visible? Not so that people can copy it"
+    },
+    {
+      "start": 890.9,
+      "duration": 3.4,
+      "text": "more easily into their own internal"
+    },
+    {
+      "start": 892.3,
+      "duration": 3.9,
+      "text": "solutions, but so that it becomes an"
+    },
+    {
+      "start": 894.3,
+      "duration": 3.9,
+      "text": "argument for why people should buy our"
+    },
+    {
+      "start": 896.2,
+      "duration": 3.4,
+      "text": "solution instead of building their own."
+    },
+    {
+      "start": 898.2,
+      "duration": 3.1,
+      "text": "And I think this is going to be the"
+    },
+    {
+      "start": 899.6,
+      "duration": 3.4,
+      "text": "ongoing struggle over the next decade or"
+    },
+    {
+      "start": 901.4,
+      "duration": 4.4,
+      "text": "so in this particular realm of"
+    },
+    {
+      "start": 903.0,
+      "duration": 4.6,
+      "text": "technology. We've understood that in"
+    },
+    {
+      "start": 905.8,
+      "duration": 3.4,
+      "text": "software as a service. We understood"
+    },
+    {
+      "start": 907.7,
+      "duration": 2.7,
+      "text": "that customers aren't buying our"
+    },
+    {
+      "start": 909.1,
+      "duration": 3.0,
+      "text": "software. they're buying like peace of"
+    },
+    {
+      "start": 910.4,
+      "duration": 3.8,
+      "text": "mind or they're buying having the thing"
+    },
+    {
+      "start": 912.1,
+      "duration": 3.8,
+      "text": "figured out and that having the problem"
+    },
+    {
+      "start": 914.2,
+      "duration": 3.8,
+      "text": "solved. That's big thing we put on our"
+    },
+    {
+      "start": 915.9,
+      "duration": 3.9,
+      "text": "landing pages. Now, this might actually"
+    },
+    {
+      "start": 918.0,
+      "duration": 3.6,
+      "text": "swing back into the direction of them"
+    },
+    {
+      "start": 919.8,
+      "duration": 3.9,
+      "text": "buying something that even they could"
+    },
+    {
+      "start": 921.6,
+      "duration": 3.9,
+      "text": "kind of make themselves, but it's still"
+    },
+    {
+      "start": 923.8,
+      "duration": 3.6,
+      "text": "better because it is built from"
+    },
+    {
+      "start": 925.5,
+      "duration": 4.0,
+      "text": "experience or it's something that would"
+    },
+    {
+      "start": 927.4,
+      "duration": 4.6,
+      "text": "be very hard for them to get right, very"
+    },
+    {
+      "start": 929.5,
+      "duration": 4.9,
+      "text": "hard to even approach correctly. So, in"
+    },
+    {
+      "start": 932.0,
+      "duration": 4.4,
+      "text": "our self-escription, maybe we don't sell"
+    },
+    {
+      "start": 934.4,
+      "duration": 4.6,
+      "text": "the solution to problems as much"
+    },
+    {
+      "start": 936.4,
+      "duration": 5.1,
+      "text": "anymore. or when we do, we show that"
+    },
+    {
+      "start": 939.0,
+      "duration": 4.8,
+      "text": "there's so much complexity to this and"
+    },
+    {
+      "start": 941.5,
+      "duration": 3.8,
+      "text": "an interdependency to all of those"
+    },
+    {
+      "start": 943.8,
+      "duration": 4.3,
+      "text": "components that they might not have"
+    },
+    {
+      "start": 945.3,
+      "duration": 4.8,
+      "text": "expected. Maybe we are upfront with our"
+    },
+    {
+      "start": 948.1,
+      "duration": 3.5,
+      "text": "buy versus build equations, too. I think"
+    },
+    {
+      "start": 950.1,
+      "duration": 3.8,
+      "text": "it's generally a good idea. I've had a"
+    },
+    {
+      "start": 951.6,
+      "duration": 4.1,
+      "text": "couple conversations with people who are"
+    },
+    {
+      "start": 953.9,
+      "duration": 2.9,
+      "text": "interested in buying a POTSCAN"
+    },
+    {
+      "start": 955.7,
+      "duration": 2.4,
+      "text": "subscription and they were like, \"Yeah,"
+    },
+    {
+      "start": 956.8,
+      "duration": 2.7,
+      "text": "we were trying to build this in house,"
+    },
+    {
+      "start": 958.1,
+      "duration": 3.8,
+      "text": "but then we figured out this was super"
+    },
+    {
+      "start": 959.5,
+      "duration": 5.0,
+      "text": "expensive.\" So, I've kind of learned"
+    },
+    {
+      "start": 961.8,
+      "duration": 5.4,
+      "text": "what people have figured out the cost of"
+    },
+    {
+      "start": 964.6,
+      "duration": 4.6,
+      "text": "this might be. So instead, next time you"
+    },
+    {
+      "start": 967.3,
+      "duration": 3.8,
+      "text": "talk to one of your customers in a in a"
+    },
+    {
+      "start": 969.2,
+      "duration": 4.1,
+      "text": "call or something, instead of waiting"
+    },
+    {
+      "start": 971.0,
+      "duration": 4.0,
+      "text": "for customer to ask you about this,"
+    },
+    {
+      "start": 973.3,
+      "duration": 4.3,
+      "text": "well, maybe tell them this would"
+    },
+    {
+      "start": 975.0,
+      "duration": 5.8,
+      "text": "probably cost like $50,000 to $100,000"
+    },
+    {
+      "start": 977.6,
+      "duration": 5.9,
+      "text": "to build and at least $10,000 a month to"
+    },
+    {
+      "start": 980.9,
+      "duration": 6.1,
+      "text": "maintain with a service level agreement"
+    },
+    {
+      "start": 983.5,
+      "duration": 5.6,
+      "text": "worth of reliability. Or here is the"
+    },
+    {
+      "start": 987.0,
+      "duration": 4.7,
+      "text": "same thing for $2,000 a month as a"
+    },
+    {
+      "start": 989.1,
+      "duration": 4.6,
+      "text": "subscription with the same SLA. We have"
+    },
+    {
+      "start": 991.7,
+      "duration": 4.2,
+      "text": "integrations with like 56 different data"
+    },
+    {
+      "start": 993.8,
+      "duration": 4.6,
+      "text": "providers to get the data that you need."
+    },
+    {
+      "start": 995.9,
+      "duration": 4.2,
+      "text": "You just need one login. If you were to"
+    },
+    {
+      "start": 998.3,
+      "duration": 3.6,
+      "text": "build this yourself, you would have to"
+    },
+    {
+      "start": 1000.2,
+      "duration": 4.2,
+      "text": "make those arrangements with over 50"
+    },
+    {
+      "start": 1001.9,
+      "duration": 4.5,
+      "text": "different people. That is the stuff we"
+    },
+    {
+      "start": 1004.3,
+      "duration": 4.9,
+      "text": "now need to bring to the table. The"
+    },
+    {
+      "start": 1006.4,
+      "duration": 4.6,
+      "text": "conversation will be shifting. We're now"
+    },
+    {
+      "start": 1009.2,
+      "duration": 4.1,
+      "text": "talking to people who are technically"
+    },
+    {
+      "start": 1011.0,
+      "duration": 5.7,
+      "text": "capable of building their own systems."
+    },
+    {
+      "start": 1013.3,
+      "duration": 5.4,
+      "text": "And maybe we always have, but now it's"
+    },
+    {
+      "start": 1016.7,
+      "duration": 4.0,
+      "text": "much much easier even for the people who"
+    },
+    {
+      "start": 1018.6,
+      "duration": 3.8,
+      "text": "don't have the extreme technical talent"
+    },
+    {
+      "start": 1020.7,
+      "duration": 4.4,
+      "text": "that the larger companies had in the"
+    },
+    {
+      "start": 1022.5,
+      "duration": 5.1,
+      "text": "past. Every company now has someone who"
+    },
+    {
+      "start": 1025.1,
+      "duration": 4.4,
+      "text": "at least understands AI a little bit and"
+    },
+    {
+      "start": 1027.6,
+      "duration": 4.9,
+      "text": "people would try to consider that they"
+    },
+    {
+      "start": 1029.5,
+      "duration": 5.0,
+      "text": "could possibly build everything. Maybe"
+    },
+    {
+      "start": 1032.5,
+      "duration": 4.2,
+      "text": "we just give them a clear background. We"
+    },
+    {
+      "start": 1034.6,
+      "duration": 4.2,
+      "text": "give insight into how complex it would"
+    },
+    {
+      "start": 1036.6,
+      "duration": 4.3,
+      "text": "be to build this and they will benefit"
+    },
+    {
+      "start": 1038.8,
+      "duration": 4.1,
+      "text": "from us having it already built for them"
+    },
+    {
+      "start": 1041.0,
+      "duration": 3.8,
+      "text": "because we have built the last 20%"
+    },
+    {
+      "start": 1042.9,
+      "duration": 3.6,
+      "text": "already. That's what we're selling to"
+    },
+    {
+      "start": 1044.7,
+      "duration": 4.6,
+      "text": "them. But I think it's time to make this"
+    },
+    {
+      "start": 1046.5,
+      "duration": 5.3,
+      "text": "more apparent, right? It needs to be"
+    },
+    {
+      "start": 1049.3,
+      "duration": 4.6,
+      "text": "communicated more clearly. So by coding"
+    },
+    {
+      "start": 1051.8,
+      "duration": 4.0,
+      "text": "is not killing SAS. It's changing how we"
+    },
+    {
+      "start": 1053.9,
+      "duration": 4.8,
+      "text": "need to communicate our value. The value"
+    },
+    {
+      "start": 1055.8,
+      "duration": 4.9,
+      "text": "prop and the service in software as a"
+    },
+    {
+      "start": 1058.7,
+      "duration": 3.6,
+      "text": "service has always been the point. the"
+    },
+    {
+      "start": 1060.6,
+      "duration": 3.9,
+      "text": "edge cases, integrations, the"
+    },
+    {
+      "start": 1062.3,
+      "duration": 5.0,
+      "text": "accumulated wisdom from serving real"
+    },
+    {
+      "start": 1064.6,
+      "duration": 4.5,
+      "text": "people with their real problems. That's"
+    },
+    {
+      "start": 1067.4,
+      "duration": 3.7,
+      "text": "what people are paying for and that's"
+    },
+    {
+      "start": 1069.0,
+      "duration": 4.1,
+      "text": "what they'll continue to pay for. And if"
+    },
+    {
+      "start": 1071.0,
+      "duration": 4.6,
+      "text": "you're building SAS, lean into this."
+    },
+    {
+      "start": 1073.1,
+      "duration": 4.6,
+      "text": "Show your work. Make visible what was"
+    },
+    {
+      "start": 1075.6,
+      "duration": 3.8,
+      "text": "always invisible before. Because the"
+    },
+    {
+      "start": 1077.7,
+      "duration": 3.7,
+      "text": "person who can vip code a clone of your"
+    },
+    {
+      "start": 1079.4,
+      "duration": 4.0,
+      "text": "product in an afternoon, they still"
+    },
+    {
+      "start": 1081.4,
+      "duration": 4.3,
+      "text": "cannot vibe code the years of customer"
+    },
+    {
+      "start": 1083.4,
+      "duration": 4.6,
+      "text": "conversations and all these hard one"
+    },
+    {
+      "start": 1085.7,
+      "duration": 4.2,
+      "text": "insights that made your product actually"
+    },
+    {
+      "start": 1088.0,
+      "duration": 3.3,
+      "text": "work for people. And that's it for"
+    },
+    {
+      "start": 1089.8,
+      "duration": 2.9,
+      "text": "today. Thank you for listening to the"
+    },
+    {
+      "start": 1091.3,
+      "duration": 4.4,
+      "text": "Boots Founder. You can find me on"
+    },
+    {
+      "start": 1092.7,
+      "duration": 5.4,
+      "text": "Twitter at Avit Khl. If you're a"
+    },
+    {
+      "start": 1095.7,
+      "duration": 4.0,
+      "text": "founder, a PR expert, or marketing"
+    },
+    {
+      "start": 1098.1,
+      "duration": 3.6,
+      "text": "professional wondering what people are"
+    },
+    {
+      "start": 1099.7,
+      "duration": 3.5,
+      "text": "saying about your brand, well, you might"
+    },
+    {
+      "start": 1101.7,
+      "duration": 3.8,
+      "text": "be missing these conversations."
+    },
+    {
+      "start": 1103.2,
+      "duration": 4.7,
+      "text": "Podscan.fm monitors over 4 million"
+    },
+    {
+      "start": 1105.4,
+      "duration": 4.9,
+      "text": "podcasts in real time and will alert you"
+    },
+    {
+      "start": 1107.9,
+      "duration": 4.6,
+      "text": "when people talk about you. And if you"
+    },
+    {
+      "start": 1110.3,
+      "duration": 3.7,
+      "text": "are a founder still searching for your"
+    },
+    {
+      "start": 1112.5,
+      "duration": 4.4,
+      "text": "next venture, you can go to"
+    },
+    {
+      "start": 1114.0,
+      "duration": 4.6,
+      "text": "ideas.padscan.fm FM where we identify"
+    },
+    {
+      "start": 1116.9,
+      "duration": 4.4,
+      "text": "startup opportunities from hundreds of"
+    },
+    {
+      "start": 1118.6,
+      "duration": 4.4,
+      "text": "hours of expert conversations every day"
+    },
+    {
+      "start": 1121.3,
+      "duration": 4.1,
+      "text": "so you can build what people are asking"
+    },
+    {
+      "start": 1123.0,
+      "duration": 4.0,
+      "text": "for. Please share this with anybody who"
+    },
+    {
+      "start": 1125.4,
+      "duration": 3.5,
+      "text": "needs to turn conversations into their"
+    },
+    {
+      "start": 1127.0,
+      "duration": 3.3,
+      "text": "competitive advantage because it would"
+    },
+    {
+      "start": 1128.9,
+      "duration": 3.4,
+      "text": "really help. Thank you so much for"
+    },
+    {
+      "start": 1130.3,
+      "duration": 4.9,
+      "text": "listening. Have a wonderful day and"
+    },
+    {
+      "start": 1132.2,
+      "duration": 3.0,
+      "text": "bye-bye."
+    }
+  ]
+}

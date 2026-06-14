@@ -1,0 +1,3191 @@
+{
+  "video_id": "EHJQy6vY30A",
+  "title": "AI is a Threat to SaaS Multiples",
+  "segments": [
+    {
+      "start": 0.5,
+      "duration": 3.2,
+      "text": "Hey, it's Arvid and this is the"
+    },
+    {
+      "start": 2.7,
+      "duration": 5.0,
+      "text": "Bootstrap"
+    },
+    {
+      "start": 3.7,
+      "duration": 6.6,
+      "text": "[Music]"
+    },
+    {
+      "start": 7.7,
+      "duration": 5.2,
+      "text": "founder. We'll dive into one of the"
+    },
+    {
+      "start": 10.2,
+      "duration": 4.6,
+      "text": "juiciest of topics today, software as a"
+    },
+    {
+      "start": 12.9,
+      "duration": 4.6,
+      "text": "service business acquisitions and more"
+    },
+    {
+      "start": 14.9,
+      "duration": 5.0,
+      "text": "importantly, what is responsible for a"
+    },
+    {
+      "start": 17.4,
+      "duration": 4.3,
+      "text": "downward trend in multiples and"
+    },
+    {
+      "start": 19.9,
+      "duration": 4.2,
+      "text": "acquisition dollar amounts. Right now,"
+    },
+    {
+      "start": 21.8,
+      "duration": 4.4,
+      "text": "it has a lot to do with AI. You probably"
+    },
+    {
+      "start": 24.2,
+      "duration": 4.1,
+      "text": "figured because that's doing a lot of"
+    },
+    {
+      "start": 26.2,
+      "duration": 4.2,
+      "text": "damage all over the place, but it may"
+    },
+    {
+      "start": 28.2,
+      "duration": 4.5,
+      "text": "not be what you think."
+    },
+    {
+      "start": 30.3,
+      "duration": 4.2,
+      "text": "This episode is sponsored by paddle.com,"
+    },
+    {
+      "start": 32.7,
+      "duration": 3.7,
+      "text": "my merchant of record payment provider"
+    },
+    {
+      "start": 34.6,
+      "duration": 3.8,
+      "text": "of choice. I use it in a lot of my"
+    },
+    {
+      "start": 36.4,
+      "duration": 4.0,
+      "text": "properties and they're taking care of"
+    },
+    {
+      "start": 38.4,
+      "duration": 4.2,
+      "text": "all the things related to money so that"
+    },
+    {
+      "start": 40.4,
+      "duration": 4.0,
+      "text": "founders like me and you can focus on"
+    },
+    {
+      "start": 42.6,
+      "duration": 3.8,
+      "text": "building the things that only we can"
+    },
+    {
+      "start": 44.4,
+      "duration": 4.4,
+      "text": "build. And this is also a main topic of"
+    },
+    {
+      "start": 46.4,
+      "duration": 4.9,
+      "text": "today's episode, but I digress. Paddle"
+    },
+    {
+      "start": 48.8,
+      "duration": 4.7,
+      "text": "handles all the rest. Sales tax, credit"
+    },
+    {
+      "start": 51.3,
+      "duration": 6.2,
+      "text": "cards fitting, all of that. I highly"
+    },
+    {
+      "start": 53.5,
+      "duration": 4.0,
+      "text": "recommend it. So, please check it out at"
+    },
+    {
+      "start": 57.9,
+      "duration": 3.4,
+      "text": "paddle.com. Today I want to share"
+    },
+    {
+      "start": 59.8,
+      "duration": 3.1,
+      "text": "something that's been on my mind ever"
+    },
+    {
+      "start": 61.3,
+      "duration": 3.9,
+      "text": "since a conversation that I had with an"
+    },
+    {
+      "start": 63.0,
+      "duration": 4.8,
+      "text": "investor friend of mine, Tyler Tringus."
+    },
+    {
+      "start": 65.2,
+      "duration": 4.1,
+      "text": "We were doing some fear setting, looking"
+    },
+    {
+      "start": 67.8,
+      "duration": 3.3,
+      "text": "at how my business is currently"
+    },
+    {
+      "start": 69.3,
+      "duration": 3.8,
+      "text": "performing, what it would look like if"
+    },
+    {
+      "start": 71.0,
+      "duration": 4.0,
+      "text": "things went better, what it would look"
+    },
+    {
+      "start": 73.1,
+      "duration": 3.4,
+      "text": "like if things went worse, you know, the"
+    },
+    {
+      "start": 75.0,
+      "duration": 3.6,
+      "text": "kind of stuff, the conversations with"
+    },
+    {
+      "start": 76.5,
+      "duration": 3.8,
+      "text": "your investor and mentor that make you"
+    },
+    {
+      "start": 78.6,
+      "duration": 3.7,
+      "text": "really think about where you stand in"
+    },
+    {
+      "start": 80.3,
+      "duration": 3.7,
+      "text": "the market and what's happening. And"
+    },
+    {
+      "start": 82.3,
+      "duration": 3.9,
+      "text": "while I can't share all of the personal"
+    },
+    {
+      "start": 84.0,
+      "duration": 4.3,
+      "text": "details of this conversation, there is"
+    },
+    {
+      "start": 86.2,
+      "duration": 3.8,
+      "text": "one part that really stuck with me and"
+    },
+    {
+      "start": 88.3,
+      "duration": 3.4,
+      "text": "that's something that I think every SAS"
+    },
+    {
+      "start": 90.0,
+      "duration": 4.2,
+      "text": "founder needs to understand about what's"
+    },
+    {
+      "start": 91.8,
+      "duration": 4.9,
+      "text": "happening right now in our industry or"
+    },
+    {
+      "start": 94.2,
+      "duration": 4.7,
+      "text": "the many industries in which we build"
+    },
+    {
+      "start": 96.6,
+      "duration": 5.2,
+      "text": "software as a service solutions. So for"
+    },
+    {
+      "start": 99.0,
+      "duration": 4.5,
+      "text": "years software as a service SAS has been"
+    },
+    {
+      "start": 101.8,
+      "duration": 2.9,
+      "text": "the golden goose of entrepreneurship,"
+    },
+    {
+      "start": 103.4,
+      "duration": 3.2,
+      "text": "right? founders have been building"
+    },
+    {
+      "start": 104.7,
+      "duration": 5.1,
+      "text": "towards these beautiful acquisition"
+    },
+    {
+      "start": 106.6,
+      "duration": 5.2,
+      "text": "multiples. 6x, 10x, 20x their annual"
+    },
+    {
+      "start": 109.8,
+      "duration": 4.2,
+      "text": "revenue in whatever shape or form that"
+    },
+    {
+      "start": 111.8,
+      "duration": 3.9,
+      "text": "may be measured. There were a lot of X's"
+    },
+    {
+      "start": 114.0,
+      "duration": 3.7,
+      "text": "and a lot of numbers. And these numbers"
+    },
+    {
+      "start": 115.8,
+      "duration": 4.3,
+      "text": "weren't just wishful thinking. They were"
+    },
+    {
+      "start": 117.7,
+      "duration": 5.8,
+      "text": "based on real market dynamics. That was"
+    },
+    {
+      "start": 120.1,
+      "duration": 6.2,
+      "text": "actually the value of their companies."
+    },
+    {
+      "start": 123.4,
+      "duration": 5.1,
+      "text": "See, there used to be a fairly sizable"
+    },
+    {
+      "start": 126.3,
+      "duration": 4.2,
+      "text": "moat around SAS businesses, which is why"
+    },
+    {
+      "start": 128.6,
+      "duration": 3.6,
+      "text": "they got acquired for these prices. It"
+    },
+    {
+      "start": 130.6,
+      "duration": 3.9,
+      "text": "wasn't just about understanding the"
+    },
+    {
+      "start": 132.2,
+      "duration": 4.6,
+      "text": "market that you serve or having industry"
+    },
+    {
+      "start": 134.4,
+      "duration": 4.2,
+      "text": "expertise, but building the actual"
+    },
+    {
+      "start": 136.7,
+      "duration": 4.6,
+      "text": "technology of a software as a service"
+    },
+    {
+      "start": 138.6,
+      "duration": 5.2,
+      "text": "business was a technical feat. And I"
+    },
+    {
+      "start": 141.3,
+      "duration": 4.4,
+      "text": "don't just mean the product here. I mean"
+    },
+    {
+      "start": 143.8,
+      "duration": 3.7,
+      "text": "everything that enables the business,"
+    },
+    {
+      "start": 145.7,
+      "duration": 4.2,
+      "text": "like the sales pipelines, the marketing"
+    },
+    {
+      "start": 147.5,
+      "duration": 4.8,
+      "text": "automations, all these little things"
+    },
+    {
+      "start": 149.8,
+      "duration": 5.5,
+      "text": "that you had to clumsily and carefully"
+    },
+    {
+      "start": 152.3,
+      "duration": 5.8,
+      "text": "assemble over many, many years. It took"
+    },
+    {
+      "start": 155.4,
+      "duration": 4.6,
+      "text": "time to get things right to even come up"
+    },
+    {
+      "start": 158.1,
+      "duration": 3.6,
+      "text": "with things that nobody else may have"
+    },
+    {
+      "start": 159.9,
+      "duration": 4.8,
+      "text": "ever built in that particular shape or"
+    },
+    {
+      "start": 161.7,
+      "duration": 4.8,
+      "text": "form. And that expertise was encoded in"
+    },
+    {
+      "start": 164.7,
+      "duration": 3.8,
+      "text": "both the business model recurring"
+    },
+    {
+      "start": 166.5,
+      "duration": 5.4,
+      "text": "revenue which is amazing and focuses on"
+    },
+    {
+      "start": 168.6,
+      "duration": 5.0,
+      "text": "retention more than acquisition and in"
+    },
+    {
+      "start": 171.8,
+      "duration": 3.0,
+      "text": "the technical challenge of building the"
+    },
+    {
+      "start": 173.6,
+      "duration": 4.7,
+      "text": "product and all these little things"
+    },
+    {
+      "start": 174.9,
+      "duration": 5.0,
+      "text": "around it itself. So even when I started"
+    },
+    {
+      "start": 178.3,
+      "duration": 4.4,
+      "text": "pods scan and that is a year and a half"
+    },
+    {
+      "start": 179.9,
+      "duration": 4.5,
+      "text": "ago AI did not exist in a way that it"
+    },
+    {
+      "start": 182.7,
+      "duration": 4.4,
+      "text": "does now. I still had to build all of"
+    },
+    {
+      "start": 184.4,
+      "duration": 4.4,
+      "text": "this myself. Agentic coding was not a"
+    },
+    {
+      "start": 187.1,
+      "duration": 4.7,
+      "text": "thing. At least not for me and I"
+    },
+    {
+      "start": 188.8,
+      "duration": 4.6,
+      "text": "consider myself almost cutting edge when"
+    },
+    {
+      "start": 191.8,
+      "duration": 3.8,
+      "text": "it comes to that kind of stuff. It just"
+    },
+    {
+      "start": 193.4,
+      "duration": 5.4,
+      "text": "wasn't good enough for what I needed and"
+    },
+    {
+      "start": 195.6,
+      "duration": 6.1,
+      "text": "I didn't go too deep with it. There were"
+    },
+    {
+      "start": 198.8,
+      "duration": 6.2,
+      "text": "already LLM systems that could kind of"
+    },
+    {
+      "start": 201.7,
+      "duration": 6.1,
+      "text": "code for me, but in late 2023 when the"
+    },
+    {
+      "start": 205.0,
+      "duration": 4.8,
+      "text": "first prototype happened and early 2024,"
+    },
+    {
+      "start": 207.8,
+      "duration": 5.1,
+      "text": "all of that was still on the horizon. It"
+    },
+    {
+      "start": 209.8,
+      "duration": 5.4,
+      "text": "wasn't there yet. So let me maybe share"
+    },
+    {
+      "start": 212.9,
+      "duration": 5.0,
+      "text": "my experience building Potcan because it"
+    },
+    {
+      "start": 215.2,
+      "duration": 5.6,
+      "text": "illustrates a shift here perfectly. When"
+    },
+    {
+      "start": 217.9,
+      "duration": 5.7,
+      "text": "I started, I was able to spin up a"
+    },
+    {
+      "start": 220.8,
+      "duration": 5.0,
+      "text": "functioning money-making business within"
+    },
+    {
+      "start": 223.6,
+      "duration": 4.4,
+      "text": "a day or two, at least on the technical"
+    },
+    {
+      "start": 225.8,
+      "duration": 5.3,
+      "text": "side of things, using the Laravel"
+    },
+    {
+      "start": 228.0,
+      "duration": 5.2,
+      "text": "framework. And that was already so much"
+    },
+    {
+      "start": 231.1,
+      "duration": 4.1,
+      "text": "faster than maybe 10 years ago where I"
+    },
+    {
+      "start": 233.2,
+      "duration": 4.2,
+      "text": "would have to kind of again assemble all"
+    },
+    {
+      "start": 235.2,
+      "duration": 5.3,
+      "text": "of these components myself, build it"
+    },
+    {
+      "start": 237.4,
+      "duration": 5.0,
+      "text": "myself, build an authentication, build a"
+    },
+    {
+      "start": 240.5,
+      "duration": 4.1,
+      "text": "payment portal, integrate an API,"
+    },
+    {
+      "start": 242.4,
+      "duration": 4.7,
+      "text": "something like this. Laravel is"
+    },
+    {
+      "start": 244.6,
+      "duration": 4.8,
+      "text": "different. It is a framework that sits"
+    },
+    {
+      "start": 247.1,
+      "duration": 5.5,
+      "text": "on top of the PHP language and has a"
+    },
+    {
+      "start": 249.4,
+      "duration": 5.8,
+      "text": "very very amazing ecosystem of plugins"
+    },
+    {
+      "start": 252.6,
+      "duration": 3.9,
+      "text": "and tools and services around it that"
+    },
+    {
+      "start": 255.1,
+      "duration": 3.4,
+      "text": "really facilitate building a business on"
+    },
+    {
+      "start": 256.6,
+      "duration": 4.2,
+      "text": "top of it. This is not an ad for"
+    },
+    {
+      "start": 258.6,
+      "duration": 4.0,
+      "text": "Laravel, even though I highly recommend"
+    },
+    {
+      "start": 260.7,
+      "duration": 4.2,
+      "text": "everybody who wants to build a business"
+    },
+    {
+      "start": 262.6,
+      "duration": 4.2,
+      "text": "quickly to look into frameworks just"
+    },
+    {
+      "start": 265.0,
+      "duration": 4.2,
+      "text": "like Laravel or Ruby on Rails, like"
+    },
+    {
+      "start": 266.8,
+      "duration": 4.6,
+      "text": "these kind of established technologies"
+    },
+    {
+      "start": 269.2,
+      "duration": 4.0,
+      "text": "that are focused on making things easy"
+    },
+    {
+      "start": 271.4,
+      "duration": 4.2,
+      "text": "to build for people who want to build"
+    },
+    {
+      "start": 273.2,
+      "duration": 5.4,
+      "text": "businesses, not just software. But"
+    },
+    {
+      "start": 275.6,
+      "duration": 5.0,
+      "text": "again, it's less about the specific of"
+    },
+    {
+      "start": 278.6,
+      "duration": 4.1,
+      "text": "the framework and more about the fact"
+    },
+    {
+      "start": 280.6,
+      "duration": 4.9,
+      "text": "that there were frameworks there already"
+    },
+    {
+      "start": 282.7,
+      "duration": 4.7,
+      "text": "in the first place. and I had to pay for"
+    },
+    {
+      "start": 285.5,
+      "duration": 4.2,
+      "text": "some licenses for some kind of more"
+    },
+    {
+      "start": 287.4,
+      "duration": 4.3,
+      "text": "complex components, but most of it was"
+    },
+    {
+      "start": 289.7,
+      "duration": 4.0,
+      "text": "free and open- source. That's the"
+    },
+    {
+      "start": 291.8,
+      "duration": 3.8,
+      "text": "interesting angle of the Laravel"
+    },
+    {
+      "start": 293.7,
+      "duration": 4.4,
+      "text": "framework. And if you tune in over the"
+    },
+    {
+      "start": 295.6,
+      "duration": 4.6,
+      "text": "next couple weeks, we may or may not"
+    },
+    {
+      "start": 298.1,
+      "duration": 5.0,
+      "text": "have the person who built that framework"
+    },
+    {
+      "start": 300.2,
+      "duration": 5.8,
+      "text": "on this podcast. So yeah, tune in next"
+    },
+    {
+      "start": 303.0,
+      "duration": 4.8,
+      "text": "week maybe. I used a lot of services"
+    },
+    {
+      "start": 305.9,
+      "duration": 3.7,
+      "text": "again provided by the people behind"
+    },
+    {
+      "start": 307.8,
+      "duration": 3.4,
+      "text": "Laravel to help me deploy it more"
+    },
+    {
+      "start": 309.6,
+      "duration": 4.7,
+      "text": "reliably and for a couple hundred bucks"
+    },
+    {
+      "start": 311.3,
+      "duration": 5.6,
+      "text": "initially and a couple hours of work I"
+    },
+    {
+      "start": 314.3,
+      "duration": 5.8,
+      "text": "would call myself a 1x developer at best"
+    },
+    {
+      "start": 316.9,
+      "duration": 5.1,
+      "text": "maybe a 0.8x 8x developer, someone who"
+    },
+    {
+      "start": 320.1,
+      "duration": 4.7,
+      "text": "could code reasonably well but not a"
+    },
+    {
+      "start": 322.0,
+      "duration": 5.7,
+      "text": "wizard. I still after an hour or two I"
+    },
+    {
+      "start": 324.8,
+      "duration": 5.8,
+      "text": "had a running business just with all the"
+    },
+    {
+      "start": 327.7,
+      "duration": 4.4,
+      "text": "basic components in place and then"
+    },
+    {
+      "start": 330.6,
+      "duration": 3.6,
+      "text": "figuring out how to build the actual"
+    },
+    {
+      "start": 332.1,
+      "duration": 4.9,
+      "text": "product around it that may take another"
+    },
+    {
+      "start": 334.2,
+      "duration": 5.4,
+      "text": "day, a couple more weeks, but there was"
+    },
+    {
+      "start": 337.0,
+      "duration": 4.8,
+      "text": "already a lot available to me that"
+    },
+    {
+      "start": 339.5,
+      "duration": 4.0,
+      "text": "allowed me to hit the ground running."
+    },
+    {
+      "start": 341.8,
+      "duration": 3.6,
+      "text": "And it looked like a default template."
+    },
+    {
+      "start": 343.5,
+      "duration": 4.0,
+      "text": "It did the job though. I started"
+    },
+    {
+      "start": 345.4,
+      "duration": 4.0,
+      "text": "indexing a couple podcasts. I made them"
+    },
+    {
+      "start": 347.5,
+      "duration": 3.8,
+      "text": "searchable. I built the first"
+    },
+    {
+      "start": 349.4,
+      "duration": 5.1,
+      "text": "downloading system, the first like"
+    },
+    {
+      "start": 351.4,
+      "duration": 6.1,
+      "text": "transcription system. Within a week or"
+    },
+    {
+      "start": 354.5,
+      "duration": 4.9,
+      "text": "two, everything was already ready for me"
+    },
+    {
+      "start": 357.4,
+      "duration": 4.5,
+      "text": "to just implement this. And the arduous"
+    },
+    {
+      "start": 359.4,
+      "duration": 4.4,
+      "text": "task of building infrastructure to"
+    },
+    {
+      "start": 361.9,
+      "duration": 4.6,
+      "text": "capture more and more of the podcast"
+    },
+    {
+      "start": 363.8,
+      "duration": 4.8,
+      "text": "ecosystem until I reached 100% coverage."
+    },
+    {
+      "start": 366.5,
+      "duration": 4.7,
+      "text": "Well, that took a while, couple months."
+    },
+    {
+      "start": 368.6,
+      "duration": 5.5,
+      "text": "But initially that first prototype was"
+    },
+    {
+      "start": 371.2,
+      "duration": 6.6,
+      "text": "super easy to build and was all pre-ai"
+    },
+    {
+      "start": 374.1,
+      "duration": 5.4,
+      "text": "using default components. And now right"
+    },
+    {
+      "start": 377.8,
+      "duration": 4.1,
+      "text": "now and I've done this over the last"
+    },
+    {
+      "start": 379.4,
+      "duration": 5.6,
+      "text": "couple weeks I could go to bolt or"
+    },
+    {
+      "start": 381.9,
+      "duration": 6.2,
+      "text": "lovable or cursor or replet or whatever"
+    },
+    {
+      "start": 385.0,
+      "duration": 5.5,
+      "text": "agentic system I prefer. I could say in"
+    },
+    {
+      "start": 388.2,
+      "duration": 4.6,
+      "text": "a prompt almost verbatim build me a"
+    },
+    {
+      "start": 390.6,
+      "duration": 4.2,
+      "text": "laral application using Laravel 12."
+    },
+    {
+      "start": 392.7,
+      "duration": 4.2,
+      "text": "Implement an authentication system. I"
+    },
+    {
+      "start": 394.8,
+      "duration": 4.2,
+      "text": "need to be able to log in with Google. I"
+    },
+    {
+      "start": 397.0,
+      "duration": 4.8,
+      "text": "want a paddle account attached to this"
+    },
+    {
+      "start": 399.0,
+      "duration": 4.6,
+      "text": "connected to an SQLite database and then"
+    },
+    {
+      "start": 401.8,
+      "duration": 4.2,
+      "text": "to the prompt I would add what I"
+    },
+    {
+      "start": 403.6,
+      "duration": 5.4,
+      "text": "actually wanted it to do. I could tell"
+    },
+    {
+      "start": 405.9,
+      "duration": 5.7,
+      "text": "the agent exactly this and it would in"
+    },
+    {
+      "start": 409.0,
+      "duration": 6.5,
+      "text": "its agentic mode likely give me a"
+    },
+    {
+      "start": 411.6,
+      "duration": 6.0,
+      "text": "functioning system within 5 minutes, 10"
+    },
+    {
+      "start": 415.4,
+      "duration": 4.0,
+      "text": "minutes max. There might be a couple of"
+    },
+    {
+      "start": 417.6,
+      "duration": 5.1,
+      "text": "changes I need to make, but the AI"
+    },
+    {
+      "start": 419.4,
+      "duration": 5.4,
+      "text": "coding systems now are so good that they"
+    },
+    {
+      "start": 422.7,
+      "duration": 4.2,
+      "text": "can't really be compared to what AI is"
+    },
+    {
+      "start": 424.8,
+      "duration": 5.4,
+      "text": "if you only use it in a chat mode or"
+    },
+    {
+      "start": 427.0,
+      "duration": 5.8,
+      "text": "even the early versions of cursor or"
+    },
+    {
+      "start": 430.2,
+      "duration": 4.3,
+      "text": "GitHub copilot. The systems that I'm"
+    },
+    {
+      "start": 432.8,
+      "duration": 3.8,
+      "text": "using right now, which currently for me"
+    },
+    {
+      "start": 434.6,
+      "duration": 6.0,
+      "text": "is inside of PHP Storms, which is"
+    },
+    {
+      "start": 436.6,
+      "duration": 7.2,
+      "text": "Intelligj's uh PHP IDE, I use Juny,"
+    },
+    {
+      "start": 440.6,
+      "duration": 5.2,
+      "text": "which is their agentic coder. They call"
+    },
+    {
+      "start": 443.8,
+      "duration": 4.1,
+      "text": "it delegate your tasks, focus on the"
+    },
+    {
+      "start": 445.8,
+      "duration": 4.2,
+      "text": "results, which is exactly what agentic"
+    },
+    {
+      "start": 447.8,
+      "duration": 4.0,
+      "text": "coding is. I just prompt it and it uses"
+    },
+    {
+      "start": 450.0,
+      "duration": 4.5,
+      "text": "the context of the the whole application"
+    },
+    {
+      "start": 451.8,
+      "duration": 5.3,
+      "text": "to build the features that I want. Using"
+    },
+    {
+      "start": 454.5,
+      "duration": 5.0,
+      "text": "these tools now includes things like"
+    },
+    {
+      "start": 457.1,
+      "duration": 4.3,
+      "text": "self-linting and self-correcting like"
+    },
+    {
+      "start": 459.4,
+      "duration": 4.0,
+      "text": "they check the code they wrote back into"
+    },
+    {
+      "start": 461.4,
+      "duration": 4.3,
+      "text": "itself. Then they verify that it is"
+    },
+    {
+      "start": 463.4,
+      "duration": 4.1,
+      "text": "actually accurate and not hallucinated."
+    },
+    {
+      "start": 465.8,
+      "duration": 4.0,
+      "text": "And those hallucinations that it may"
+    },
+    {
+      "start": 467.5,
+      "duration": 5.3,
+      "text": "have, they still happen. you just don't"
+    },
+    {
+      "start": 469.8,
+      "duration": 5.0,
+      "text": "see it because the checking prompt built"
+    },
+    {
+      "start": 472.8,
+      "duration": 3.7,
+      "text": "into the agent catches them and finds a"
+    },
+    {
+      "start": 474.7,
+      "duration": 3.4,
+      "text": "non-h hallucinated version that actually"
+    },
+    {
+      "start": 476.5,
+      "duration": 3.6,
+      "text": "works. Like there's a lot of complexity"
+    },
+    {
+      "start": 478.1,
+      "duration": 5.6,
+      "text": "behind the scenes that these agents just"
+    },
+    {
+      "start": 480.1,
+      "duration": 5.6,
+      "text": "kind of go through. And it is very"
+    },
+    {
+      "start": 483.7,
+      "duration": 5.0,
+      "text": "surprising how high quality the output"
+    },
+    {
+      "start": 485.7,
+      "duration": 5.1,
+      "text": "of these tools can be. I can now spin up"
+    },
+    {
+      "start": 488.6,
+      "duration": 5.1,
+      "text": "what used to take me a day or two, maybe"
+    },
+    {
+      "start": 490.8,
+      "duration": 5.4,
+      "text": "a week within a couple minutes. And it"
+    },
+    {
+      "start": 493.8,
+      "duration": 4.6,
+      "text": "might take me an hour to customize the"
+    },
+    {
+      "start": 496.2,
+      "duration": 4.4,
+      "text": "logo and whatnot. But the first initial"
+    },
+    {
+      "start": 498.3,
+      "duration": 4.6,
+      "text": "version of a SAS product is out in an"
+    },
+    {
+      "start": 500.6,
+      "duration": 5.4,
+      "text": "hour and maybe a day if I want to spend"
+    },
+    {
+      "start": 503.0,
+      "duration": 5.7,
+      "text": "some more attention on certain details."
+    },
+    {
+      "start": 506.0,
+      "duration": 4.9,
+      "text": "What used to take weeks then took a day"
+    },
+    {
+      "start": 508.6,
+      "duration": 4.7,
+      "text": "and it now takes an hour or just a"
+    },
+    {
+      "start": 510.9,
+      "duration": 4.8,
+      "text": "couple minutes. And here's where things"
+    },
+    {
+      "start": 513.4,
+      "duration": 5.0,
+      "text": "get interesting for us SAS founders and"
+    },
+    {
+      "start": 515.7,
+      "duration": 4.5,
+      "text": "it gets a little scary for us too. If"
+    },
+    {
+      "start": 518.4,
+      "duration": 3.8,
+      "text": "your mode was supposed to be your skill"
+    },
+    {
+      "start": 520.2,
+      "duration": 3.4,
+      "text": "at building a product, implementing all"
+    },
+    {
+      "start": 522.2,
+      "duration": 3.7,
+      "text": "the features, understanding business"
+    },
+    {
+      "start": 523.5,
+      "duration": 4.1,
+      "text": "logic enough to build the technology,"
+    },
+    {
+      "start": 525.8,
+      "duration": 3.8,
+      "text": "then obviously somebody else who has"
+    },
+    {
+      "start": 527.6,
+      "duration": 3.4,
+      "text": "similar insight into your industry, who"
+    },
+    {
+      "start": 529.6,
+      "duration": 3.6,
+      "text": "understands the challenges and problems"
+    },
+    {
+      "start": 531.0,
+      "duration": 3.7,
+      "text": "of your potential customers, and who may"
+    },
+    {
+      "start": 533.2,
+      "duration": 3.2,
+      "text": "have the customer perspective and"
+    },
+    {
+      "start": 534.7,
+      "duration": 5.0,
+      "text": "understand what jobs they want to get"
+    },
+    {
+      "start": 536.4,
+      "duration": 5.5,
+      "text": "done, if they can prompt AI accurately"
+    },
+    {
+      "start": 539.7,
+      "duration": 5.0,
+      "text": "today, they'll be at least"
+    },
+    {
+      "start": 542.0,
+      "duration": 5.3,
+      "text": "95% of the way to what a team with a"
+    },
+    {
+      "start": 544.7,
+      "duration": 4.7,
+      "text": "CEO, a capable designer, a product"
+    },
+    {
+      "start": 547.3,
+      "duration": 4.9,
+      "text": "owner, and an industry expert would have"
+    },
+    {
+      "start": 549.4,
+      "duration": 4.7,
+      "text": "built 5 years ago. But today they also"
+    },
+    {
+      "start": 552.2,
+      "duration": 4.6,
+      "text": "use these tools. So they are ahead a"
+    },
+    {
+      "start": 554.2,
+      "duration": 5.2,
+      "text": "little bit but the margin is slimming"
+    },
+    {
+      "start": 556.7,
+      "duration": 6.0,
+      "text": "here. You can now do all of this by"
+    },
+    {
+      "start": 559.4,
+      "duration": 5.7,
+      "text": "facilitating AI systems. It's very easy"
+    },
+    {
+      "start": 562.7,
+      "duration": 4.6,
+      "text": "and it's just good enough for prototypes"
+    },
+    {
+      "start": 565.0,
+      "duration": 5.6,
+      "text": "and even full applications beyond. The"
+    },
+    {
+      "start": 567.4,
+      "duration": 5.4,
+      "text": "mode is disappearing and I think this"
+    },
+    {
+      "start": 570.6,
+      "duration": 4.2,
+      "text": "has lasting repercussions for the"
+    },
+    {
+      "start": 572.7,
+      "duration": 4.7,
+      "text": "investment and acquisition angle for"
+    },
+    {
+      "start": 574.9,
+      "duration": 4.2,
+      "text": "software as a service businesses. Here's"
+    },
+    {
+      "start": 577.4,
+      "duration": 4.2,
+      "text": "the question that is being asked in"
+    },
+    {
+      "start": 579.1,
+      "duration": 4.6,
+      "text": "boardrooms all over the place right now."
+    },
+    {
+      "start": 581.6,
+      "duration": 4.2,
+      "text": "Why would we want to acquire a company"
+    },
+    {
+      "start": 583.8,
+      "duration": 5.2,
+      "text": "for 10 times the revenue that they"
+    },
+    {
+      "start": 585.8,
+      "duration": 5.4,
+      "text": "produce if we can set aside, let's say,"
+    },
+    {
+      "start": 589.0,
+      "duration": 5.0,
+      "text": "one times that revenue that that company"
+    },
+    {
+      "start": 591.3,
+      "duration": 4.6,
+      "text": "produces, give the project of building"
+    },
+    {
+      "start": 594.0,
+      "duration": 3.9,
+      "text": "something just similar enough to a"
+    },
+    {
+      "start": 595.9,
+      "duration": 4.2,
+      "text": "technical manager or a senior developer"
+    },
+    {
+      "start": 597.9,
+      "duration": 5.0,
+      "text": "and pay for a fleet of AI agents to"
+    },
+    {
+      "start": 600.2,
+      "duration": 7.8,
+      "text": "build the same thing? Could we get 80%"
+    },
+    {
+      "start": 603.0,
+      "duration": 7.0,
+      "text": "there with 20% of the cost? And I think"
+    },
+    {
+      "start": 607.9,
+      "duration": 3.4,
+      "text": "we're getting there. I'm obviously not"
+    },
+    {
+      "start": 610.0,
+      "duration": 3.0,
+      "text": "saying that this is going to work every"
+    },
+    {
+      "start": 611.4,
+      "duration": 3.6,
+      "text": "single time. Like a software business"
+    },
+    {
+      "start": 613.0,
+      "duration": 3.5,
+      "text": "has way more than just the product and"
+    },
+    {
+      "start": 615.0,
+      "duration": 4.0,
+      "text": "the codebase that is attached to it,"
+    },
+    {
+      "start": 616.6,
+      "duration": 4.3,
+      "text": "right? It needs a sales process and"
+    },
+    {
+      "start": 619.0,
+      "duration": 4.8,
+      "text": "marketing process, customer support"
+    },
+    {
+      "start": 620.9,
+      "duration": 4.7,
+      "text": "process, all that. But if you already"
+    },
+    {
+      "start": 623.8,
+      "duration": 3.4,
+      "text": "have these processes in house cuz you"
+    },
+    {
+      "start": 625.6,
+      "duration": 3.9,
+      "text": "have a successful business that is"
+    },
+    {
+      "start": 627.2,
+      "duration": 4.1,
+      "text": "looking to acquire or you just have"
+    },
+    {
+      "start": 629.5,
+      "duration": 3.4,
+      "text": "something similar enough that it would"
+    },
+    {
+      "start": 631.3,
+      "duration": 3.8,
+      "text": "warrant acquiring another product just"
+    },
+    {
+      "start": 633.0,
+      "duration": 3.7,
+      "text": "like it. Be it a financial acquisition"
+    },
+    {
+      "start": 635.1,
+      "duration": 3.0,
+      "text": "if you want to keep it running or a"
+    },
+    {
+      "start": 636.6,
+      "duration": 4.0,
+      "text": "strategic acquisition because you need"
+    },
+    {
+      "start": 638.1,
+      "duration": 5.1,
+      "text": "the customers or the features of that"
+    },
+    {
+      "start": 640.6,
+      "duration": 4.8,
+      "text": "product, you're not necessarily going to"
+    },
+    {
+      "start": 643.2,
+      "duration": 3.8,
+      "text": "pay 10x when you can try to build it"
+    },
+    {
+      "start": 645.4,
+      "duration": 4.1,
+      "text": "yourself for a fraction of the cost"
+    },
+    {
+      "start": 647.0,
+      "duration": 4.2,
+      "text": "first. You might still then acquire it,"
+    },
+    {
+      "start": 649.5,
+      "duration": 4.9,
+      "text": "but maybe for less cuz you already spent"
+    },
+    {
+      "start": 651.3,
+      "duration": 5.0,
+      "text": "some money. That also squeezes the"
+    },
+    {
+      "start": 654.4,
+      "duration": 4.0,
+      "text": "potential multiple. And these"
+    },
+    {
+      "start": 656.2,
+      "duration": 4.2,
+      "text": "conversations are actually happening in"
+    },
+    {
+      "start": 658.4,
+      "duration": 4.8,
+      "text": "boardrooms right now. Not just there,"
+    },
+    {
+      "start": 660.5,
+      "duration": 4.3,
+      "text": "like even among the team members of"
+    },
+    {
+      "start": 663.2,
+      "duration": 4.0,
+      "text": "these companies, they're like, \"Well,"
+    },
+    {
+      "start": 664.8,
+      "duration": 4.7,
+      "text": "this is a cool tool. I think we should"
+    },
+    {
+      "start": 667.2,
+      "duration": 4.2,
+      "text": "look into building exactly this for us."
+    },
+    {
+      "start": 669.5,
+      "duration": 4.9,
+      "text": "Let's spin up a couple agents and give"
+    },
+    {
+      "start": 671.4,
+      "duration": 5.9,
+      "text": "them a well scoped prompt and see what"
+    },
+    {
+      "start": 674.4,
+      "duration": 5.0,
+      "text": "happens and then take it from there.\""
+    },
+    {
+      "start": 677.3,
+      "duration": 4.6,
+      "text": "And this altogether puts negative"
+    },
+    {
+      "start": 679.4,
+      "duration": 5.8,
+      "text": "pressure on the expected multiples for"
+    },
+    {
+      "start": 681.9,
+      "duration": 6.2,
+      "text": "SAS businesses. If the value of the"
+    },
+    {
+      "start": 685.2,
+      "duration": 5.4,
+      "text": "technology is shrinking because it's so"
+    },
+    {
+      "start": 688.1,
+      "duration": 4.5,
+      "text": "replicable then the value of the company"
+    },
+    {
+      "start": 690.6,
+      "duration": 4.6,
+      "text": "that built around the technology shrinks"
+    },
+    {
+      "start": 692.6,
+      "duration": 4.8,
+      "text": "as well at least in the perception of"
+    },
+    {
+      "start": 695.2,
+      "duration": 5.2,
+      "text": "the people who have to send you money to"
+    },
+    {
+      "start": 697.4,
+      "duration": 6.1,
+      "text": "buy your company. So what can we do"
+    },
+    {
+      "start": 700.4,
+      "duration": 5.1,
+      "text": "still to sell at high multiples to build"
+    },
+    {
+      "start": 703.5,
+      "duration": 4.6,
+      "text": "valuable businesses that are valuable"
+    },
+    {
+      "start": 705.5,
+      "duration": 4.3,
+      "text": "enough to actually get acquired? I think"
+    },
+    {
+      "start": 708.1,
+      "duration": 4.2,
+      "text": "we need to do things that are not easily"
+    },
+    {
+      "start": 709.8,
+      "duration": 5.5,
+      "text": "generated with AI obviously where AI"
+    },
+    {
+      "start": 712.2,
+      "duration": 5.6,
+      "text": "just cannot do this for us and that"
+    },
+    {
+      "start": 715.4,
+      "duration": 5.4,
+      "text": "tends to be the human side of things. I"
+    },
+    {
+      "start": 717.8,
+      "duration": 5.9,
+      "text": "think first industry insight that cannot"
+    },
+    {
+      "start": 720.7,
+      "duration": 5.4,
+      "text": "be trained is a massively important"
+    },
+    {
+      "start": 723.8,
+      "duration": 4.7,
+      "text": "thing here like we need highly connected"
+    },
+    {
+      "start": 726.2,
+      "duration": 4.7,
+      "text": "salespeople. We need industry insights"
+    },
+    {
+      "start": 728.5,
+      "duration": 4.7,
+      "text": "that is elusive to AI systems because"
+    },
+    {
+      "start": 730.9,
+      "duration": 4.5,
+      "text": "it's insight that is so specific and"
+    },
+    {
+      "start": 733.2,
+      "duration": 4.4,
+      "text": "earned from decades of being in an"
+    },
+    {
+      "start": 735.4,
+      "duration": 4.0,
+      "text": "industry or working with certain people"
+    },
+    {
+      "start": 737.6,
+      "duration": 4.6,
+      "text": "that is so encoded in your real"
+    },
+    {
+      "start": 739.4,
+      "duration": 5.3,
+      "text": "experiences that AI could not have been"
+    },
+    {
+      "start": 742.2,
+      "duration": 4.9,
+      "text": "trained on this or even if it has been"
+    },
+    {
+      "start": 744.6,
+      "duration": 4.7,
+      "text": "trained on it a little bit it hasn't"
+    },
+    {
+      "start": 747.1,
+      "duration": 4.4,
+      "text": "been trained efficiently to synthesize"
+    },
+    {
+      "start": 749.4,
+      "duration": 3.8,
+      "text": "this kind of information yet. It doesn't"
+    },
+    {
+      "start": 751.5,
+      "duration": 4.3,
+      "text": "have the instinct that a good"
+    },
+    {
+      "start": 753.1,
+      "duration": 5.4,
+      "text": "salesperson has or that a CEO who really"
+    },
+    {
+      "start": 755.8,
+      "duration": 5.0,
+      "text": "gets their customers has. AI can only"
+    },
+    {
+      "start": 758.6,
+      "duration": 4.8,
+      "text": "generalize, but it might not be able to"
+    },
+    {
+      "start": 760.9,
+      "duration": 5.1,
+      "text": "take a specific viewpoint to look into"
+    },
+    {
+      "start": 763.4,
+      "duration": 5.9,
+      "text": "one particular customer perspective"
+    },
+    {
+      "start": 766.0,
+      "duration": 5.4,
+      "text": "easily enough. There's immense value in"
+    },
+    {
+      "start": 769.3,
+      "duration": 4.0,
+      "text": "unique human experience and the personal"
+    },
+    {
+      "start": 771.4,
+      "duration": 3.8,
+      "text": "brand that will make something more"
+    },
+    {
+      "start": 773.3,
+      "duration": 3.9,
+      "text": "valuable than just its technical"
+    },
+    {
+      "start": 775.1,
+      "duration": 3.8,
+      "text": "implementation as well. If I build a"
+    },
+    {
+      "start": 777.2,
+      "duration": 4.5,
+      "text": "tool and I build an audience around it,"
+    },
+    {
+      "start": 779.0,
+      "duration": 4.8,
+      "text": "which I personally have, and I built a"
+    },
+    {
+      "start": 781.7,
+      "duration": 3.3,
+      "text": "business on the overlap of my personal"
+    },
+    {
+      "start": 783.8,
+      "duration": 3.3,
+      "text": "brand and the brand that tool"
+    },
+    {
+      "start": 785.0,
+      "duration": 3.9,
+      "text": "represents, then all of a sudden the"
+    },
+    {
+      "start": 787.0,
+      "duration": 4.0,
+      "text": "business and the product becomes much"
+    },
+    {
+      "start": 788.9,
+      "duration": 4.7,
+      "text": "more interesting to acquire because it"
+    },
+    {
+      "start": 791.0,
+      "duration": 5.1,
+      "text": "has a reputational advantage, not just"
+    },
+    {
+      "start": 793.6,
+      "duration": 4.6,
+      "text": "it's easily copied or somewhat easily"
+    },
+    {
+      "start": 796.2,
+      "duration": 5.0,
+      "text": "copied technical"
+    },
+    {
+      "start": 798.2,
+      "duration": 6.0,
+      "text": "implementation. That is very very"
+    },
+    {
+      "start": 801.1,
+      "duration": 6.5,
+      "text": "important. If you build a product today"
+    },
+    {
+      "start": 804.2,
+      "duration": 5.4,
+      "text": "and you're anonymous, oof, you have a"
+    },
+    {
+      "start": 807.6,
+      "duration": 5.2,
+      "text": "problem. I'll get to that in a minute. I"
+    },
+    {
+      "start": 809.7,
+      "duration": 5.8,
+      "text": "think the second point that is equally"
+    },
+    {
+      "start": 812.8,
+      "duration": 4.4,
+      "text": "important here is that we need strategic"
+    },
+    {
+      "start": 815.4,
+      "duration": 5.0,
+      "text": "integrations and partnerships for our"
+    },
+    {
+      "start": 817.2,
+      "duration": 5.7,
+      "text": "businesses as soon as we can. Existing"
+    },
+    {
+      "start": 820.4,
+      "duration": 5.2,
+      "text": "collaborative integrations into other"
+    },
+    {
+      "start": 822.9,
+      "duration": 4.5,
+      "text": "platforms, they will be much more"
+    },
+    {
+      "start": 825.6,
+      "duration": 4.2,
+      "text": "important going forward. Like there's"
+    },
+    {
+      "start": 827.4,
+      "duration": 4.1,
+      "text": "value in having some kind of contractual"
+    },
+    {
+      "start": 829.8,
+      "duration": 3.8,
+      "text": "relationship with another player in the"
+    },
+    {
+      "start": 831.5,
+      "duration": 4.1,
+      "text": "field where they have plugged you as"
+    },
+    {
+      "start": 833.5,
+      "duration": 3.9,
+      "text": "maybe one of their preferred vendors or"
+    },
+    {
+      "start": 835.6,
+      "duration": 3.9,
+      "text": "you're listed on their blog as the tool"
+    },
+    {
+      "start": 837.4,
+      "duration": 3.4,
+      "text": "to solve this particular problem best or"
+    },
+    {
+      "start": 839.5,
+      "duration": 3.0,
+      "text": "they have an actual technical"
+    },
+    {
+      "start": 840.8,
+      "duration": 3.3,
+      "text": "integration with your API. Maybe you're"
+    },
+    {
+      "start": 842.6,
+      "duration": 3.3,
+      "text": "featured in case studies that they have"
+    },
+    {
+      "start": 844.1,
+      "duration": 3.0,
+      "text": "and they feature in case studies that"
+    },
+    {
+      "start": 845.8,
+      "duration": 3.4,
+      "text": "you have. There is kind of this"
+    },
+    {
+      "start": 847.1,
+      "duration": 4.4,
+      "text": "reputational alignment with other"
+    },
+    {
+      "start": 849.2,
+      "duration": 3.9,
+      "text": "existing successful players in the"
+    },
+    {
+      "start": 851.5,
+      "duration": 3.8,
+      "text": "industry in the in the space that you"
+    },
+    {
+      "start": 853.1,
+      "duration": 3.8,
+      "text": "operate in or you share case studies."
+    },
+    {
+      "start": 855.4,
+      "duration": 3.3,
+      "text": "You show the relationships between your"
+    },
+    {
+      "start": 857.0,
+      "duration": 3.7,
+      "text": "businesses and other businesses in the"
+    },
+    {
+      "start": 858.6,
+      "duration": 4.2,
+      "text": "field. All of a sudden, this becomes"
+    },
+    {
+      "start": 860.6,
+      "duration": 4.2,
+      "text": "invaluable because your product can be"
+    },
+    {
+      "start": 862.8,
+      "duration": 3.9,
+      "text": "cloned, but the many business dinners"
+    },
+    {
+      "start": 864.9,
+      "duration": 3.5,
+      "text": "that you went to to find somebody to"
+    },
+    {
+      "start": 866.7,
+      "duration": 3.4,
+      "text": "partner with and the give and take"
+    },
+    {
+      "start": 868.4,
+      "duration": 3.5,
+      "text": "negotiations to come up with a mutual"
+    },
+    {
+      "start": 870.1,
+      "duration": 3.9,
+      "text": "agreement on how a partnership should"
+    },
+    {
+      "start": 871.9,
+      "duration": 4.9,
+      "text": "look and then the details of that, this"
+    },
+    {
+      "start": 874.0,
+      "duration": 5.0,
+      "text": "cannot be done by an AI yet. There's"
+    },
+    {
+      "start": 876.8,
+      "duration": 5.3,
+      "text": "always the caveat here, but at least it"
+    },
+    {
+      "start": 879.0,
+      "duration": 5.0,
+      "text": "takes more time than an AI prompt can"
+    },
+    {
+      "start": 882.1,
+      "duration": 3.5,
+      "text": "deliver results or meaningful value"
+    },
+    {
+      "start": 884.1,
+      "duration": 5.0,
+      "text": "from, right? This is something that"
+    },
+    {
+      "start": 885.6,
+      "duration": 5.9,
+      "text": "happens on an async between humans kind"
+    },
+    {
+      "start": 889.1,
+      "duration": 4.8,
+      "text": "of basis and that cannot be easily"
+    },
+    {
+      "start": 891.5,
+      "duration": 5.1,
+      "text": "automated into an AI system. You could"
+    },
+    {
+      "start": 893.9,
+      "duration": 5.0,
+      "text": "probably try to do a bisdev AI but I'm"
+    },
+    {
+      "start": 896.6,
+      "duration": 4.5,
+      "text": "not sure if the people that actually"
+    },
+    {
+      "start": 899.0,
+      "duration": 4.5,
+      "text": "interact with that AI would be the"
+    },
+    {
+      "start": 901.1,
+      "duration": 5.1,
+      "text": "people that a real business development"
+    },
+    {
+      "start": 903.4,
+      "duration": 5.4,
+      "text": "person would try to build a relationship"
+    },
+    {
+      "start": 906.2,
+      "duration": 5.9,
+      "text": "with. So having strategic partnerships"
+    },
+    {
+      "start": 908.9,
+      "duration": 6.2,
+      "text": "and exactly mirroring those integrations"
+    },
+    {
+      "start": 912.2,
+      "duration": 6.3,
+      "text": "between the businesses is very very"
+    },
+    {
+      "start": 915.0,
+      "duration": 6.4,
+      "text": "important just to stand out from those"
+    },
+    {
+      "start": 918.5,
+      "duration": 5.2,
+      "text": "companies and those products who don't."
+    },
+    {
+      "start": 921.4,
+      "duration": 4.3,
+      "text": "And if you want to create a SAS business"
+    },
+    {
+      "start": 923.7,
+      "duration": 4.6,
+      "text": "that is protected from being easily"
+    },
+    {
+      "start": 925.8,
+      "duration": 3.9,
+      "text": "cloned well you need to effectively do"
+    },
+    {
+      "start": 928.2,
+      "duration": 3.2,
+      "text": "things that aren't easily automated"
+    },
+    {
+      "start": 929.7,
+      "duration": 3.8,
+      "text": "because that's what cloning is. And this"
+    },
+    {
+      "start": 931.4,
+      "duration": 3.6,
+      "text": "is all just relational stuff. It's all"
+    },
+    {
+      "start": 933.4,
+      "duration": 3.4,
+      "text": "interpersonal things that need to be"
+    },
+    {
+      "start": 935.0,
+      "duration": 4.9,
+      "text": "deployed to protect your business from"
+    },
+    {
+      "start": 936.9,
+      "duration": 5.9,
+      "text": "being a shallow AI copy. Personal brand"
+    },
+    {
+      "start": 939.9,
+      "duration": 5.0,
+      "text": "works. I see this so much in the SAS"
+    },
+    {
+      "start": 942.8,
+      "duration": 5.3,
+      "text": "space. People who still sell for great"
+    },
+    {
+      "start": 944.9,
+      "duration": 5.0,
+      "text": "multiples are people that are known. If"
+    },
+    {
+      "start": 948.1,
+      "duration": 3.6,
+      "text": "you are the business that has an edge"
+    },
+    {
+      "start": 949.8,
+      "duration": 3.7,
+      "text": "because there's a person attached to it."
+    },
+    {
+      "start": 951.7,
+      "duration": 3.3,
+      "text": "People tend to check out the human one"
+    },
+    {
+      "start": 953.5,
+      "duration": 3.7,
+      "text": "first, the human business, the business"
+    },
+    {
+      "start": 955.0,
+      "duration": 5.1,
+      "text": "with humans, and give it the benefit of"
+    },
+    {
+      "start": 957.2,
+      "duration": 4.6,
+      "text": "the doubt over the anonymous one. I"
+    },
+    {
+      "start": 960.1,
+      "duration": 3.3,
+      "text": "highly recommend that software as a"
+    },
+    {
+      "start": 961.8,
+      "duration": 3.5,
+      "text": "service founders be public as the"
+    },
+    {
+      "start": 963.4,
+      "duration": 3.6,
+      "text": "founders of their business. Not only"
+    },
+    {
+      "start": 965.3,
+      "duration": 3.5,
+      "text": "will this create a positive relationship"
+    },
+    {
+      "start": 967.0,
+      "duration": 3.6,
+      "text": "with customers, like obviously if you"
+    },
+    {
+      "start": 968.8,
+      "duration": 3.9,
+      "text": "are the person that runs the business"
+    },
+    {
+      "start": 970.6,
+      "duration": 3.7,
+      "text": "and people who try out your product see"
+    },
+    {
+      "start": 972.7,
+      "duration": 3.6,
+      "text": "you're interacting with them, that's"
+    },
+    {
+      "start": 974.2,
+      "duration": 4.1,
+      "text": "amazing. Barely anybody does this. But"
+    },
+    {
+      "start": 976.3,
+      "duration": 4.6,
+      "text": "it will also put you on the map for your"
+    },
+    {
+      "start": 978.3,
+      "duration": 5.1,
+      "text": "founder peers and investors in that"
+    },
+    {
+      "start": 981.0,
+      "duration": 4.3,
+      "text": "community that keep a watchful eye on"
+    },
+    {
+      "start": 983.4,
+      "duration": 3.1,
+      "text": "people who go to conferences, who share"
+    },
+    {
+      "start": 985.3,
+      "duration": 3.1,
+      "text": "interesting insights, who build"
+    },
+    {
+      "start": 986.6,
+      "duration": 3.4,
+      "text": "interesting products, not just because"
+    },
+    {
+      "start": 988.4,
+      "duration": 3.4,
+      "text": "they want to acquire them, but because"
+    },
+    {
+      "start": 990.0,
+      "duration": 4.0,
+      "text": "they have interesting human"
+    },
+    {
+      "start": 991.8,
+      "duration": 4.1,
+      "text": "personalities behind them and that makes"
+    },
+    {
+      "start": 994.0,
+      "duration": 5.0,
+      "text": "them interesting to connect with, which"
+    },
+    {
+      "start": 995.9,
+      "duration": 6.0,
+      "text": "then later down the road leads to better"
+    },
+    {
+      "start": 999.0,
+      "duration": 5.1,
+      "text": "leads for an acquisition. And here's"
+    },
+    {
+      "start": 1001.9,
+      "duration": 4.7,
+      "text": "something else that is very interesting"
+    },
+    {
+      "start": 1004.2,
+      "duration": 5.4,
+      "text": "that more companies are missing at this"
+    },
+    {
+      "start": 1006.6,
+      "duration": 4.9,
+      "text": "point. There's a lack of serendipity and"
+    },
+    {
+      "start": 1009.6,
+      "duration": 4.3,
+      "text": "opportunity when it comes to having"
+    },
+    {
+      "start": 1011.5,
+      "duration": 4.7,
+      "text": "human employees. I never thought I would"
+    },
+    {
+      "start": 1013.9,
+      "duration": 5.0,
+      "text": "have to use the phrase human employees"
+    },
+    {
+      "start": 1016.2,
+      "duration": 5.1,
+      "text": "in my life because obviously with AI"
+    },
+    {
+      "start": 1019.0,
+      "duration": 3.9,
+      "text": "agents, we have virtual employees. And"
+    },
+    {
+      "start": 1021.4,
+      "duration": 4.6,
+      "text": "you see a lot of software development"
+    },
+    {
+      "start": 1022.9,
+      "duration": 5.0,
+      "text": "companies where people try a product"
+    },
+    {
+      "start": 1025.9,
+      "duration": 4.8,
+      "text": "because there's a colorful or helpful or"
+    },
+    {
+      "start": 1027.9,
+      "duration": 4.6,
+      "text": "kind personality working at that company"
+    },
+    {
+      "start": 1030.7,
+      "duration": 4.1,
+      "text": "and they are just being relentlessly"
+    },
+    {
+      "start": 1032.5,
+      "duration": 3.9,
+      "text": "themselves on social media in good ways."
+    },
+    {
+      "start": 1034.8,
+      "duration": 3.6,
+      "text": "Like GitHub does this really well. They"
+    },
+    {
+      "start": 1036.4,
+      "duration": 4.5,
+      "text": "have a lot of people obviously who share"
+    },
+    {
+      "start": 1038.4,
+      "duration": 4.5,
+      "text": "a lot of their insights on social media"
+    },
+    {
+      "start": 1040.9,
+      "duration": 4.2,
+      "text": "and then just by being real people I'm"
+    },
+    {
+      "start": 1042.9,
+      "duration": 4.7,
+      "text": "like okay well if those people built the"
+    },
+    {
+      "start": 1045.1,
+      "duration": 4.2,
+      "text": "software at GitHub I will keep using"
+    },
+    {
+      "start": 1047.6,
+      "duration": 3.7,
+      "text": "that and not go to the alternative right"
+    },
+    {
+      "start": 1049.4,
+      "duration": 3.8,
+      "text": "and a lot of other services do the exact"
+    },
+    {
+      "start": 1051.3,
+      "duration": 3.8,
+      "text": "same thing. Sentry comes to mind. It's"
+    },
+    {
+      "start": 1053.2,
+      "duration": 4.2,
+      "text": "equally interesting. It's just they have"
+    },
+    {
+      "start": 1055.0,
+      "duration": 4.7,
+      "text": "good employees. They have capable"
+    },
+    {
+      "start": 1057.4,
+      "duration": 4.8,
+      "text": "employees who have a point of view and"
+    },
+    {
+      "start": 1059.8,
+      "duration": 4.3,
+      "text": "they share it. And for that reason, I"
+    },
+    {
+      "start": 1062.2,
+      "duration": 4.6,
+      "text": "kind of attach some kind of value and"
+    },
+    {
+      "start": 1064.1,
+      "duration": 4.2,
+      "text": "authenticity to the company. And it"
+    },
+    {
+      "start": 1066.7,
+      "duration": 4.0,
+      "text": "doesn't really matter what their"
+    },
+    {
+      "start": 1068.2,
+      "duration": 4.0,
+      "text": "personality is as long as people are"
+    },
+    {
+      "start": 1070.7,
+      "duration": 3.9,
+      "text": "showing up as their true selves on"
+    },
+    {
+      "start": 1072.2,
+      "duration": 4.4,
+      "text": "social media. The businesses that they"
+    },
+    {
+      "start": 1074.6,
+      "duration": 3.4,
+      "text": "work for tends to get a lot of positive"
+    },
+    {
+      "start": 1076.6,
+      "duration": 3.0,
+      "text": "attention. And you know, if you have"
+    },
+    {
+      "start": 1078.1,
+      "duration": 3.4,
+      "text": "people who have a point of view and a"
+    },
+    {
+      "start": 1079.7,
+      "duration": 4.0,
+      "text": "community, your business will benefit"
+    },
+    {
+      "start": 1081.4,
+      "duration": 4.5,
+      "text": "from this. And this falls flat"
+    },
+    {
+      "start": 1083.7,
+      "duration": 4.7,
+      "text": "completely if you don't have humans as"
+    },
+    {
+      "start": 1085.9,
+      "duration": 4.1,
+      "text": "employees. If all your company does is"
+    },
+    {
+      "start": 1088.4,
+      "duration": 3.8,
+      "text": "you as a founder giving commands to an"
+    },
+    {
+      "start": 1090.0,
+      "duration": 3.9,
+      "text": "AI system, which frankly is exactly what"
+    },
+    {
+      "start": 1092.2,
+      "duration": 3.8,
+      "text": "I'm doing right now with Podscan, but"
+    },
+    {
+      "start": 1093.9,
+      "duration": 4.0,
+      "text": "we're not at the size where employees"
+    },
+    {
+      "start": 1096.0,
+      "duration": 4.0,
+      "text": "would even be an option, then the"
+    },
+    {
+      "start": 1097.9,
+      "duration": 4.5,
+      "text": "opportunity for a developer that works"
+    },
+    {
+      "start": 1100.0,
+      "duration": 3.9,
+      "text": "for you to just say something cool on"
+    },
+    {
+      "start": 1102.4,
+      "duration": 3.0,
+      "text": "social media and people checking it out"
+    },
+    {
+      "start": 1103.9,
+      "duration": 2.8,
+      "text": "and checking out your product and"
+    },
+    {
+      "start": 1105.4,
+      "duration": 3.2,
+      "text": "suddenly they have a friend that might"
+    },
+    {
+      "start": 1106.7,
+      "duration": 4.6,
+      "text": "want to use it. Well, that serendipity"
+    },
+    {
+      "start": 1108.6,
+      "duration": 5.1,
+      "text": "potential is completely obliterated if"
+    },
+    {
+      "start": 1111.3,
+      "duration": 4.6,
+      "text": "your AI agent is the only one doing the"
+    },
+    {
+      "start": 1113.7,
+      "duration": 3.9,
+      "text": "work cuz they're completely virtual."
+    },
+    {
+      "start": 1115.8,
+      "duration": 3.7,
+      "text": "They're not a real human personality."
+    },
+    {
+      "start": 1117.6,
+      "duration": 5.4,
+      "text": "They don't have a social media account"
+    },
+    {
+      "start": 1119.6,
+      "duration": 6.8,
+      "text": "yet and they will never do anything but"
+    },
+    {
+      "start": 1123.0,
+      "duration": 5.8,
+      "text": "create code. Developers are people and"
+    },
+    {
+      "start": 1126.3,
+      "duration": 4.9,
+      "text": "people are relationship builders and"
+    },
+    {
+      "start": 1128.8,
+      "duration": 3.9,
+      "text": "they are relationship amplifiers, right?"
+    },
+    {
+      "start": 1131.2,
+      "duration": 4.3,
+      "text": "They're proxies. They're nexus points"
+    },
+    {
+      "start": 1132.7,
+      "duration": 5.3,
+      "text": "for more and bigger relationships. If"
+    },
+    {
+      "start": 1135.5,
+      "duration": 4.4,
+      "text": "you replace all your devs or don't hire"
+    },
+    {
+      "start": 1138.0,
+      "duration": 4.2,
+      "text": "devs in the first place, then you're"
+    },
+    {
+      "start": 1139.9,
+      "duration": 5.4,
+      "text": "missing the serendipitous moment of them"
+    },
+    {
+      "start": 1142.2,
+      "duration": 5.5,
+      "text": "also working as this lighthouse to bring"
+    },
+    {
+      "start": 1145.4,
+      "duration": 4.5,
+      "text": "in attention from all around them. Not"
+    },
+    {
+      "start": 1147.7,
+      "duration": 4.5,
+      "text": "just from other devs, but from people in"
+    },
+    {
+      "start": 1149.8,
+      "duration": 4.8,
+      "text": "their vicinity that may or may not be in"
+    },
+    {
+      "start": 1152.2,
+      "duration": 4.4,
+      "text": "your industry or know somebody who is."
+    },
+    {
+      "start": 1154.6,
+      "duration": 3.9,
+      "text": "So standing out and honestly just"
+    },
+    {
+      "start": 1156.6,
+      "duration": 3.6,
+      "text": "standing strong against the headwind of"
+    },
+    {
+      "start": 1158.6,
+      "duration": 4.5,
+      "text": "copycats and the permanent threat of"
+    },
+    {
+      "start": 1160.2,
+      "duration": 6.0,
+      "text": "being easily copied. Well, that will I"
+    },
+    {
+      "start": 1163.0,
+      "duration": 5.3,
+      "text": "think define the next couple years of"
+    },
+    {
+      "start": 1166.2,
+      "duration": 4.0,
+      "text": "software as a servant businesses because"
+    },
+    {
+      "start": 1168.3,
+      "duration": 3.6,
+      "text": "multiples are dwindling because"
+    },
+    {
+      "start": 1170.2,
+      "duration": 5.0,
+      "text": "expectations and the reality of"
+    },
+    {
+      "start": 1171.9,
+      "duration": 6.2,
+      "text": "alternative solutions like AI built"
+    },
+    {
+      "start": 1175.1,
+      "duration": 4.8,
+      "text": "clones and copies. I think we will see"
+    },
+    {
+      "start": 1178.2,
+      "duration": 4.2,
+      "text": "more competitive solutions being built"
+    },
+    {
+      "start": 1179.9,
+      "duration": 4.2,
+      "text": "instead of acquisitions and maybe"
+    },
+    {
+      "start": 1182.4,
+      "duration": 4.2,
+      "text": "acquisitions kind of as a second step"
+    },
+    {
+      "start": 1184.1,
+      "duration": 4.6,
+      "text": "after having attempted to build in an AI"
+    },
+    {
+      "start": 1186.6,
+      "duration": 4.0,
+      "text": "agentic fashion a competitive"
+    },
+    {
+      "start": 1188.7,
+      "duration": 3.5,
+      "text": "alternative. And there still are going"
+    },
+    {
+      "start": 1190.6,
+      "duration": 3.8,
+      "text": "to be acquisitions. Obviously, they"
+    },
+    {
+      "start": 1192.2,
+      "duration": 3.8,
+      "text": "still happen every day. But I believe"
+    },
+    {
+      "start": 1194.4,
+      "duration": 3.6,
+      "text": "that incumbents will actually be"
+    },
+    {
+      "start": 1196.0,
+      "duration": 3.9,
+      "text": "financially capable of using these"
+    },
+    {
+      "start": 1198.0,
+      "duration": 3.7,
+      "text": "extremely cheap and highly automated but"
+    },
+    {
+      "start": 1199.9,
+      "duration": 4.3,
+      "text": "still well-controlled and managed"
+    },
+    {
+      "start": 1201.7,
+      "duration": 4.4,
+      "text": "automation tools. Like if you have a"
+    },
+    {
+      "start": 1204.2,
+      "duration": 3.9,
+      "text": "senior developer and you hand them a"
+    },
+    {
+      "start": 1206.1,
+      "duration": 4.4,
+      "text": "fleet of AI agents, if they know how to"
+    },
+    {
+      "start": 1208.2,
+      "duration": 4.6,
+      "text": "prompt and code review, they can do a"
+    },
+    {
+      "start": 1210.5,
+      "duration": 4.7,
+      "text": "lot of work or have a lot of work get"
+    },
+    {
+      "start": 1212.8,
+      "duration": 4.7,
+      "text": "done by just spending all of that time"
+    },
+    {
+      "start": 1215.2,
+      "duration": 4.6,
+      "text": "managing their fleet of agents. And that"
+    },
+    {
+      "start": 1217.5,
+      "duration": 4.9,
+      "text": "is one person. It's not a team of 10."
+    },
+    {
+      "start": 1219.8,
+      "duration": 5.8,
+      "text": "It's a team of 1 plus 9. It's a very"
+    },
+    {
+      "start": 1222.4,
+      "duration": 5.4,
+      "text": "different story. So they will use these"
+    },
+    {
+      "start": 1225.6,
+      "duration": 4.7,
+      "text": "tools to build things that are just good"
+    },
+    {
+      "start": 1227.8,
+      "duration": 4.1,
+      "text": "enough to be reasonably competitive with"
+    },
+    {
+      "start": 1230.3,
+      "duration": 3.4,
+      "text": "the company they would have acquired a"
+    },
+    {
+      "start": 1231.8,
+      "duration": 3.6,
+      "text": "couple years ago without a doubt without"
+    },
+    {
+      "start": 1233.7,
+      "duration": 3.0,
+      "text": "even trying to build something right 5"
+    },
+    {
+      "start": 1235.4,
+      "duration": 3.1,
+      "text": "years ago they would have just acquired"
+    },
+    {
+      "start": 1236.6,
+      "duration": 4.0,
+      "text": "the company for the multiple and now"
+    },
+    {
+      "start": 1238.6,
+      "duration": 4.6,
+      "text": "they're like hm should we maybe build"
+    },
+    {
+      "start": 1240.6,
+      "duration": 4.7,
+      "text": "this ourselves we have all the tools and"
+    },
+    {
+      "start": 1243.2,
+      "duration": 4.2,
+      "text": "I think this is obviously my personal"
+    },
+    {
+      "start": 1245.4,
+      "duration": 3.4,
+      "text": "opinion here but I'm hearing this from"
+    },
+    {
+      "start": 1247.4,
+      "duration": 3.3,
+      "text": "my investor friends from my founder"
+    },
+    {
+      "start": 1248.7,
+      "duration": 4.2,
+      "text": "friends I'm seeing this in conversations"
+    },
+    {
+      "start": 1250.6,
+      "duration": 4.2,
+      "text": "around sales and acquisition multiples"
+    },
+    {
+      "start": 1252.9,
+      "duration": 4.0,
+      "text": "and prices and the disappointment of"
+    },
+    {
+      "start": 1254.8,
+      "duration": 4.1,
+      "text": "people where they thought the numbers"
+    },
+    {
+      "start": 1256.9,
+      "duration": 3.1,
+      "text": "that they wanted to get were easy to"
+    },
+    {
+      "start": 1258.9,
+      "duration": 3.0,
+      "text": "reach, but they're not. They're much"
+    },
+    {
+      "start": 1260.0,
+      "duration": 4.2,
+      "text": "much harder to get to. They require more"
+    },
+    {
+      "start": 1261.8,
+      "duration": 5.1,
+      "text": "of a sacrifice and frankly a more"
+    },
+    {
+      "start": 1264.2,
+      "duration": 6.0,
+      "text": "elaborate business to be sold for that"
+    },
+    {
+      "start": 1267.0,
+      "duration": 5.1,
+      "text": "much money at this point. It's a very"
+    },
+    {
+      "start": 1270.2,
+      "duration": 4.3,
+      "text": "interesting challenge for the next"
+    },
+    {
+      "start": 1272.1,
+      "duration": 4.9,
+      "text": "couple of years and I hope you take to"
+    },
+    {
+      "start": 1274.6,
+      "duration": 5.4,
+      "text": "heart mostly the idea of being present"
+    },
+    {
+      "start": 1277.0,
+      "duration": 5.0,
+      "text": "as a human being and focusing on"
+    },
+    {
+      "start": 1279.9,
+      "duration": 4.9,
+      "text": "allowing the human beings you work with"
+    },
+    {
+      "start": 1282.0,
+      "duration": 4.8,
+      "text": "to be an amplifier for the reputational"
+    },
+    {
+      "start": 1284.8,
+      "duration": 4.7,
+      "text": "value of your company because that's"
+    },
+    {
+      "start": 1286.8,
+      "duration": 6.1,
+      "text": "something that no AI agent can ever do"
+    },
+    {
+      "start": 1289.5,
+      "duration": 6.5,
+      "text": "for you at least for the time being. I"
+    },
+    {
+      "start": 1292.9,
+      "duration": 5.5,
+      "text": "believe that there's a way out here in"
+    },
+    {
+      "start": 1296.0,
+      "duration": 5.0,
+      "text": "just to be a human being in a time of"
+    },
+    {
+      "start": 1298.4,
+      "duration": 5.0,
+      "text": "extreme automation. The artisan approach"
+    },
+    {
+      "start": 1301.0,
+      "duration": 4.6,
+      "text": "just we we are staying human approach"
+    },
+    {
+      "start": 1303.4,
+      "duration": 3.8,
+      "text": "remaining relatable feels like it's"
+    },
+    {
+      "start": 1305.6,
+      "duration": 3.3,
+      "text": "definitely the way to go for me. It's"
+    },
+    {
+      "start": 1307.3,
+      "duration": 3.2,
+      "text": "not going to be the only way to go. It's"
+    },
+    {
+      "start": 1308.9,
+      "duration": 2.9,
+      "text": "not the only solution that helps here."
+    },
+    {
+      "start": 1310.5,
+      "duration": 3.7,
+      "text": "like obviously building a better"
+    },
+    {
+      "start": 1311.8,
+      "duration": 5.5,
+      "text": "business like figuring out other things,"
+    },
+    {
+      "start": 1314.2,
+      "duration": 5.9,
+      "text": "better technology, use using AI like"
+    },
+    {
+      "start": 1317.3,
+      "duration": 5.0,
+      "text": "things as features or as amplifiers for"
+    },
+    {
+      "start": 1320.1,
+      "duration": 4.2,
+      "text": "the way you can crunch data and present"
+    },
+    {
+      "start": 1322.3,
+      "duration": 5.8,
+      "text": "new insights to your customers. All of"
+    },
+    {
+      "start": 1324.3,
+      "duration": 6.5,
+      "text": "this needs to be part of it too. And yet"
+    },
+    {
+      "start": 1328.1,
+      "duration": 4.6,
+      "text": "I think we definitely need to think of"
+    },
+    {
+      "start": 1330.8,
+      "duration": 5.0,
+      "text": "being human as one of the things that we"
+    },
+    {
+      "start": 1332.7,
+      "duration": 4.6,
+      "text": "can do right now and all the time to"
+    },
+    {
+      "start": 1335.8,
+      "duration": 3.2,
+      "text": "protect ourselves and protect the value"
+    },
+    {
+      "start": 1337.3,
+      "duration": 3.3,
+      "text": "of the businesses that we create. The"
+    },
+    {
+      "start": 1339.0,
+      "duration": 3.9,
+      "text": "future belongs to founders who can"
+    },
+    {
+      "start": 1340.6,
+      "duration": 4.4,
+      "text": "combine this efficiency gain from AI"
+    },
+    {
+      "start": 1343.0,
+      "duration": 3.7,
+      "text": "with the irreplaceable value of human"
+    },
+    {
+      "start": 1345.0,
+      "duration": 3.4,
+      "text": "connection like wisdom about the"
+    },
+    {
+      "start": 1346.6,
+      "duration": 3.7,
+      "text": "industry and authentic relationships"
+    },
+    {
+      "start": 1348.3,
+      "duration": 3.9,
+      "text": "with people that you care about. The"
+    },
+    {
+      "start": 1350.3,
+      "duration": 3.6,
+      "text": "technical mode I think is disappearing"
+    },
+    {
+      "start": 1352.2,
+      "duration": 4.0,
+      "text": "but the human mode that is something"
+    },
+    {
+      "start": 1353.9,
+      "duration": 5.0,
+      "text": "that AI cannot replicate. So as you're"
+    },
+    {
+      "start": 1356.2,
+      "duration": 5.0,
+      "text": "building your SAS business ask yourself"
+    },
+    {
+      "start": 1359.0,
+      "duration": 5.1,
+      "text": "what am I doing that only a human can"
+    },
+    {
+      "start": 1361.3,
+      "duration": 4.9,
+      "text": "do. What can I do today to improve the"
+    },
+    {
+      "start": 1364.1,
+      "duration": 4.6,
+      "text": "lives of my customer? That is generally"
+    },
+    {
+      "start": 1366.2,
+      "duration": 5.6,
+      "text": "a good question to ask. But that is you."
+    },
+    {
+      "start": 1368.6,
+      "duration": 5.8,
+      "text": "What can I do? Not what can AI do. But"
+    },
+    {
+      "start": 1371.8,
+      "duration": 4.3,
+      "text": "what can I as a human do? What"
+    },
+    {
+      "start": 1374.5,
+      "duration": 3.7,
+      "text": "relationships am I building that cannot"
+    },
+    {
+      "start": 1376.1,
+      "duration": 4.0,
+      "text": "be automated? What insights do I have"
+    },
+    {
+      "start": 1378.2,
+      "duration": 3.8,
+      "text": "that come from real experience? Not some"
+    },
+    {
+      "start": 1380.1,
+      "duration": 3.4,
+      "text": "training data that was scraped from the"
+    },
+    {
+      "start": 1381.9,
+      "duration": 3.5,
+      "text": "internet. Those are the things that will"
+    },
+    {
+      "start": 1383.5,
+      "duration": 3.7,
+      "text": "protect your business and the value of"
+    },
+    {
+      "start": 1385.4,
+      "duration": 3.7,
+      "text": "it in this new world where anyone can"
+    },
+    {
+      "start": 1387.2,
+      "duration": 3.5,
+      "text": "build software. But not everyone can"
+    },
+    {
+      "start": 1389.1,
+      "duration": 4.6,
+      "text": "build the human connections that make a"
+    },
+    {
+      "start": 1390.7,
+      "duration": 4.5,
+      "text": "business truly valuable. And that's it"
+    },
+    {
+      "start": 1393.8,
+      "duration": 3.0,
+      "text": "for today. Thank you so much for"
+    },
+    {
+      "start": 1395.2,
+      "duration": 4.2,
+      "text": "listening to the bootstrap founder. You"
+    },
+    {
+      "start": 1396.8,
+      "duration": 4.5,
+      "text": "can find me on Twitter at avidkal r k"
+    },
+    {
+      "start": 1399.4,
+      "duration": 5.0,
+      "text": "ahl. And if you want to support me in"
+    },
+    {
+      "start": 1401.3,
+      "duration": 6.0,
+      "text": "this show, please share potscan.fm my"
+    },
+    {
+      "start": 1404.5,
+      "duration": 5.2,
+      "text": "SAS business that may or may not be"
+    },
+    {
+      "start": 1407.3,
+      "duration": 4.5,
+      "text": "acquired one day. Who knows with your"
+    },
+    {
+      "start": 1409.7,
+      "duration": 3.4,
+      "text": "professional peers and those who you"
+    },
+    {
+      "start": 1411.8,
+      "duration": 2.8,
+      "text": "think will benefit from tracking"
+    },
+    {
+      "start": 1413.0,
+      "duration": 3.3,
+      "text": "mentions of their brands, their"
+    },
+    {
+      "start": 1414.6,
+      "duration": 3.8,
+      "text": "businesses and names on podcasts out"
+    },
+    {
+      "start": 1416.3,
+      "duration": 4.9,
+      "text": "there. Podscan is a near realtime"
+    },
+    {
+      "start": 1418.4,
+      "duration": 5.2,
+      "text": "podcast database with a stellar API. We"
+    },
+    {
+      "start": 1421.2,
+      "duration": 4.9,
+      "text": "have 32 million podcast episodes in the"
+    },
+    {
+      "start": 1423.6,
+      "duration": 4.5,
+      "text": "back now. The database is humongous."
+    },
+    {
+      "start": 1426.1,
+      "duration": 3.4,
+      "text": "Please share the word with those who"
+    },
+    {
+      "start": 1428.1,
+      "duration": 3.2,
+      "text": "need to stay on top of the podcast"
+    },
+    {
+      "start": 1429.5,
+      "duration": 3.6,
+      "text": "ecosystem. Thank you so much for"
+    },
+    {
+      "start": 1431.3,
+      "duration": 4.8,
+      "text": "listening. Have a wonderful day and"
+    },
+    {
+      "start": 1433.1,
+      "duration": 3.0,
+      "text": "bye-bye."
+    }
+  ]
+}

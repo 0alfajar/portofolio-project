@@ -1,0 +1,3591 @@
+{
+  "video_id": "mYMeLw3HinQ",
+  "title": "SaaS Predictions for 2026 - Reflections on 2025",
+  "segments": [
+    {
+      "start": 0.3,
+      "duration": 3.4,
+      "text": "Welcome back to another episode of"
+    },
+    {
+      "start": 2.0,
+      "duration": 3.5,
+      "text": "Startups to the Rest of Us. I'm Rob"
+    },
+    {
+      "start": 3.7,
+      "duration": 4.8,
+      "text": "Walling and in this episode I'm going to"
+    },
+    {
+      "start": 5.5,
+      "duration": 6.6,
+      "text": "look back and revisit my predictions"
+    },
+    {
+      "start": 8.5,
+      "duration": 5.4,
+      "text": "that I made a year ago for 2025. I'm"
+    },
+    {
+      "start": 12.1,
+      "duration": 5.0,
+      "text": "going to look ahead at some predictions"
+    },
+    {
+      "start": 13.8,
+      "duration": 6.0,
+      "text": "I have for 2026. And I'm also going to"
+    },
+    {
+      "start": 17.1,
+      "duration": 4.5,
+      "text": "reflect on a few new concepts introduced"
+    },
+    {
+      "start": 19.8,
+      "duration": 4.2,
+      "text": "on this podcast over the past year, as"
+    },
+    {
+      "start": 21.6,
+      "duration": 5.2,
+      "text": "well as some of the accomplishments of"
+    },
+    {
+      "start": 24.0,
+      "duration": 5.2,
+      "text": "me and my teams at Microcom and Tiny"
+    },
+    {
+      "start": 26.8,
+      "duration": 4.7,
+      "text": "Seed. Before I dive into that, this"
+    },
+    {
+      "start": 29.2,
+      "duration": 3.9,
+      "text": "podcast is looking for sponsors. Do you"
+    },
+    {
+      "start": 31.5,
+      "duration": 3.9,
+      "text": "feel like your product serves the folks"
+    },
+    {
+      "start": 33.1,
+      "duration": 4.1,
+      "text": "that listen to this podcast? Imagine"
+    },
+    {
+      "start": 35.4,
+      "duration": 3.4,
+      "text": "getting in the earbuds of tens of"
+    },
+    {
+      "start": 37.2,
+      "duration": 3.4,
+      "text": "thousands of founders and aspiring"
+    },
+    {
+      "start": 38.8,
+      "duration": 3.5,
+      "text": "founders who are part of this incredible"
+    },
+    {
+      "start": 40.6,
+      "duration": 3.7,
+      "text": "community. If you're interested in"
+    },
+    {
+      "start": 42.3,
+      "duration": 3.8,
+      "text": "potentially sponsoring this podcast,"
+    },
+    {
+      "start": 44.2,
+      "duration": 4.4,
+      "text": "send us an email sponsors at"
+    },
+    {
+      "start": 46.2,
+      "duration": 5.9,
+      "text": "startupsfortherest us.com. We are close"
+    },
+    {
+      "start": 48.6,
+      "duration": 6.7,
+      "text": "to filling Q1 of 2026 and we're already"
+    },
+    {
+      "start": 52.1,
+      "duration": 5.0,
+      "text": "starting to plan Q2. So reach out if"
+    },
+    {
+      "start": 55.4,
+      "duration": 5.3,
+      "text": "you're interested. sponsors at Startups"
+    },
+    {
+      "start": 57.1,
+      "duration": 3.6,
+      "text": "for the rest of us.com."
+    },
+    {
+      "start": 63.1,
+      "duration": 3.1,
+      "text": "[Music]"
+    },
+    {
+      "start": 69.4,
+      "duration": 4.2,
+      "text": "Before I get into predictions,"
+    },
+    {
+      "start": 71.4,
+      "duration": 3.9,
+      "text": "revisiting the fail whale, that is the"
+    },
+    {
+      "start": 73.6,
+      "duration": 5.0,
+      "text": "list of predictions I made for this past"
+    },
+    {
+      "start": 75.4,
+      "duration": 6.3,
+      "text": "year. I was going through episodes from"
+    },
+    {
+      "start": 78.6,
+      "duration": 5.7,
+      "text": "the past 52 weeks, and there were a few"
+    },
+    {
+      "start": 81.7,
+      "duration": 4.2,
+      "text": "concepts that I felt like I kept"
+    },
+    {
+      "start": 84.3,
+      "duration": 4.4,
+      "text": "touching on. and they kept coming up"
+    },
+    {
+      "start": 85.9,
+      "duration": 6.1,
+      "text": "through listener questions or through"
+    },
+    {
+      "start": 88.7,
+      "duration": 5.5,
+      "text": "just the kind of gestalt of the startup"
+    },
+    {
+      "start": 92.0,
+      "duration": 5.1,
+      "text": "community that we live in. One was a lot"
+    },
+    {
+      "start": 94.2,
+      "duration": 4.8,
+      "text": "of talk about plateaus, folks trying to"
+    },
+    {
+      "start": 97.1,
+      "duration": 4.6,
+      "text": "make it through plateaus, wondering why"
+    },
+    {
+      "start": 99.0,
+      "duration": 5.4,
+      "text": "they've plateaued and wondering what the"
+    },
+    {
+      "start": 101.8,
+      "duration": 4.8,
+      "text": "tactic or solution is to getting through"
+    },
+    {
+      "start": 104.5,
+      "duration": 4.2,
+      "text": "plateaus. I talked about that on a few"
+    },
+    {
+      "start": 106.6,
+      "duration": 5.2,
+      "text": "episodes of this show and I also did a"
+    },
+    {
+      "start": 108.7,
+      "duration": 5.1,
+      "text": "talk at Micro. Well, it was about a year"
+    },
+    {
+      "start": 111.8,
+      "duration": 5.7,
+      "text": "ago. I did one in Europe and then I did"
+    },
+    {
+      "start": 113.8,
+      "duration": 6.8,
+      "text": "one in New Orleans just six, seven"
+    },
+    {
+      "start": 117.4,
+      "duration": 5.1,
+      "text": "months ago. And I believe you can find"
+    },
+    {
+      "start": 120.6,
+      "duration": 4.4,
+      "text": "that on the Micromp YouTube channel,"
+    },
+    {
+      "start": 122.6,
+      "duration": 4.2,
+      "text": "microcom.com/youtube"
+    },
+    {
+      "start": 125.0,
+      "duration": 4.8,
+      "text": "if you want to check it out. But I went"
+    },
+    {
+      "start": 126.7,
+      "duration": 6.7,
+      "text": "through and I identified what I believe"
+    },
+    {
+      "start": 129.8,
+      "duration": 5.2,
+      "text": "is every cause of a SAS plateau. And"
+    },
+    {
+      "start": 133.4,
+      "duration": 2.7,
+      "text": "there were I'm trying to think now off"
+    },
+    {
+      "start": 135.0,
+      "duration": 3.2,
+      "text": "top of my head. This is the reason I"
+    },
+    {
+      "start": 136.2,
+      "duration": 4.1,
+      "text": "have notes, but I was seven or eight"
+    },
+    {
+      "start": 138.2,
+      "duration": 4.2,
+      "text": "different causes and that's it. and I"
+    },
+    {
+      "start": 140.2,
+      "duration": 4.3,
+      "text": "looked across hundreds of B2B SAS"
+    },
+    {
+      "start": 142.4,
+      "duration": 3.5,
+      "text": "companies and talk a little bit about"
+    },
+    {
+      "start": 144.6,
+      "duration": 2.6,
+      "text": "how to get through them, but frankly,"
+    },
+    {
+      "start": 145.9,
+      "duration": 4.0,
+      "text": "how to get through them is usually"
+    },
+    {
+      "start": 147.2,
+      "duration": 4.9,
+      "text": "obvious. It's really just identifying"
+    },
+    {
+      "start": 149.9,
+      "duration": 3.9,
+      "text": "the cause or the reason for the plateau"
+    },
+    {
+      "start": 152.1,
+      "duration": 3.0,
+      "text": "that's the key insight that you're"
+    },
+    {
+      "start": 153.8,
+      "duration": 3.0,
+      "text": "looking for. So, you can check that out"
+    },
+    {
+      "start": 155.1,
+      "duration": 3.4,
+      "text": "on YouTube or go back through the"
+    },
+    {
+      "start": 156.9,
+      "duration": 5.5,
+      "text": "podcast backlog if you haven't in a"
+    },
+    {
+      "start": 158.5,
+      "duration": 6.1,
+      "text": "while. The next thing that came up is"
+    },
+    {
+      "start": 162.4,
+      "duration": 4.5,
+      "text": "the question of do I need a co-founder?"
+    },
+    {
+      "start": 164.6,
+      "duration": 4.2,
+      "text": "And it comes up about every other month"
+    },
+    {
+      "start": 166.9,
+      "duration": 3.8,
+      "text": "and usually it's I'm technical. do I"
+    },
+    {
+      "start": 168.8,
+      "duration": 3.8,
+      "text": "need a marketing sales co-founder or a"
+    },
+    {
+      "start": 170.6,
+      "duration": 4.0,
+      "text": "marketing sales do I need a technical"
+    },
+    {
+      "start": 172.6,
+      "duration": 4.8,
+      "text": "co-founder as well as I had questions"
+    },
+    {
+      "start": 174.6,
+      "duration": 4.6,
+      "text": "about the SAS skill set hierarchy"
+    },
+    {
+      "start": 177.4,
+      "duration": 4.5,
+      "text": "meaning are there skills that are more"
+    },
+    {
+      "start": 179.3,
+      "duration": 4.4,
+      "text": "important as a SAS founder and what's"
+    },
+    {
+      "start": 181.8,
+      "duration": 4.6,
+      "text": "interesting is as I looked back over the"
+    },
+    {
+      "start": 183.7,
+      "duration": 4.8,
+      "text": "year I kept revisiting these topics in"
+    },
+    {
+      "start": 186.4,
+      "duration": 3.8,
+      "text": "different forms and fashions until I"
+    },
+    {
+      "start": 188.5,
+      "duration": 4.2,
+      "text": "finally realized there's a framework"
+    },
+    {
+      "start": 190.2,
+      "duration": 4.2,
+      "text": "here and it's called the core four and"
+    },
+    {
+      "start": 192.7,
+      "duration": 3.8,
+      "text": "it's where I talk about marketing and"
+    },
+    {
+      "start": 194.4,
+      "duration": 4.6,
+      "text": "sales then product then development"
+    },
+    {
+      "start": 196.6,
+      "duration": 4.4,
+      "text": "being these core four skills that I"
+    },
+    {
+      "start": 199.0,
+      "duration": 5.0,
+      "text": "believe the founding team should possess"
+    },
+    {
+      "start": 201.0,
+      "duration": 7.1,
+      "text": "or should be willing to learn. And so"
+    },
+    {
+      "start": 204.1,
+      "duration": 5.6,
+      "text": "core 4 and the SAS skill set hierarchy I"
+    },
+    {
+      "start": 208.1,
+      "duration": 3.7,
+      "text": "think are something that's going to"
+    },
+    {
+      "start": 209.7,
+      "duration": 3.8,
+      "text": "stick around for a while. And I've"
+    },
+    {
+      "start": 211.8,
+      "duration": 3.8,
+      "text": "already had multiple listener questions"
+    },
+    {
+      "start": 213.4,
+      "duration": 3.7,
+      "text": "about it in a prior episode and there's"
+    },
+    {
+      "start": 215.5,
+      "duration": 3.4,
+      "text": "still more to be fleshed out with that,"
+    },
+    {
+      "start": 217.1,
+      "duration": 4.3,
+      "text": "but I think that's a concept that really"
+    },
+    {
+      "start": 218.9,
+      "duration": 5.7,
+      "text": "has legs in terms of bootstrapping and"
+    },
+    {
+      "start": 221.4,
+      "duration": 5.0,
+      "text": "even not bootstrapping SAS. And lastly,"
+    },
+    {
+      "start": 224.6,
+      "duration": 4.6,
+      "text": "my three favorite episodes of the year"
+    },
+    {
+      "start": 226.4,
+      "duration": 5.0,
+      "text": "are my 12 biggest mistakes and my 12"
+    },
+    {
+      "start": 229.1,
+      "duration": 3.7,
+      "text": "best decisions that I've made in my"
+    },
+    {
+      "start": 231.4,
+      "duration": 5.1,
+      "text": "entrepreneurial journey. Those are"
+    },
+    {
+      "start": 232.8,
+      "duration": 5.5,
+      "text": "episodes 781 and 782, as well as episode"
+    },
+    {
+      "start": 236.6,
+      "duration": 3.9,
+      "text": "800 where I walk through the 12"
+    },
+    {
+      "start": 238.3,
+      "duration": 4.0,
+      "text": "commandments of startups for the rest of"
+    },
+    {
+      "start": 240.5,
+      "duration": 4.1,
+      "text": "us. Things like nuance, beating"
+    },
+    {
+      "start": 242.3,
+      "duration": 4.3,
+      "text": "absolutes, making hard decisions with"
+    },
+    {
+      "start": 244.6,
+      "duration": 4.0,
+      "text": "incomplete information, that marketing"
+    },
+    {
+      "start": 246.6,
+      "duration": 3.9,
+      "text": "beats product, to build your network,"
+    },
+    {
+      "start": 248.6,
+      "duration": 4.2,
+      "text": "not your audience, and then overnight"
+    },
+    {
+      "start": 250.6,
+      "duration": 4.5,
+      "text": "success takes a decade. I have a total"
+    },
+    {
+      "start": 252.8,
+      "duration": 4.9,
+      "text": "of 12 commandments in that episode."
+    },
+    {
+      "start": 255.0,
+      "duration": 4.9,
+      "text": "Those are just a few. Now, let's dive in"
+    },
+    {
+      "start": 257.7,
+      "duration": 4.9,
+      "text": "to my predictions that I made just one"
+    },
+    {
+      "start": 259.9,
+      "duration": 5.3,
+      "text": "year ago. And some of these predictions"
+    },
+    {
+      "start": 262.6,
+      "duration": 4.4,
+      "text": "I had rolled over from prior years. And"
+    },
+    {
+      "start": 265.2,
+      "duration": 3.0,
+      "text": "I'm no longer going to do that. Cuz"
+    },
+    {
+      "start": 267.0,
+      "duration": 4.1,
+      "text": "here's the thing. If you predict"
+    },
+    {
+      "start": 268.2,
+      "duration": 6.8,
+      "text": "something year after year after year,"
+    },
+    {
+      "start": 271.0,
+      "duration": 8.6,
+      "text": "you can eventually be right. I predicted"
+    },
+    {
+      "start": 275.0,
+      "duration": 7.6,
+      "text": "that Twitter would change hands in 2025."
+    },
+    {
+      "start": 279.7,
+      "duration": 6.8,
+      "text": "And you know what? It's kind of true. I"
+    },
+    {
+      "start": 282.6,
+      "duration": 6.2,
+      "text": "asked chat GPT to rate my predictions on"
+    },
+    {
+      "start": 286.5,
+      "duration": 5.4,
+      "text": "whether they were true or false and it"
+    },
+    {
+      "start": 288.8,
+      "duration": 5.7,
+      "text": "said mostly correct. The ownership"
+    },
+    {
+      "start": 291.8,
+      "duration": 5.5,
+      "text": "shifted in an internal transaction"
+    },
+    {
+      "start": 294.5,
+      "duration": 5.0,
+      "text": "because Elon Musk's AI company XAI"
+    },
+    {
+      "start": 297.4,
+      "duration": 4.6,
+      "text": "acquired Twitter in an all stock deal"
+    },
+    {
+      "start": 299.4,
+      "duration": 4.3,
+      "text": "valued at $45 billion."
+    },
+    {
+      "start": 301.9,
+      "duration": 3.6,
+      "text": "I'll admit it's not exactly what I had"
+    },
+    {
+      "start": 303.8,
+      "duration": 4.2,
+      "text": "in mind, but I think I get half credit"
+    },
+    {
+      "start": 305.5,
+      "duration": 3.8,
+      "text": "for this one. Something had to change. I"
+    },
+    {
+      "start": 307.9,
+      "duration": 3.1,
+      "text": "mean the reason I was thinking about"
+    },
+    {
+      "start": 309.3,
+      "duration": 3.5,
+      "text": "Twitter changing hands was that the"
+    },
+    {
+      "start": 311.0,
+      "duration": 4.6,
+      "text": "financial arrangement to buy it with the"
+    },
+    {
+      "start": 312.8,
+      "duration": 6.6,
+      "text": "debt service I thought was untenable and"
+    },
+    {
+      "start": 315.6,
+      "duration": 6.0,
+      "text": "I believe this somehow you know through"
+    },
+    {
+      "start": 319.4,
+      "duration": 4.8,
+      "text": "financial engineering must have made"
+    },
+    {
+      "start": 321.6,
+      "duration": 4.2,
+      "text": "that go away. So I was tapping into the"
+    },
+    {
+      "start": 324.2,
+      "duration": 4.1,
+      "text": "idea that Twitter was not doing well"
+    },
+    {
+      "start": 325.8,
+      "duration": 4.1,
+      "text": "financially and that the the debt"
+    },
+    {
+      "start": 328.2,
+      "duration": 5.0,
+      "text": "payments and such were going to be such"
+    },
+    {
+      "start": 329.8,
+      "duration": 4.9,
+      "text": "a big issue and it didn't go to an"
+    },
+    {
+      "start": 333.3,
+      "duration": 3.3,
+      "text": "external acquirer but it I'm going to"
+    },
+    {
+      "start": 334.7,
+      "duration": 3.8,
+      "text": "give myself half credit on this one. My"
+    },
+    {
+      "start": 336.6,
+      "duration": 5.5,
+      "text": "second prediction is that no code lowode"
+    },
+    {
+      "start": 338.6,
+      "duration": 6.2,
+      "text": "will get unit tests and version control."
+    },
+    {
+      "start": 342.1,
+      "duration": 4.8,
+      "text": "That has not happened. You know, chat"
+    },
+    {
+      "start": 344.8,
+      "duration": 4.2,
+      "text": "GPT is way too generous with this. It"
+    },
+    {
+      "start": 346.9,
+      "duration": 3.8,
+      "text": "says directionally correct tooling is"
+    },
+    {
+      "start": 349.0,
+      "duration": 3.7,
+      "text": "maturing, but there's no singular"
+    },
+    {
+      "start": 350.6,
+      "duration": 5.0,
+      "text": "breakthrough event. So, no, I get a zero"
+    },
+    {
+      "start": 352.7,
+      "duration": 5.6,
+      "text": "on this one. Tooling is maturing. I have"
+    },
+    {
+      "start": 355.7,
+      "duration": 4.7,
+      "text": "a prediction in 2026"
+    },
+    {
+      "start": 358.3,
+      "duration": 5.2,
+      "text": "that talks about no code, low code, and"
+    },
+    {
+      "start": 360.4,
+      "duration": 6.9,
+      "text": "AI, but I think I get a zero on this"
+    },
+    {
+      "start": 363.5,
+      "duration": 5.4,
+      "text": "one. And this just goes to show you how"
+    },
+    {
+      "start": 367.3,
+      "duration": 3.4,
+      "text": "random predictions are. And you know,"
+    },
+    {
+      "start": 369.0,
+      "duration": 4.4,
+      "text": "when I make predictions on this show,"
+    },
+    {
+      "start": 370.6,
+      "duration": 4.2,
+      "text": "I'm always like, these are all flyers."
+    },
+    {
+      "start": 373.4,
+      "duration": 2.8,
+      "text": "These are things I'm, you know, some of"
+    },
+    {
+      "start": 374.8,
+      "duration": 3.5,
+      "text": "these are trends, right? The ones I make"
+    },
+    {
+      "start": 376.2,
+      "duration": 3.3,
+      "text": "about B2B SAS, especially bootstrapping,"
+    },
+    {
+      "start": 378.3,
+      "duration": 2.6,
+      "text": "it's like, oh, I'm kind of already"
+    },
+    {
+      "start": 379.4,
+      "duration": 4.1,
+      "text": "seeing a trend and I'm predicting it's"
+    },
+    {
+      "start": 381.0,
+      "duration": 5.9,
+      "text": "going to continue. But things like my"
+    },
+    {
+      "start": 383.5,
+      "duration": 4.8,
+      "text": "next one, Stripe will go public in 2025."
+    },
+    {
+      "start": 386.9,
+      "duration": 2.8,
+      "text": "I don't know what is it. It's a gut"
+    },
+    {
+      "start": 388.3,
+      "duration": 2.9,
+      "text": "feel. If it doesn't happen, it doesn't"
+    },
+    {
+      "start": 389.7,
+      "duration": 3.1,
+      "text": "happen. It's all just for fun. And"
+    },
+    {
+      "start": 391.2,
+      "duration": 3.2,
+      "text": "that's why if you go on the internet and"
+    },
+    {
+      "start": 392.8,
+      "duration": 3.6,
+      "text": "you see people making predictions about"
+    },
+    {
+      "start": 394.4,
+      "duration": 4.7,
+      "text": "anything, about crypto, about Bitcoin,"
+    },
+    {
+      "start": 396.4,
+      "duration": 5.0,
+      "text": "about gold, about startups, it's all"
+    },
+    {
+      "start": 399.1,
+      "duration": 4.7,
+      "text": "just made up. People don't really know"
+    },
+    {
+      "start": 401.4,
+      "duration": 4.2,
+      "text": "what the future holds. So just just take"
+    },
+    {
+      "start": 403.8,
+      "duration": 3.9,
+      "text": "that for a grain of salt as you hang"
+    },
+    {
+      "start": 405.5,
+      "duration": 3.4,
+      "text": "around on the internet. So yeah, my"
+    },
+    {
+      "start": 407.8,
+      "duration": 4.1,
+      "text": "third prediction was Stripe will go"
+    },
+    {
+      "start": 409.0,
+      "duration": 5.4,
+      "text": "public. It did not. That is a big fat"
+    },
+    {
+      "start": 411.8,
+      "duration": 5.0,
+      "text": "zero. Not much more to say. My fourth"
+    },
+    {
+      "start": 414.3,
+      "duration": 5.2,
+      "text": "prediction was that volume for Google"
+    },
+    {
+      "start": 416.8,
+      "duration": 5.1,
+      "text": "organic SEO, meaning contentbased"
+    },
+    {
+      "start": 419.5,
+      "duration": 7.4,
+      "text": "keyword targeting, will slide at least"
+    },
+    {
+      "start": 421.9,
+      "duration": 8.2,
+      "text": "15% in 2025 as they give way to AI"
+    },
+    {
+      "start": 427.0,
+      "duration": 6.4,
+      "text": "searches. And Chat GPT tells me partly"
+    },
+    {
+      "start": 430.1,
+      "duration": 7.6,
+      "text": "true search is shifting, but it's not a"
+    },
+    {
+      "start": 433.4,
+      "duration": 6.9,
+      "text": "clean 15% drop yet. I give myself a fat"
+    },
+    {
+      "start": 437.7,
+      "duration": 5.1,
+      "text": "zero. The reason I said 15% is I wanted"
+    },
+    {
+      "start": 440.2,
+      "duration": 5.0,
+      "text": "to make a bold prediction. And 15% is a"
+    },
+    {
+      "start": 442.8,
+      "duration": 4.7,
+      "text": "tremendous amount. And you know, I"
+    },
+    {
+      "start": 445.3,
+      "duration": 4.4,
+      "text": "assumed the adoption of AI would"
+    },
+    {
+      "start": 447.5,
+      "duration": 3.8,
+      "text": "continue and accelerate. Maybe it has,"
+    },
+    {
+      "start": 449.7,
+      "duration": 3.0,
+      "text": "maybe it hasn't. Maybe Google is just"
+    },
+    {
+      "start": 451.4,
+      "duration": 3.4,
+      "text": "hiding this from us. But I have no"
+    },
+    {
+      "start": 452.7,
+      "duration": 4.9,
+      "text": "evidence to believe that it has dropped"
+    },
+    {
+      "start": 454.8,
+      "duration": 4.7,
+      "text": "15%. Although I will say woo anecdotally"
+    },
+    {
+      "start": 457.6,
+      "duration": 4.9,
+      "text": "like myself and all the founders I hang"
+    },
+    {
+      "start": 459.5,
+      "duration": 6.1,
+      "text": "out with, it's kind of chat GPT or"
+    },
+    {
+      "start": 462.5,
+      "duration": 6.6,
+      "text": "Claude or Manis first and Google with"
+    },
+    {
+      "start": 465.6,
+      "duration": 5.5,
+      "text": "the 10 blue links where the top five are"
+    },
+    {
+      "start": 469.1,
+      "duration": 4.3,
+      "text": "actually sponsored and don't look like"
+    },
+    {
+      "start": 471.1,
+      "duration": 4.9,
+      "text": "sponsored links is it just feels so"
+    },
+    {
+      "start": 473.4,
+      "duration": 4.1,
+      "text": "outdated already. So this is coming if"
+    },
+    {
+      "start": 476.0,
+      "duration": 4.0,
+      "text": "it's not already happened and just not"
+    },
+    {
+      "start": 477.5,
+      "duration": 4.8,
+      "text": "documented. This is the way. My fifth"
+    },
+    {
+      "start": 480.0,
+      "duration": 4.7,
+      "text": "prediction was that ads in AI chat"
+    },
+    {
+      "start": 482.3,
+      "duration": 3.7,
+      "text": "interfaces which I then had to qualify"
+    },
+    {
+      "start": 484.7,
+      "duration": 4.9,
+      "text": "like you don't already know what that is"
+    },
+    {
+      "start": 486.0,
+      "duration": 6.8,
+      "text": "chat GPT and claude will become common"
+    },
+    {
+      "start": 489.6,
+      "duration": 4.9,
+      "text": "and I say this is a zero it is bound to"
+    },
+    {
+      "start": 492.8,
+      "duration": 3.0,
+      "text": "happen it is happening we know it's in"
+    },
+    {
+      "start": 494.5,
+      "duration": 4.2,
+      "text": "the works we've heard folks talk about"
+    },
+    {
+      "start": 495.8,
+      "duration": 5.8,
+      "text": "it but you know it's always the thing of"
+    },
+    {
+      "start": 498.6,
+      "duration": 5.0,
+      "text": "we overestimate how much progress will"
+    },
+    {
+      "start": 501.6,
+      "duration": 4.1,
+      "text": "happen in a year and we underestimate"
+    },
+    {
+      "start": 503.7,
+      "duration": 3.3,
+      "text": "how much progress will happen in 5 years"
+    },
+    {
+      "start": 505.7,
+      "duration": 4.2,
+      "text": "or 10 years and this is me"
+    },
+    {
+      "start": 507.0,
+      "duration": 5.1,
+      "text": "overestimating it I figured by this time"
+    },
+    {
+      "start": 509.9,
+      "duration": 4.2,
+      "text": "this year that we would see a lot of ads"
+    },
+    {
+      "start": 512.1,
+      "duration": 5.1,
+      "text": "in these interfaces. And the I guess the"
+    },
+    {
+      "start": 514.2,
+      "duration": 4.2,
+      "text": "fact is it's still in land grab mode."
+    },
+    {
+      "start": 517.2,
+      "duration": 5.0,
+      "text": "They're still trying to get market"
+    },
+    {
+      "start": 518.3,
+      "duration": 7.6,
+      "text": "share. And until you you see this with"
+    },
+    {
+      "start": 522.2,
+      "duration": 6.8,
+      "text": "streaming services like Netflix and HBO"
+    },
+    {
+      "start": 525.9,
+      "duration": 5.5,
+      "text": "Max and all the other movie and TV show"
+    },
+    {
+      "start": 529.0,
+      "duration": 6.2,
+      "text": "streaming where for years they kept the"
+    },
+    {
+      "start": 531.4,
+      "duration": 4.6,
+      "text": "price low, much lower than cable and"
+    },
+    {
+      "start": 535.1,
+      "duration": 2.6,
+      "text": "they were just trying to get"
+    },
+    {
+      "start": 536.0,
+      "duration": 3.1,
+      "text": "subscribers, get subscribers. And then"
+    },
+    {
+      "start": 537.7,
+      "duration": 2.6,
+      "text": "now what is it? What is it? Every three"
+    },
+    {
+      "start": 539.1,
+      "duration": 3.7,
+      "text": "months you get something about one of"
+    },
+    {
+      "start": 540.3,
+      "duration": 5.2,
+      "text": "these services is raising their price."
+    },
+    {
+      "start": 542.8,
+      "duration": 4.4,
+      "text": "$2, $3, $5 a year and it just goes up"
+    },
+    {
+      "start": 545.5,
+      "duration": 4.1,
+      "text": "and up and up. I looked the other day, I"
+    },
+    {
+      "start": 547.2,
+      "duration": 4.2,
+      "text": "think I'm paying $22 for Netflix in the"
+    },
+    {
+      "start": 549.6,
+      "duration": 4.7,
+      "text": "US and it's, you know, we have probably"
+    },
+    {
+      "start": 551.4,
+      "duration": 5.4,
+      "text": "an HD streamer 4K and we have multiple"
+    },
+    {
+      "start": 554.3,
+      "duration": 4.6,
+      "text": "seats where we can have five loginins or"
+    },
+    {
+      "start": 556.9,
+      "duration": 4.2,
+      "text": "whatever. But I mean, I remember when"
+    },
+    {
+      "start": 559.0,
+      "duration": 4.0,
+      "text": "Netflix was, you know, under $10, right,"
+    },
+    {
+      "start": 561.0,
+      "duration": 5.0,
+      "text": "for streaming. And so it really does"
+    },
+    {
+      "start": 563.0,
+      "duration": 6.8,
+      "text": "kind of creep up on you. And that"
+    },
+    {
+      "start": 566.1,
+      "duration": 5.8,
+      "text": "happens when the growth stops. It"
+    },
+    {
+      "start": 569.8,
+      "duration": 5.4,
+      "text": "happens when that top level subscriber"
+    },
+    {
+      "start": 571.9,
+      "duration": 6.4,
+      "text": "and customer acquisition slows down and"
+    },
+    {
+      "start": 575.2,
+      "duration": 5.0,
+      "text": "AI chat interfaces are nowhere near that"
+    },
+    {
+      "start": 578.3,
+      "duration": 3.9,
+      "text": "point. And so my prediction will be"
+    },
+    {
+      "start": 580.2,
+      "duration": 4.1,
+      "text": "right ultimately, but it was premature."
+    },
+    {
+      "start": 582.2,
+      "duration": 3.8,
+      "text": "So that's a zero. My sixth prediction"
+    },
+    {
+      "start": 584.3,
+      "duration": 3.9,
+      "text": "was that Google will see its biggest"
+    },
+    {
+      "start": 586.0,
+      "duration": 4.0,
+      "text": "ever drop in revenue due to the"
+    },
+    {
+      "start": 588.2,
+      "duration": 5.7,
+      "text": "transition from 10 blue links plus"
+    },
+    {
+      "start": 590.0,
+      "duration": 6.8,
+      "text": "AdWords into AI ads. And the answer is"
+    },
+    {
+      "start": 593.9,
+      "duration": 5.1,
+      "text": "zero. Not true yet. This is another one."
+    },
+    {
+      "start": 596.8,
+      "duration": 3.6,
+      "text": "It'll happen. Just hasn't happened yet."
+    },
+    {
+      "start": 599.0,
+      "duration": 2.8,
+      "text": "And you know what? There's a chance it"
+    },
+    {
+      "start": 600.4,
+      "duration": 2.5,
+      "text": "won't happen if Google gets its act"
+    },
+    {
+      "start": 601.8,
+      "duration": 3.5,
+      "text": "together. Just in the last couple"
+    },
+    {
+      "start": 602.9,
+      "duration": 4.3,
+      "text": "months, it seems Gemini is doing really"
+    },
+    {
+      "start": 605.4,
+      "duration": 3.5,
+      "text": "well. So maybe it won't see this revenue"
+    },
+    {
+      "start": 607.2,
+      "duration": 4.2,
+      "text": "drop if it's able to stem the bleeding"
+    },
+    {
+      "start": 608.9,
+      "duration": 5.0,
+      "text": "of other folks leaving for other AI chat"
+    },
+    {
+      "start": 611.4,
+      "duration": 4.5,
+      "text": "interfaces. My seventh prediction, way"
+    },
+    {
+      "start": 613.8,
+      "duration": 4.5,
+      "text": "premature, is that the term AI will be"
+    },
+    {
+      "start": 615.9,
+      "duration": 6.2,
+      "text": "used in fewer and fewer H1s because it"
+    },
+    {
+      "start": 618.3,
+      "duration": 5.7,
+      "text": "will be assumed. And I hearkened back to"
+    },
+    {
+      "start": 622.2,
+      "duration": 3.4,
+      "text": "when SAS was becoming a thing and we had"
+    },
+    {
+      "start": 624.0,
+      "duration": 3.5,
+      "text": "headlines like you don't need to operate"
+    },
+    {
+      "start": 625.5,
+      "duration": 4.5,
+      "text": "a server to run this software. Access it"
+    },
+    {
+      "start": 627.5,
+      "duration": 6.1,
+      "text": "from any internet browser. Entering your"
+    },
+    {
+      "start": 630.0,
+      "duration": 5.4,
+      "text": "credit card is safe and secure. Chat GPD"
+    },
+    {
+      "start": 633.6,
+      "duration": 3.4,
+      "text": "gives me half credit for this. It says"
+    },
+    {
+      "start": 635.4,
+      "duration": 3.6,
+      "text": "we're seeing content guidelines now"
+    },
+    {
+      "start": 637.0,
+      "duration": 4.7,
+      "text": "focus less on labeling things as AI"
+    },
+    {
+      "start": 639.0,
+      "duration": 5.3,
+      "text": "explicitly. It's often assumed and that"
+    },
+    {
+      "start": 641.8,
+      "duration": 5.2,
+      "text": "AI is now a baseline. So I will give"
+    },
+    {
+      "start": 644.3,
+      "duration": 5.3,
+      "text": "myself half credit for this. I mean this"
+    },
+    {
+      "start": 647.0,
+      "duration": 4.6,
+      "text": "is what a routing. I think I've gotten"
+    },
+    {
+      "start": 649.6,
+      "duration": 3.6,
+      "text": "all zeros and two half credits. This is"
+    },
+    {
+      "start": 651.5,
+      "duration": 4.6,
+      "text": "This is abusive. All right, number"
+    },
+    {
+      "start": 653.2,
+      "duration": 4.9,
+      "text": "eight. Self-driving taxis. This isn't"
+    },
+    {
+      "start": 656.2,
+      "duration": 4.2,
+      "text": "even a prediction. I just threw it in as"
+    },
+    {
+      "start": 658.1,
+      "duration": 5.3,
+      "text": "a story where I was in Phoenix with Dr."
+    },
+    {
+      "start": 660.3,
+      "duration": 4.5,
+      "text": "Sherry and we took Whimos all over the"
+    },
+    {
+      "start": 663.4,
+      "duration": 3.1,
+      "text": "place. And really, the prediction is"
+    },
+    {
+      "start": 664.8,
+      "duration": 3.3,
+      "text": "self-driving taxis have a future. I"
+    },
+    {
+      "start": 666.5,
+      "duration": 5.0,
+      "text": "wasn't necessarily bullish on them"
+    },
+    {
+      "start": 668.1,
+      "duration": 5.3,
+      "text": "before that, but bottom line is they are"
+    },
+    {
+      "start": 671.5,
+      "duration": 4.6,
+      "text": "spreading. So, they've been in the Bay"
+    },
+    {
+      "start": 673.4,
+      "duration": 5.8,
+      "text": "Area, I believe, maybe Los Las Las"
+    },
+    {
+      "start": 676.2,
+      "duration": 5.0,
+      "text": "Vegas, Phoenix, and maybe Austin, Texas."
+    },
+    {
+      "start": 679.2,
+      "duration": 3.7,
+      "text": "All places with relatively good weather."
+    },
+    {
+      "start": 681.1,
+      "duration": 5.0,
+      "text": "And what I've heard is that they are"
+    },
+    {
+      "start": 682.9,
+      "duration": 4.3,
+      "text": "creeping into places that have snow. So,"
+    },
+    {
+      "start": 686.1,
+      "duration": 3.9,
+      "text": "I've heard they're going to start doing"
+    },
+    {
+      "start": 687.2,
+      "duration": 4.6,
+      "text": "some pilots here in the Twin Cities, uh,"
+    },
+    {
+      "start": 690.0,
+      "duration": 4.2,
+      "text": "as well as other areas of the country."
+    },
+    {
+      "start": 691.8,
+      "duration": 4.8,
+      "text": "So, while this prediction is whatever,"
+    },
+    {
+      "start": 694.2,
+      "duration": 6.3,
+      "text": "it's it's a half or a zero, I do think"
+    },
+    {
+      "start": 696.6,
+      "duration": 6.6,
+      "text": "I'm spot on with that trend. And my"
+    },
+    {
+      "start": 700.5,
+      "duration": 5.7,
+      "text": "ninth and final prediction for 2025 was"
+    },
+    {
+      "start": 703.2,
+      "duration": 5.8,
+      "text": "platform risk will intensify larger more"
+    },
+    {
+      "start": 706.2,
+      "duration": 4.6,
+      "text": "monopolistic platforms. Bootstrap"
+    },
+    {
+      "start": 709.0,
+      "duration": 4.2,
+      "text": "founders will face increased challenges"
+    },
+    {
+      "start": 710.8,
+      "duration": 5.3,
+      "text": "with dependencies from Google, Apple,"
+    },
+    {
+      "start": 713.3,
+      "duration": 5.3,
+      "text": "Facebook, Shopify driving more awareness"
+    },
+    {
+      "start": 716.1,
+      "duration": 5.5,
+      "text": "and strategies around reducing platform"
+    },
+    {
+      "start": 718.6,
+      "duration": 7.0,
+      "text": "risk. I'm going to I mean Chad says true"
+    },
+    {
+      "start": 721.6,
+      "duration": 5.8,
+      "text": "and continuing. Yeah, I mean kind of"
+    },
+    {
+      "start": 725.5,
+      "duration": 3.5,
+      "text": "probably half credit. I don't I don't"
+    },
+    {
+      "start": 727.4,
+      "duration": 4.5,
+      "text": "feel like I nailed this one. when it was"
+    },
+    {
+      "start": 729.0,
+      "duration": 5.9,
+      "text": "also just a little more vague than I"
+    },
+    {
+      "start": 731.9,
+      "duration": 7.1,
+      "text": "would have preferred. So, all in all,"
+    },
+    {
+      "start": 735.0,
+      "duration": 7.7,
+      "text": "nine predictions and I believe I got a"
+    },
+    {
+      "start": 739.0,
+      "duration": 5.5,
+      "text": "total sum of 1.5 if you do three halves."
+    },
+    {
+      "start": 742.6,
+      "duration": 5.0,
+      "text": "So, take my predictions with a grain of"
+    },
+    {
+      "start": 744.6,
+      "duration": 4.9,
+      "text": "salt. I'll admit my predictions for 2024"
+    },
+    {
+      "start": 747.6,
+      "duration": 3.1,
+      "text": "prior year. I did a lot better. You can"
+    },
+    {
+      "start": 749.4,
+      "duration": 3.4,
+      "text": "go back and listen to that episode if"
+    },
+    {
+      "start": 750.7,
+      "duration": 5.1,
+      "text": "you're interested. So, diving in to my"
+    },
+    {
+      "start": 752.8,
+      "duration": 6.6,
+      "text": "predictions for 2026, I have nine of"
+    },
+    {
+      "start": 755.8,
+      "duration": 5.7,
+      "text": "them. And this time I stuck a little"
+    },
+    {
+      "start": 759.4,
+      "duration": 3.8,
+      "text": "more to the startup space and"
+    },
+    {
+      "start": 761.5,
+      "duration": 5.4,
+      "text": "specifically"
+    },
+    {
+      "start": 763.2,
+      "duration": 5.0,
+      "text": "around SAS for the first three. So my"
+    },
+    {
+      "start": 767.0,
+      "duration": 4.5,
+      "text": "first prediction is that bootstrapped"
+    },
+    {
+      "start": 768.2,
+      "duration": 6.2,
+      "text": "and mostly bootstrapped horizontal SAS"
+    },
+    {
+      "start": 771.4,
+      "duration": 4.6,
+      "text": "will experience massive headwinds in"
+    },
+    {
+      "start": 774.4,
+      "duration": 3.2,
+      "text": "2026."
+    },
+    {
+      "start": 776.1,
+      "duration": 5.2,
+      "text": "This is something we're seeing play out"
+    },
+    {
+      "start": 777.6,
+      "duration": 5.5,
+      "text": "with tiny seed applicants as well as"
+    },
+    {
+      "start": 781.3,
+      "duration": 5.0,
+      "text": "tiny seed companies that we have backed"
+    },
+    {
+      "start": 783.1,
+      "duration": 5.5,
+      "text": "previously. And there's always been a"
+    },
+    {
+      "start": 786.3,
+      "duration": 4.5,
+      "text": "bit of a challenge with horizontal SAS,"
+    },
+    {
+      "start": 788.6,
+      "duration": 4.6,
+      "text": "but honestly given the market size, if"
+    },
+    {
+      "start": 790.8,
+      "duration": 5.0,
+      "text": "you can execute well, you can get pretty"
+    },
+    {
+      "start": 793.3,
+      "duration": 6.0,
+      "text": "big pretty fast. Thing is, we're seeing"
+    },
+    {
+      "start": 795.8,
+      "duration": 6.7,
+      "text": "so much money going into venturebacked"
+    },
+    {
+      "start": 799.3,
+      "duration": 6.5,
+      "text": "companies as well as AI first companies."
+    },
+    {
+      "start": 802.6,
+      "duration": 4.7,
+      "text": "And it's just flooding the space of all"
+    },
+    {
+      "start": 805.8,
+      "duration": 3.1,
+      "text": "these big markets, of all these big"
+    },
+    {
+      "start": 807.3,
+      "duration": 2.9,
+      "text": "horizontal markets. And if you know, you"
+    },
+    {
+      "start": 808.9,
+      "duration": 2.6,
+      "text": "think about what's what is not"
+    },
+    {
+      "start": 810.2,
+      "duration": 3.8,
+      "text": "horizontal. Well, it's either vertical"
+    },
+    {
+      "start": 811.4,
+      "duration": 3.9,
+      "text": "or orthogonal. Not going to define those"
+    },
+    {
+      "start": 813.9,
+      "duration": 6.3,
+      "text": "here. I've talked a lot about them on"
+    },
+    {
+      "start": 815.4,
+      "duration": 7.8,
+      "text": "the podcast, but it is an exception that"
+    },
+    {
+      "start": 820.2,
+      "duration": 5.0,
+      "text": "I'm seeing when a horizontal mostly"
+    },
+    {
+      "start": 823.1,
+      "duration": 5.1,
+      "text": "bootstrapped company is able to continue"
+    },
+    {
+      "start": 825.2,
+      "duration": 4.8,
+      "text": "growth and not plateau in that the"
+    },
+    {
+      "start": 828.2,
+      "duration": 3.8,
+      "text": "ranges depend on the size of the market"
+    },
+    {
+      "start": 830.0,
+      "duration": 3.9,
+      "text": "and all this, but it's half a million, a"
+    },
+    {
+      "start": 832.0,
+      "duration": 4.3,
+      "text": "million, 2 million, and they plateau"
+    },
+    {
+      "start": 833.9,
+      "duration": 5.2,
+      "text": "hard and then they they just can't they"
+    },
+    {
+      "start": 836.3,
+      "duration": 5.8,
+      "text": "can't get through it. And the reasons"
+    },
+    {
+      "start": 839.1,
+      "duration": 5.7,
+      "text": "vary, but what is often either a"
+    },
+    {
+      "start": 842.1,
+      "duration": 4.7,
+      "text": "combination of higher churn or a lot of"
+    },
+    {
+      "start": 844.8,
+      "duration": 3.5,
+      "text": "competition. And it's not just"
+    },
+    {
+      "start": 846.8,
+      "duration": 3.0,
+      "text": "competition in terms of products, but"
+    },
+    {
+      "start": 848.3,
+      "duration": 3.1,
+      "text": "it's competition in terms of all the"
+    },
+    {
+      "start": 849.8,
+      "duration": 4.3,
+      "text": "marketing that's being generated and all"
+    },
+    {
+      "start": 851.4,
+      "duration": 5.1,
+      "text": "the content and SEO, all the headwinds"
+    },
+    {
+      "start": 854.1,
+      "duration": 4.9,
+      "text": "that that creates. Now, there are"
+    },
+    {
+      "start": 856.6,
+      "duration": 5.0,
+      "text": "exceptions to this. If you are building"
+    },
+    {
+      "start": 859.0,
+      "duration": 4.4,
+      "text": "a like a a lifestyle project and you're"
+    },
+    {
+      "start": 861.6,
+      "duration": 3.4,
+      "text": "focusing on a single traffic source like"
+    },
+    {
+      "start": 863.4,
+      "duration": 3.7,
+      "text": "SEO and you're building, you know,"
+    },
+    {
+      "start": 865.0,
+      "duration": 5.0,
+      "text": "whatever, headshots.ai AI or talk to"
+    },
+    {
+      "start": 867.0,
+      "duration": 5.7,
+      "text": "your PDF.ai and you're really just going"
+    },
+    {
+      "start": 870.0,
+      "duration": 5.5,
+      "text": "after a single channel or maybe two. Can"
+    },
+    {
+      "start": 872.7,
+      "duration": 4.7,
+      "text": "you build a 2030 $40,000 a month"
+    },
+    {
+      "start": 875.5,
+      "duration": 3.8,
+      "text": "business? Yeah, probably if there's"
+    },
+    {
+      "start": 877.4,
+      "duration": 5.6,
+      "text": "enough traffic there. What I'm talking"
+    },
+    {
+      "start": 879.3,
+      "duration": 6.0,
+      "text": "about is is building a tiny seed micro"
+    },
+    {
+      "start": 883.0,
+      "duration": 5.5,
+      "text": "startups for the rest of us type seven"
+    },
+    {
+      "start": 885.3,
+      "duration": 4.5,
+      "text": "or eight figure ARR SAS company that is"
+    },
+    {
+      "start": 888.6,
+      "duration": 2.9,
+      "text": "going to be something that's very"
+    },
+    {
+      "start": 889.8,
+      "duration": 4.1,
+      "text": "valuable and can sell for tens of"
+    },
+    {
+      "start": 891.4,
+      "duration": 4.3,
+      "text": "millions of dollars. I I specifically"
+    },
+    {
+      "start": 893.8,
+      "duration": 4.4,
+      "text": "mean the ambitious bootstrappers rather"
+    },
+    {
+      "start": 895.8,
+      "duration": 4.5,
+      "text": "than a lifestyle bootstrapper."
+    },
+    {
+      "start": 898.2,
+      "duration": 3.9,
+      "text": "Horizontal is tough these days, y'all."
+    },
+    {
+      "start": 900.2,
+      "duration": 3.6,
+      "text": "And we are we're see we've been seeing"
+    },
+    {
+      "start": 902.2,
+      "duration": 3.4,
+      "text": "that trend and we are continuing to see"
+    },
+    {
+      "start": 903.8,
+      "duration": 3.6,
+      "text": "it and I don't see it getting any better"
+    },
+    {
+      "start": 905.5,
+      "duration": 4.0,
+      "text": "in 2026."
+    },
+    {
+      "start": 907.4,
+      "duration": 5.9,
+      "text": "My second prediction is that over"
+    },
+    {
+      "start": 909.5,
+      "duration": 5.6,
+      "text": "reliance on SEO will be problematic for"
+    },
+    {
+      "start": 913.4,
+      "duration": 3.1,
+      "text": "mostly bootstrapped SAS founders. for"
+    },
+    {
+      "start": 915.1,
+      "duration": 4.2,
+      "text": "any SAS founder, you know, if you look"
+    },
+    {
+      "start": 916.5,
+      "duration": 6.4,
+      "text": "at at mostly bootstrapped marketing"
+    },
+    {
+      "start": 919.3,
+      "duration": 6.8,
+      "text": "approaches, it's content, SEO, the top"
+    },
+    {
+      "start": 922.9,
+      "duration": 6.4,
+      "text": "five, right? Content, SEO, pay-per-click"
+    },
+    {
+      "start": 926.1,
+      "duration": 6.0,
+      "text": "ads, integrations, partnerships as one,"
+    },
+    {
+      "start": 929.3,
+      "duration": 5.8,
+      "text": "and cold outreach. All of these are"
+    },
+    {
+      "start": 932.1,
+      "duration": 6.7,
+      "text": "getting more crowded, but content SEO,"
+    },
+    {
+      "start": 935.1,
+      "duration": 6.3,
+      "text": "especially with the rise of AI and with"
+    },
+    {
+      "start": 938.8,
+      "duration": 4.8,
+      "text": "the fact that it is quote unquote free"
+    },
+    {
+      "start": 941.4,
+      "duration": 5.1,
+      "text": "marketing, we we all know it's not that,"
+    },
+    {
+      "start": 943.6,
+      "duration": 5.4,
+      "text": "but it has it's probably the number one"
+    },
+    {
+      "start": 946.6,
+      "duration": 5.7,
+      "text": "I think it has to be the number one"
+    },
+    {
+      "start": 949.0,
+      "duration": 5.5,
+      "text": "marketing approach that I see companies,"
+    },
+    {
+      "start": 952.2,
+      "duration": 4.9,
+      "text": "you know, SAS companies doing in in our"
+    },
+    {
+      "start": 954.5,
+      "duration": 4.6,
+      "text": "space, right, is is content and SEO. And"
+    },
+    {
+      "start": 957.1,
+      "duration": 4.8,
+      "text": "therefore it has become extremely"
+    },
+    {
+      "start": 959.0,
+      "duration": 5.8,
+      "text": "crowded. And there's SEO and then"
+    },
+    {
+      "start": 961.9,
+      "duration": 4.8,
+      "text": "there's AI. SEO is kind of how I think"
+    },
+    {
+      "start": 964.9,
+      "duration": 4.5,
+      "text": "most people are referring to it. And the"
+    },
+    {
+      "start": 966.7,
+      "duration": 6.2,
+      "text": "idea here is not to not do it, but it's"
+    },
+    {
+      "start": 969.4,
+      "duration": 5.0,
+      "text": "to realize that an over reliance on it"
+    },
+    {
+      "start": 972.9,
+      "duration": 3.8,
+      "text": "is going to be difficult as the market"
+    },
+    {
+      "start": 974.4,
+      "duration": 3.8,
+      "text": "shifts and as things become more"
+    },
+    {
+      "start": 976.6,
+      "duration": 3.0,
+      "text": "competitive. And so if I were launching"
+    },
+    {
+      "start": 978.2,
+      "duration": 3.6,
+      "text": "a SAS today, would I still do it?"
+    },
+    {
+      "start": 979.6,
+      "duration": 5.6,
+      "text": "Absolutely. But would I be concerned if"
+    },
+    {
+      "start": 981.8,
+      "duration": 5.8,
+      "text": "it was 80% of my new customers? I would"
+    },
+    {
+      "start": 985.2,
+      "duration": 5.4,
+      "text": "be. Prediction number three is that the"
+    },
+    {
+      "start": 987.6,
+      "duration": 6.8,
+      "text": "top few brands in any category will grab"
+    },
+    {
+      "start": 990.6,
+      "duration": 6.2,
+      "text": "massive market share in 2026. Even more"
+    },
+    {
+      "start": 994.4,
+      "duration": 6.1,
+      "text": "so than in prior years due to the fact"
+    },
+    {
+      "start": 996.7,
+      "duration": 6.4,
+      "text": "that AI chat interfaces are recommending"
+    },
+    {
+      "start": 1000.5,
+      "duration": 6.0,
+      "text": "a short list of companies. So oftent"
+    },
+    {
+      "start": 1003.1,
+      "duration": 5.3,
+      "text": "times you would go to Google and you'd"
+    },
+    {
+      "start": 1006.5,
+      "duration": 4.3,
+      "text": "search for what are the best email"
+    },
+    {
+      "start": 1008.4,
+      "duration": 5.0,
+      "text": "marketing platforms and you might come"
+    },
+    {
+      "start": 1010.8,
+      "duration": 6.0,
+      "text": "to a Reddit thread or you might wind up"
+    },
+    {
+      "start": 1013.4,
+      "duration": 4.7,
+      "text": "maybe going to a private Slack group and"
+    },
+    {
+      "start": 1016.8,
+      "duration": 3.7,
+      "text": "asking what are people using for email"
+    },
+    {
+      "start": 1018.1,
+      "duration": 4.7,
+      "text": "marketing these days right and usually"
+    },
+    {
+      "start": 1020.5,
+      "duration": 4.4,
+      "text": "you get maybe three answers or you get"
+    },
+    {
+      "start": 1022.8,
+      "duration": 5.4,
+      "text": "well if you want to sell stuff online"
+    },
+    {
+      "start": 1024.9,
+      "duration": 5.0,
+      "text": "then it's this tool and if you are just"
+    },
+    {
+      "start": 1028.2,
+      "duration": 4.7,
+      "text": "blogging and want a big list then it's"
+    },
+    {
+      "start": 1029.8,
+      "duration": 5.3,
+      "text": "these other tools. This I think is being"
+    },
+    {
+      "start": 1033.0,
+      "duration": 4.7,
+      "text": "it's being condensed even more. The long"
+    },
+    {
+      "start": 1035.1,
+      "duration": 4.6,
+      "text": "tail is becoming more challenging"
+    },
+    {
+      "start": 1037.7,
+      "duration": 3.2,
+      "text": "because AI can recommend you can say"
+    },
+    {
+      "start": 1039.8,
+      "duration": 2.9,
+      "text": "give me the top three or give me the top"
+    },
+    {
+      "start": 1040.9,
+      "duration": 3.7,
+      "text": "four and give me the reasons and it will"
+    },
+    {
+      "start": 1042.6,
+      "duration": 3.4,
+      "text": "it will give you its opinion and I know"
+    },
+    {
+      "start": 1044.6,
+      "duration": 4.7,
+      "text": "it's not really an opinion it's just a"
+    },
+    {
+      "start": 1046.1,
+      "duration": 6.5,
+      "text": "predictive LLM but it is I think only"
+    },
+    {
+      "start": 1049.3,
+      "duration": 5.4,
+      "text": "exacerbating this issue and I want to"
+    },
+    {
+      "start": 1052.6,
+      "duration": 4.5,
+      "text": "define brand for you real quick. Right?"
+    },
+    {
+      "start": 1054.7,
+      "duration": 4.4,
+      "text": "Brand is what people say about your"
+    },
+    {
+      "start": 1057.0,
+      "duration": 3.9,
+      "text": "company when you're not in the room. And"
+    },
+    {
+      "start": 1059.1,
+      "duration": 3.6,
+      "text": "if folks start to have an affinity for"
+    },
+    {
+      "start": 1061.0,
+      "duration": 3.4,
+      "text": "your company and they start recommending"
+    },
+    {
+      "start": 1062.7,
+      "duration": 3.3,
+      "text": "you, there's word of mouth where they're"
+    },
+    {
+      "start": 1064.4,
+      "duration": 4.8,
+      "text": "telling other people about it in these"
+    },
+    {
+      "start": 1066.0,
+      "duration": 4.8,
+      "text": "conversations or one-on-one or online"
+    },
+    {
+      "start": 1069.2,
+      "duration": 3.0,
+      "text": "people are writing blog blog posts about"
+    },
+    {
+      "start": 1070.8,
+      "duration": 3.9,
+      "text": "you suddenly saying, \"Hey, there's this"
+    },
+    {
+      "start": 1072.2,
+      "duration": 4.2,
+      "text": "great new tool and it's called Drip and"
+    },
+    {
+      "start": 1074.7,
+      "duration": 3.6,
+      "text": "it's very different than all the other"
+    },
+    {
+      "start": 1076.5,
+      "duration": 3.7,
+      "text": "email marketing tools that I've seen and"
+    },
+    {
+      "start": 1078.3,
+      "duration": 3.4,
+      "text": "here's why.\" And people are actively"
+    },
+    {
+      "start": 1080.2,
+      "duration": 3.7,
+      "text": "talking about that on podcasts and on"
+    },
+    {
+      "start": 1081.7,
+      "duration": 4.3,
+      "text": "blogs. That's where you start to have a"
+    },
+    {
+      "start": 1083.8,
+      "duration": 6.2,
+      "text": "brand. What I want to discourage you"
+    },
+    {
+      "start": 1086.0,
+      "duration": 6.3,
+      "text": "from is to do brand marketing because as"
+    },
+    {
+      "start": 1090.0,
+      "duration": 4.1,
+      "text": "a mostly bootstrap founder, what you"
+    },
+    {
+      "start": 1092.3,
+      "duration": 3.4,
+      "text": "really want to do is build an incredible"
+    },
+    {
+      "start": 1094.1,
+      "duration": 4.6,
+      "text": "product that solves a desperate pain"
+    },
+    {
+      "start": 1095.8,
+      "duration": 5.1,
+      "text": "point in a way that other tools don't"
+    },
+    {
+      "start": 1098.6,
+      "duration": 4.6,
+      "text": "and be so good that folks can't ignore"
+    },
+    {
+      "start": 1100.9,
+      "duration": 5.0,
+      "text": "you. And the more customers you get, you"
+    },
+    {
+      "start": 1103.3,
+      "duration": 4.2,
+      "text": "will build that brand. Don't go out and"
+    },
+    {
+      "start": 1105.9,
+      "duration": 3.9,
+      "text": "do brand marketing. We know that brand"
+    },
+    {
+      "start": 1107.5,
+      "duration": 4.8,
+      "text": "marketing is things like buying"
+    },
+    {
+      "start": 1109.8,
+      "duration": 4.0,
+      "text": "billboard ads and spending money just to"
+    },
+    {
+      "start": 1112.3,
+      "duration": 3.0,
+      "text": "get your name out there for exposure."
+    },
+    {
+      "start": 1113.8,
+      "duration": 2.7,
+      "text": "And that's that's not what we do as most"
+    },
+    {
+      "start": 1115.4,
+      "duration": 4.9,
+      "text": "of the bootstrap founders. We can't"
+    },
+    {
+      "start": 1116.6,
+      "duration": 6.6,
+      "text": "afford to do it. So don't feel like you"
+    },
+    {
+      "start": 1120.2,
+      "duration": 4.0,
+      "text": "need to go out and just do brand stuff."
+    },
+    {
+      "start": 1123.1,
+      "duration": 2.6,
+      "text": "What you need to do is build an"
+    },
+    {
+      "start": 1124.2,
+      "duration": 3.3,
+      "text": "incredible product and get people to"
+    },
+    {
+      "start": 1125.7,
+      "duration": 3.4,
+      "text": "love it so much they talk about this on"
+    },
+    {
+      "start": 1127.5,
+      "duration": 3.7,
+      "text": "a podcast episode probably two years"
+    },
+    {
+      "start": 1129.0,
+      "duration": 3.3,
+      "text": "ago. We were talking about brand. There"
+    },
+    {
+      "start": 1131.2,
+      "duration": 3.5,
+      "text": "was a listener question and it was"
+    },
+    {
+      "start": 1132.3,
+      "duration": 4.2,
+      "text": "Ruben, founder of Signwell and I and he"
+    },
+    {
+      "start": 1134.7,
+      "duration": 3.4,
+      "text": "said, \"You've built some good brands.\""
+    },
+    {
+      "start": 1136.5,
+      "duration": 3.1,
+      "text": "And I said, \"Yeah, I guess I have. I had"
+    },
+    {
+      "start": 1138.1,
+      "duration": 3.8,
+      "text": "really thought about it, right?\" And so"
+    },
+    {
+      "start": 1139.6,
+      "duration": 5.0,
+      "text": "like Tiny Seed and Microcom in in the"
+    },
+    {
+      "start": 1141.9,
+      "duration": 4.5,
+      "text": "right circles are solid brands and Trip"
+    },
+    {
+      "start": 1144.6,
+      "duration": 4.3,
+      "text": "is a good brand and maybe SAS playbook"
+    },
+    {
+      "start": 1146.4,
+      "duration": 4.3,
+      "text": "or maybe this podcast, right? And he"
+    },
+    {
+      "start": 1148.9,
+      "duration": 3.4,
+      "text": "said, \"How'd you do it?\" You know, did"
+    },
+    {
+      "start": 1150.7,
+      "duration": 3.5,
+      "text": "you focus on doing that? And I was like,"
+    },
+    {
+      "start": 1152.3,
+      "duration": 3.4,
+      "text": "I was stumped by this. I was like, \"Uh,"
+    },
+    {
+      "start": 1154.2,
+      "duration": 2.7,
+      "text": "I don't know. I don't really know how I"
+    },
+    {
+      "start": 1155.7,
+      "duration": 3.4,
+      "text": "did.\" And he said, \"Yeah, that's my"
+    },
+    {
+      "start": 1157.0,
+      "duration": 6.1,
+      "text": "point. Usually you picked a memorable"
+    },
+    {
+      "start": 1159.0,
+      "duration": 5.4,
+      "text": "name. you solved a problem and you you"
+    },
+    {
+      "start": 1163.0,
+      "duration": 4.4,
+      "text": "know you were the founder spokesperson"
+    },
+    {
+      "start": 1164.5,
+      "duration": 4.8,
+      "text": "of this but you built a great tool or or"
+    },
+    {
+      "start": 1167.4,
+      "duration": 3.9,
+      "text": "you I guess in micro tiny se it's not a"
+    },
+    {
+      "start": 1169.3,
+      "duration": 5.0,
+      "text": "great tool but you built a great product"
+    },
+    {
+      "start": 1171.4,
+      "duration": 4.6,
+      "text": "so to speak but his point was but I"
+    },
+    {
+      "start": 1174.2,
+      "duration": 3.2,
+      "text": "never focused on building it you just"
+    },
+    {
+      "start": 1176.0,
+      "duration": 3.4,
+      "text": "get enough customers you know by the"
+    },
+    {
+      "start": 1177.4,
+      "duration": 3.8,
+      "text": "time you hit say a million ARR as a SAS"
+    },
+    {
+      "start": 1179.4,
+      "duration": 4.0,
+      "text": "company you're probably going to have"
+    },
+    {
+      "start": 1181.2,
+      "duration": 3.2,
+      "text": "kind of a brand with a with a group of"
+    },
+    {
+      "start": 1183.4,
+      "duration": 2.6,
+      "text": "people you know you're going to have"
+    },
+    {
+      "start": 1184.4,
+      "duration": 3.1,
+      "text": "this affinity group that really likes"
+    },
+    {
+      "start": 1185.9,
+      "duration": 3.0,
+      "text": "you and starts talking about you it"
+    },
+    {
+      "start": 1187.5,
+      "duration": 3.6,
+      "text": "doesn't happen super early it's not when"
+    },
+    {
+      "start": 1188.9,
+      "duration": 3.7,
+      "text": "you have 10k MR. And this is something"
+    },
+    {
+      "start": 1191.1,
+      "duration": 2.6,
+      "text": "that I don't know, I struggle to"
+    },
+    {
+      "start": 1192.6,
+      "duration": 2.4,
+      "text": "recommend to people because then people"
+    },
+    {
+      "start": 1193.7,
+      "duration": 2.6,
+      "text": "run out and do a bunch of brand stuff."
+    },
+    {
+      "start": 1195.0,
+      "duration": 4.3,
+      "text": "You can hear me couching this, but the"
+    },
+    {
+      "start": 1196.3,
+      "duration": 4.7,
+      "text": "idea is that as you grow, if you have a"
+    },
+    {
+      "start": 1199.3,
+      "duration": 3.5,
+      "text": "a memorable name and you have some"
+    },
+    {
+      "start": 1201.0,
+      "duration": 4.9,
+      "text": "personality to where you're not just a"
+    },
+    {
+      "start": 1202.8,
+      "duration": 5.9,
+      "text": "transactional SAS application and you"
+    },
+    {
+      "start": 1205.9,
+      "duration": 4.6,
+      "text": "care about the experience of your users,"
+    },
+    {
+      "start": 1208.7,
+      "duration": 3.0,
+      "text": "you'll build a brand. I will admit it's"
+    },
+    {
+      "start": 1210.5,
+      "duration": 4.2,
+      "text": "easy mode if you have a founder"
+    },
+    {
+      "start": 1211.8,
+      "duration": 6.0,
+      "text": "spokesperson. you know Rand Fishkin with"
+    },
+    {
+      "start": 1214.7,
+      "duration": 4.6,
+      "text": "SEO and now with Spark Toro he has built"
+    },
+    {
+      "start": 1217.8,
+      "duration": 3.9,
+      "text": "two great brands and a big part of that"
+    },
+    {
+      "start": 1219.4,
+      "duration": 4.7,
+      "text": "is because it's Rand but it is possible"
+    },
+    {
+      "start": 1221.7,
+      "duration": 3.8,
+      "text": "without that we can look at Semrush and"
+    },
+    {
+      "start": 1224.1,
+      "duration": 2.6,
+      "text": "I don't know who the founder of Semrush"
+    },
+    {
+      "start": 1225.4,
+      "duration": 3.3,
+      "text": "is and I don't know if they've ever"
+    },
+    {
+      "start": 1226.7,
+      "duration": 3.2,
+      "text": "created content and yet Seamrush is a"
+    },
+    {
+      "start": 1228.7,
+      "duration": 5.0,
+      "text": "brand right when I think of the top"
+    },
+    {
+      "start": 1229.9,
+      "duration": 5.4,
+      "text": "three SEO tools these days right Hrefs"
+    },
+    {
+      "start": 1233.8,
+      "duration": 2.7,
+      "text": "Semrush and Moz are the three that I"
+    },
+    {
+      "start": 1235.3,
+      "duration": 2.6,
+      "text": "would name there's probably others out"
+    },
+    {
+      "start": 1236.5,
+      "duration": 3.9,
+      "text": "there but those are the three that I"
+    },
+    {
+      "start": 1237.8,
+      "duration": 5.0,
+      "text": "remember and only Moz had a founder"
+    },
+    {
+      "start": 1240.4,
+      "duration": 6.2,
+      "text": "spokesperson I know the I know of the"
+    },
+    {
+      "start": 1242.8,
+      "duration": 5.7,
+      "text": "founder of Hrefs, but I don't think at"
+    },
+    {
+      "start": 1246.6,
+      "duration": 3.4,
+      "text": "least I wasn't paying attention. I don't"
+    },
+    {
+      "start": 1248.5,
+      "duration": 3.1,
+      "text": "feel like that founder was a huge"
+    },
+    {
+      "start": 1250.0,
+      "duration": 3.3,
+      "text": "content creating spokesperson in the"
+    },
+    {
+      "start": 1251.6,
+      "duration": 4.1,
+      "text": "early days. Maybe they were. I missed it"
+    },
+    {
+      "start": 1253.3,
+      "duration": 5.3,
+      "text": "and yet I still saw Href rise to"
+    },
+    {
+      "start": 1255.7,
+      "duration": 4.6,
+      "text": "prominence. So, in conclusion, my third"
+    },
+    {
+      "start": 1258.6,
+      "duration": 3.1,
+      "text": "prediction is that the top few brands in"
+    },
+    {
+      "start": 1260.3,
+      "duration": 4.1,
+      "text": "any category will continue to grab"
+    },
+    {
+      "start": 1261.7,
+      "duration": 5.0,
+      "text": "massive market share in 2026. Prediction"
+    },
+    {
+      "start": 1264.4,
+      "duration": 6.1,
+      "text": "number four is that the AI VC bubble"
+    },
+    {
+      "start": 1266.7,
+      "duration": 6.5,
+      "text": "will not burst in 2026. massive"
+    },
+    {
+      "start": 1270.5,
+      "duration": 5.2,
+      "text": "investment will continue without a"
+    },
+    {
+      "start": 1273.2,
+      "duration": 5.1,
+      "text": "dramatic crash. I'm measuring this by"
+    },
+    {
+      "start": 1275.7,
+      "duration": 4.4,
+      "text": "the fact that it's estimated about $190"
+    },
+    {
+      "start": 1278.3,
+      "duration": 6.0,
+      "text": "billion of venture capital dollars were"
+    },
+    {
+      "start": 1280.1,
+      "duration": 6.3,
+      "text": "invested in AI in 2025. And if there's a"
+    },
+    {
+      "start": 1284.3,
+      "duration": 4.3,
+      "text": "big crash, this number is just going to"
+    },
+    {
+      "start": 1286.4,
+      "duration": 5.2,
+      "text": "contract like crazy. So, this will be a"
+    },
+    {
+      "start": 1288.6,
+      "duration": 6.0,
+      "text": "really easy number to look at. Is at the"
+    },
+    {
+      "start": 1291.6,
+      "duration": 4.6,
+      "text": "end of 2026, is the number approximately"
+    },
+    {
+      "start": 1294.6,
+      "duration": 4.2,
+      "text": "190? It might be a little more. It might"
+    },
+    {
+      "start": 1296.2,
+      "duration": 5.3,
+      "text": "be a little less. But if there's a a"
+    },
+    {
+      "start": 1298.8,
+      "duration": 5.6,
+      "text": "dramatic crash, it's going to be half as"
+    },
+    {
+      "start": 1301.5,
+      "duration": 4.2,
+      "text": "much or or even anything below 3/4, I"
+    },
+    {
+      "start": 1304.4,
+      "duration": 3.4,
+      "text": "think, implies that this something's"
+    },
+    {
+      "start": 1305.8,
+      "duration": 5.1,
+      "text": "going wrong. My fifth prediction is that"
+    },
+    {
+      "start": 1307.8,
+      "duration": 7.1,
+      "text": "open-source AI models will double in"
+    },
+    {
+      "start": 1310.9,
+      "duration": 6.5,
+      "text": "global usage driven by cost control and"
+    },
+    {
+      "start": 1314.9,
+      "duration": 5.5,
+      "text": "platform risk. So, as of now, a working"
+    },
+    {
+      "start": 1317.4,
+      "duration": 5.7,
+      "text": "paper summarized in IT Pro says closed"
+    },
+    {
+      "start": 1320.4,
+      "duration": 5.6,
+      "text": "models are about 80% of overall usage,"
+    },
+    {
+      "start": 1323.0,
+      "duration": 4.8,
+      "text": "implying that open is about 20% and I'm"
+    },
+    {
+      "start": 1326.0,
+      "duration": 5.3,
+      "text": "making the bold prediction that AI"
+    },
+    {
+      "start": 1327.8,
+      "duration": 5.8,
+      "text": "models will double to around 40% usage"
+    },
+    {
+      "start": 1331.3,
+      "duration": 4.1,
+      "text": "by the end of 2026. This is one of those"
+    },
+    {
+      "start": 1333.7,
+      "duration": 3.0,
+      "text": "where I'm probably getting out over my"
+    },
+    {
+      "start": 1335.4,
+      "duration": 2.5,
+      "text": "skis and it's going to be a few"
+    },
+    {
+      "start": 1336.6,
+      "duration": 3.7,
+      "text": "percentage points per year if I'm being"
+    },
+    {
+      "start": 1337.8,
+      "duration": 4.4,
+      "text": "realistic. Maybe it's if it's at 25 or"
+    },
+    {
+      "start": 1340.3,
+      "duration": 3.5,
+      "text": "30%, I'll be surprised. My bold"
+    },
+    {
+      "start": 1342.2,
+      "duration": 4.2,
+      "text": "prediction is it's going to double to"
+    },
+    {
+      "start": 1343.8,
+      "duration": 4.8,
+      "text": "40%, that open source AI models are"
+    },
+    {
+      "start": 1346.5,
+      "duration": 4.1,
+      "text": "going to continue to grow. My sixth"
+    },
+    {
+      "start": 1348.6,
+      "duration": 4.6,
+      "text": "prediction is that at least one major"
+    },
+    {
+      "start": 1350.6,
+      "duration": 6.1,
+      "text": "noode platform will struggle or go under"
+    },
+    {
+      "start": 1353.3,
+      "duration": 5.9,
+      "text": "as AI removes its core advantage."
+    },
+    {
+      "start": 1356.6,
+      "duration": 4.8,
+      "text": "Realistically, Vibe coding and AI"
+    },
+    {
+      "start": 1359.2,
+      "duration": 4.2,
+      "text": "assisted coding is making things a lot"
+    },
+    {
+      "start": 1361.4,
+      "duration": 4.6,
+      "text": "easier for folks to build internal line"
+    },
+    {
+      "start": 1363.4,
+      "duration": 4.2,
+      "text": "of business apps. Now, I know folks are"
+    },
+    {
+      "start": 1366.0,
+      "duration": 2.7,
+      "text": "often putting these in production and"
+    },
+    {
+      "start": 1367.6,
+      "duration": 3.3,
+      "text": "trying to actually build companies"
+    },
+    {
+      "start": 1368.7,
+      "duration": 4.7,
+      "text": "around them. And you've heard my take on"
+    },
+    {
+      "start": 1370.9,
+      "duration": 4.6,
+      "text": "that in prior episodes, but"
+    },
+    {
+      "start": 1373.4,
+      "duration": 5.4,
+      "text": "realistically, my team at Micromp and"
+    },
+    {
+      "start": 1375.5,
+      "duration": 4.6,
+      "text": "Tiny Seed has built multiple line of"
+    },
+    {
+      "start": 1378.8,
+      "duration": 3.2,
+      "text": "business apps. By line of business, I"
+    },
+    {
+      "start": 1380.2,
+      "duration": 4.9,
+      "text": "mean just internal use apps to produce"
+    },
+    {
+      "start": 1382.0,
+      "duration": 5.6,
+      "text": "this podcast and our YouTube videos, our"
+    },
+    {
+      "start": 1385.0,
+      "duration": 4.6,
+      "text": "applications for Tiny Seed, to manage"
+    },
+    {
+      "start": 1387.6,
+      "duration": 4.1,
+      "text": "SAS Institute. all kinds of apps that"
+    },
+    {
+      "start": 1389.7,
+      "duration": 4.6,
+      "text": "we've built in no code that I think"
+    },
+    {
+      "start": 1391.7,
+      "duration": 4.6,
+      "text": "feasibly can be built with AI and be"
+    },
+    {
+      "start": 1394.2,
+      "duration": 4.0,
+      "text": "built relatively well and you know what"
+    },
+    {
+      "start": 1396.3,
+      "duration": 4.5,
+      "text": "they don't need to scale or be as"
+    },
+    {
+      "start": 1398.2,
+      "duration": 4.2,
+      "text": "maintainable as something that you put"
+    },
+    {
+      "start": 1400.8,
+      "duration": 4.3,
+      "text": "out in the wild and have customers"
+    },
+    {
+      "start": 1402.4,
+      "duration": 5.0,
+      "text": "using. So I think AI and vibe coding are"
+    },
+    {
+      "start": 1405.1,
+      "duration": 4.2,
+      "text": "going to start biting at the heels of no"
+    },
+    {
+      "start": 1407.4,
+      "duration": 3.5,
+      "text": "code platforms and my prediction is that"
+    },
+    {
+      "start": 1409.3,
+      "duration": 4.4,
+      "text": "at least one major platform will"
+    },
+    {
+      "start": 1411.0,
+      "duration": 4.9,
+      "text": "struggle or go under because of this. My"
+    },
+    {
+      "start": 1413.7,
+      "duration": 4.4,
+      "text": "seventh prediction is that M&A activity"
+    },
+    {
+      "start": 1415.8,
+      "duration": 5.0,
+      "text": "will increase for small fast growing SAS"
+    },
+    {
+      "start": 1418.1,
+      "duration": 5.8,
+      "text": "companies as larger firms look for AI"
+    },
+    {
+      "start": 1420.8,
+      "duration": 6.6,
+      "text": "adjacent growth. There was a flurry of"
+    },
+    {
+      "start": 1423.9,
+      "duration": 6.6,
+      "text": "M&A activity in 2020 and 2021 as money"
+    },
+    {
+      "start": 1427.4,
+      "duration": 7.0,
+      "text": "flooded the global financial system and"
+    },
+    {
+      "start": 1430.6,
+      "duration": 6.8,
+      "text": "then it ground to a halt in 2022. It was"
+    },
+    {
+      "start": 1434.4,
+      "duration": 6.0,
+      "text": "slow in 23, a little faster in 20 24, a"
+    },
+    {
+      "start": 1437.4,
+      "duration": 6.4,
+      "text": "little faster in 25. And I think 2026 is"
+    },
+    {
+      "start": 1440.4,
+      "duration": 6.2,
+      "text": "going to see a shot in the arm. not only"
+    },
+    {
+      "start": 1443.8,
+      "duration": 5.5,
+      "text": "from money continuing to be invested in"
+    },
+    {
+      "start": 1446.6,
+      "duration": 5.1,
+      "text": "the global financial system, but a lot"
+    },
+    {
+      "start": 1449.3,
+      "duration": 4.9,
+      "text": "of these AI companies are going to be"
+    },
+    {
+      "start": 1451.8,
+      "duration": 5.2,
+      "text": "looking for growth. They need growth at"
+    },
+    {
+      "start": 1454.2,
+      "duration": 6.5,
+      "text": "all costs. And if they've raised 50,"
+    },
+    {
+      "start": 1457.0,
+      "duration": 7.2,
+      "text": "100, $500 million, they have money to"
+    },
+    {
+      "start": 1460.6,
+      "duration": 6.7,
+      "text": "buy smaller startups. So I think that"
+    },
+    {
+      "start": 1464.2,
+      "duration": 4.8,
+      "text": "M&A activity especially for smaller fast"
+    },
+    {
+      "start": 1467.4,
+      "duration": 3.5,
+      "text": "growing SAS companies and you know what"
+    },
+    {
+      "start": 1469.0,
+      "duration": 3.8,
+      "text": "is small a million, 5 million, 10"
+    },
+    {
+      "start": 1470.9,
+      "duration": 4.4,
+      "text": "million AR? Yeah. any any of that small"
+    },
+    {
+      "start": 1472.8,
+      "duration": 4.3,
+      "text": "when you're talking about the order of"
+    },
+    {
+      "start": 1475.3,
+      "duration": 3.8,
+      "text": "magnitude that these AI companies are"
+    },
+    {
+      "start": 1477.1,
+      "duration": 4.6,
+      "text": "operating at. So, I think 2026 is going"
+    },
+    {
+      "start": 1479.0,
+      "duration": 5.8,
+      "text": "to be a banner year for M&A activity for"
+    },
+    {
+      "start": 1481.8,
+      "duration": 5.3,
+      "text": "B2B SAS companies. My eighth prediction"
+    },
+    {
+      "start": 1484.9,
+      "duration": 5.0,
+      "text": "is that Bitcoin will hit a new all-time"
+    },
+    {
+      "start": 1487.0,
+      "duration": 5.3,
+      "text": "high of $160,000"
+    },
+    {
+      "start": 1489.8,
+      "duration": 6.6,
+      "text": "in 26 and I think the price will range"
+    },
+    {
+      "start": 1492.3,
+      "duration": 6.2,
+      "text": "from about 100,000 to $160,000"
+    },
+    {
+      "start": 1496.5,
+      "duration": 7.3,
+      "text": "throughout the year. As I'm recording"
+    },
+    {
+      "start": 1498.5,
+      "duration": 5.3,
+      "text": "this, Bitcoin is at $87,000."
+    },
+    {
+      "start": 1504.1,
+      "duration": 5.3,
+      "text": "So maybe I'll I'll update this and say I"
+    },
+    {
+      "start": 1506.2,
+      "duration": 5.6,
+      "text": "think the price range will be from 90 to"
+    },
+    {
+      "start": 1509.4,
+      "duration": 4.2,
+      "text": "160 throughout the year. That it'll hit"
+    },
+    {
+      "start": 1511.8,
+      "duration": 4.7,
+      "text": "90 and then it'll, you know, bounce up"
+    },
+    {
+      "start": 1513.6,
+      "duration": 5.0,
+      "text": "and down as it does. My ninth and final"
+    },
+    {
+      "start": 1516.6,
+      "duration": 4.2,
+      "text": "prediction is that Stripe will remain"
+    },
+    {
+      "start": 1518.6,
+      "duration": 3.8,
+      "text": "private throughout 2026, continuing to"
+    },
+    {
+      "start": 1520.8,
+      "duration": 4.2,
+      "text": "operate like a public company without"
+    },
+    {
+      "start": 1522.5,
+      "duration": 4.3,
+      "text": "actually going public. This, in fact, is"
+    },
+    {
+      "start": 1525.0,
+      "duration": 4.4,
+      "text": "the opposite of the prediction I made in"
+    },
+    {
+      "start": 1526.8,
+      "duration": 4.2,
+      "text": "2024 and 2025 where I kept saying"
+    },
+    {
+      "start": 1529.4,
+      "duration": 2.9,
+      "text": "Stripe's going to go public. And so,"
+    },
+    {
+      "start": 1531.0,
+      "duration": 2.5,
+      "text": "guess what? This year, I'm saying"
+    },
+    {
+      "start": 1532.3,
+      "duration": 2.8,
+      "text": "they're not going to go public. And"
+    },
+    {
+      "start": 1533.4,
+      "duration": 3.0,
+      "text": "guess what? This is the year I can"
+    },
+    {
+      "start": 1535.1,
+      "duration": 4.1,
+      "text": "almost guarantee they're going to go"
+    },
+    {
+      "start": 1536.5,
+      "duration": 4.6,
+      "text": "public because my predictions are so"
+    },
+    {
+      "start": 1539.2,
+      "duration": 4.2,
+      "text": "awful. I've talked about this at length"
+    },
+    {
+      "start": 1541.1,
+      "duration": 5.8,
+      "text": "in the past, so I won't uh won't beat it"
+    },
+    {
+      "start": 1543.4,
+      "duration": 6.9,
+      "text": "to death here, but suffice to say, I am"
+    },
+    {
+      "start": 1546.9,
+      "duration": 5.7,
+      "text": "predicting no IPO for Stripe. And"
+    },
+    {
+      "start": 1550.2,
+      "duration": 4.8,
+      "text": "lastly, as I wrap up this episode, I"
+    },
+    {
+      "start": 1552.6,
+      "duration": 5.3,
+      "text": "just wanted to reflect on 2025 and some"
+    },
+    {
+      "start": 1555.0,
+      "duration": 6.2,
+      "text": "of the things that I'm really proud of"
+    },
+    {
+      "start": 1557.8,
+      "duration": 7.3,
+      "text": "that my team and I pushed live and"
+    },
+    {
+      "start": 1561.2,
+      "duration": 5.8,
+      "text": "pulled off in 2025. There was Microconf"
+    },
+    {
+      "start": 1565.1,
+      "duration": 4.8,
+      "text": "US in New Orleans, which was a great"
+    },
+    {
+      "start": 1567.0,
+      "duration": 5.1,
+      "text": "event. If you attended it, you know the"
+    },
+    {
+      "start": 1569.9,
+      "duration": 3.3,
+      "text": "feeling, the vibe in that room. And if"
+    },
+    {
+      "start": 1572.2,
+      "duration": 2.8,
+      "text": "you didn't, you should check out"
+    },
+    {
+      "start": 1573.2,
+      "duration": 3.8,
+      "text": "Microcom US in Portland, which is"
+    },
+    {
+      "start": 1575.0,
+      "duration": 5.1,
+      "text": "happening here in just a few months."
+    },
+    {
+      "start": 1577.0,
+      "duration": 5.2,
+      "text": "microcom.com us. We also pulled off"
+    },
+    {
+      "start": 1580.1,
+      "duration": 4.2,
+      "text": "Microconf Europe in Istanbul and"
+    },
+    {
+      "start": 1582.2,
+      "duration": 5.0,
+      "text": "producer Sonia did an amazing job with"
+    },
+    {
+      "start": 1584.3,
+      "duration": 4.9,
+      "text": "both of these events. I invested in my"
+    },
+    {
+      "start": 1587.2,
+      "duration": 5.6,
+      "text": "234th"
+    },
+    {
+      "start": 1589.2,
+      "duration": 5.5,
+      "text": "SAS company combining our 210 tiny seed"
+    },
+    {
+      "start": 1592.8,
+      "duration": 3.9,
+      "text": "investments and my own private"
+    },
+    {
+      "start": 1594.7,
+      "duration": 4.0,
+      "text": "investments. I'm feeling pretty good"
+    },
+    {
+      "start": 1596.7,
+      "duration": 4.3,
+      "text": "about that and I love the viewpoint that"
+    },
+    {
+      "start": 1598.7,
+      "duration": 5.1,
+      "text": "I get seeing the inner workings of all"
+    },
+    {
+      "start": 1601.0,
+      "duration": 6.2,
+      "text": "these companies. We ship 52 episodes of"
+    },
+    {
+      "start": 1603.8,
+      "duration": 5.6,
+      "text": "this podcast. We shipped 26 videos to"
+    },
+    {
+      "start": 1607.3,
+      "duration": 3.8,
+      "text": "our YouTube channel and those for the"
+    },
+    {
+      "start": 1609.4,
+      "duration": 3.2,
+      "text": "most part those videos are brand new"
+    },
+    {
+      "start": 1611.0,
+      "duration": 4.2,
+      "text": "original content, right? It's not like"
+    },
+    {
+      "start": 1612.6,
+      "duration": 6.0,
+      "text": "this podcast repurposed for that. We"
+    },
+    {
+      "start": 1615.3,
+      "duration": 5.4,
+      "text": "also crossed 111,000 subscribers on our"
+    },
+    {
+      "start": 1618.6,
+      "duration": 5.1,
+      "text": "YouTube channel and just last week"
+    },
+    {
+      "start": 1620.6,
+      "duration": 5.5,
+      "text": "passed 6 million video views on the"
+    },
+    {
+      "start": 1623.8,
+      "duration": 4.6,
+      "text": "channel. So, it's been a ton of hard"
+    },
+    {
+      "start": 1626.2,
+      "duration": 4.0,
+      "text": "work from producer Ron and I just really"
+    },
+    {
+      "start": 1628.3,
+      "duration": 4.1,
+      "text": "appreciate all the hard work from the"
+    },
+    {
+      "start": 1630.2,
+      "duration": 4.0,
+      "text": "Micro and Tiny Seed team to put all this"
+    },
+    {
+      "start": 1632.4,
+      "duration": 3.5,
+      "text": "stuff into the world. And looking ahead"
+    },
+    {
+      "start": 1634.2,
+      "duration": 3.0,
+      "text": "to 2026 right now, I'm of course"
+    },
+    {
+      "start": 1635.9,
+      "duration": 5.5,
+      "text": "thinking about Microcon Portland in"
+    },
+    {
+      "start": 1637.2,
+      "duration": 5.9,
+      "text": "April and Tiny Seed Tales season 7. I'm"
+    },
+    {
+      "start": 1641.4,
+      "duration": 4.1,
+      "text": "about to start recording the first"
+    },
+    {
+      "start": 1643.1,
+      "duration": 5.7,
+      "text": "episode of that season here in the next"
+    },
+    {
+      "start": 1645.5,
+      "duration": 6.9,
+      "text": "few weeks and fingers crossed it'll go"
+    },
+    {
+      "start": 1648.8,
+      "duration": 5.3,
+      "text": "live next fall of 2026."
+    },
+    {
+      "start": 1652.4,
+      "duration": 4.4,
+      "text": "Thanks for hanging with me on this show"
+    },
+    {
+      "start": 1654.1,
+      "duration": 4.8,
+      "text": "for another year. It's always great to"
+    },
+    {
+      "start": 1656.8,
+      "duration": 5.0,
+      "text": "be in your earbuds, even if my"
+    },
+    {
+      "start": 1658.9,
+      "duration": 4.9,
+      "text": "predictions are catastrophically bad. I"
+    },
+    {
+      "start": 1661.8,
+      "duration": 3.9,
+      "text": "appreciate you listening this week and"
+    },
+    {
+      "start": 1663.8,
+      "duration": 4.0,
+      "text": "every week. And if you keep listening,"
+    },
+    {
+      "start": 1665.7,
+      "duration": 6.3,
+      "text": "I'll keep recording. This is Rob Walling"
+    },
+    {
+      "start": 1667.8,
+      "duration": 4.2,
+      "text": "signing off from episode 813."
+    },
+    {
+      "start": 1672.7,
+      "duration": 6.5,
+      "text": "[Music]"
+    },
+    {
+      "start": 1673.1,
+      "duration": 8.8,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1679.3,
+      "duration": 5.7,
+      "text": "[Music]"
+    },
+    {
+      "start": 1681.8,
+      "duration": 3.1,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1685.1,
+      "duration": 2.7,
+      "text": "[Music]"
+    }
+  ]
+}

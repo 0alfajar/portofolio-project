@@ -1,0 +1,2596 @@
+{
+  "video_id": "2YsCcJg3QkE",
+  "title": "Marketing for Founders Who Hate Marketing",
+  "segments": [
+    {
+      "start": 0.5,
+      "duration": 5.6,
+      "text": "Hey, it's Arvid and this is the bootstep"
+    },
+    {
+      "start": 3.1,
+      "duration": 3.0,
+      "text": "founder."
+    },
+    {
+      "start": 9.6,
+      "duration": 5.2,
+      "text": "So many of the technical founders I know"
+    },
+    {
+      "start": 12.4,
+      "duration": 4.5,
+      "text": "really don't like marketing. It's not"
+    },
+    {
+      "start": 14.8,
+      "duration": 3.9,
+      "text": "that they don't understand it. They know"
+    },
+    {
+      "start": 16.9,
+      "duration": 3.8,
+      "text": "how important it is to run an effective"
+    },
+    {
+      "start": 18.7,
+      "duration": 3.8,
+      "text": "business. You need to do marketing, too."
+    },
+    {
+      "start": 20.7,
+      "duration": 3.7,
+      "text": "But they don't really know how to do it"
+    },
+    {
+      "start": 22.5,
+      "duration": 3.5,
+      "text": "right. They don't know how to leverage"
+    },
+    {
+      "start": 24.4,
+      "duration": 3.7,
+      "text": "their own technical skills to make"
+    },
+    {
+      "start": 26.0,
+      "duration": 4.2,
+      "text": "marketing easier. and they just feel"
+    },
+    {
+      "start": 28.1,
+      "duration": 3.8,
+      "text": "it's kind of evident and obvious to them"
+    },
+    {
+      "start": 30.2,
+      "duration": 3.4,
+      "text": "that their time would be better spent"
+    },
+    {
+      "start": 31.9,
+      "duration": 3.8,
+      "text": "implementing product features and"
+    },
+    {
+      "start": 33.6,
+      "duration": 4.0,
+      "text": "technical solutions than stumbling"
+    },
+    {
+      "start": 35.7,
+      "duration": 4.4,
+      "text": "around the world of getting people to"
+    },
+    {
+      "start": 37.6,
+      "duration": 4.3,
+      "text": "look at their product. I get it. I've"
+    },
+    {
+      "start": 40.1,
+      "duration": 3.8,
+      "text": "been there for years, I think, and I"
+    },
+    {
+      "start": 41.9,
+      "duration": 3.8,
+      "text": "might still be there a little bit. So, I"
+    },
+    {
+      "start": 43.9,
+      "duration": 3.9,
+      "text": "want to share a couple of ideas and"
+    },
+    {
+      "start": 45.8,
+      "duration": 4.6,
+      "text": "learnings from my journey as a founder"
+    },
+    {
+      "start": 47.8,
+      "duration": 4.9,
+      "text": "to show just how marketing can work for"
+    },
+    {
+      "start": 50.4,
+      "duration": 4.2,
+      "text": "founders who hate marketing. A quick"
+    },
+    {
+      "start": 52.7,
+      "duration": 3.6,
+      "text": "word from our sponsor here, paddle.com."
+    },
+    {
+      "start": 54.6,
+      "duration": 3.8,
+      "text": "I use them as my merchant of record for"
+    },
+    {
+      "start": 56.3,
+      "duration": 3.5,
+      "text": "all my software projects. So if you"
+    },
+    {
+      "start": 58.4,
+      "duration": 3.0,
+      "text": "really just want to focus on building"
+    },
+    {
+      "start": 59.8,
+      "duration": 3.7,
+      "text": "your product instead of having to deal"
+    },
+    {
+      "start": 61.4,
+      "duration": 4.5,
+      "text": "with taxes, currencies, and all that,"
+    },
+    {
+      "start": 63.5,
+      "duration": 5.7,
+      "text": "check out paddle.com as your merchant of"
+    },
+    {
+      "start": 65.8,
+      "duration": 5.4,
+      "text": "record payment provider."
+    },
+    {
+      "start": 69.2,
+      "duration": 3.4,
+      "text": "The biggest learning for me in now"
+    },
+    {
+      "start": 71.2,
+      "duration": 3.9,
+      "text": "almost 20 years of software"
+    },
+    {
+      "start": 72.6,
+      "duration": 5.2,
+      "text": "entrepreneurship is this. If you don't"
+    },
+    {
+      "start": 75.1,
+      "duration": 4.4,
+      "text": "like to do it and you don't want other"
+    },
+    {
+      "start": 77.8,
+      "duration": 3.9,
+      "text": "people to do it for you, at least you're"
+    },
+    {
+      "start": 79.5,
+      "duration": 4.4,
+      "text": "not at that stage yet, well then you"
+    },
+    {
+      "start": 81.7,
+      "duration": 4.4,
+      "text": "have to let machines do it for you. For"
+    },
+    {
+      "start": 83.9,
+      "duration": 4.5,
+      "text": "us technical founders, that's the easy"
+    },
+    {
+      "start": 86.1,
+      "duration": 4.0,
+      "text": "conclusion of all this. And the best and"
+    },
+    {
+      "start": 88.4,
+      "duration": 4.8,
+      "text": "most obvious way of doing this when it"
+    },
+    {
+      "start": 90.1,
+      "duration": 5.4,
+      "text": "comes to marketing is programmatic SEO."
+    },
+    {
+      "start": 93.2,
+      "duration": 5.0,
+      "text": "It's making most of the value that you"
+    },
+    {
+      "start": 95.4,
+      "duration": 5.4,
+      "text": "and your business produce internally"
+    },
+    {
+      "start": 98.2,
+      "duration": 4.1,
+      "text": "discoverable externally by people who"
+    },
+    {
+      "start": 100.8,
+      "duration": 3.3,
+      "text": "are already looking for something like"
+    },
+    {
+      "start": 102.2,
+      "duration": 3.8,
+      "text": "it. And I'm going to give you examples"
+    },
+    {
+      "start": 104.1,
+      "duration": 3.4,
+      "text": "here cuz this is almost an academic"
+    },
+    {
+      "start": 106.1,
+      "duration": 4.2,
+      "text": "approach to what that might mean. But"
+    },
+    {
+      "start": 107.4,
+      "duration": 5.2,
+      "text": "for Potcan, it was an obvious choice."
+    },
+    {
+      "start": 110.2,
+      "duration": 4.0,
+      "text": "One that I took way too long to"
+    },
+    {
+      "start": 112.6,
+      "duration": 4.3,
+      "text": "implement. took me way too long to make"
+    },
+    {
+      "start": 114.2,
+      "duration": 4.9,
+      "text": "the choice to do it quite honestly. But"
+    },
+    {
+      "start": 117.0,
+      "duration": 5.4,
+      "text": "I think I talked about this at the"
+    },
+    {
+      "start": 119.1,
+      "duration": 6.2,
+      "text": "beginning of 2025, must have been around"
+    },
+    {
+      "start": 122.4,
+      "duration": 5.5,
+      "text": "January when I I remember walking around"
+    },
+    {
+      "start": 125.3,
+      "duration": 5.6,
+      "text": "in the snow last year and thinking about"
+    },
+    {
+      "start": 127.9,
+      "duration": 4.8,
+      "text": "finally taking that step. I made all the"
+    },
+    {
+      "start": 130.9,
+      "duration": 3.8,
+      "text": "podcast and episode pages that I have"
+    },
+    {
+      "start": 132.7,
+      "duration": 4.3,
+      "text": "internally in my dashboard where people"
+    },
+    {
+      "start": 134.6,
+      "duration": 5.3,
+      "text": "can see transcripts and metadata and all"
+    },
+    {
+      "start": 137.0,
+      "duration": 4.2,
+      "text": "of that and I made them public and I hid"
+    },
+    {
+      "start": 139.9,
+      "duration": 3.6,
+      "text": "some of the information that people"
+    },
+    {
+      "start": 141.3,
+      "duration": 3.8,
+      "text": "would find most interesting so that they"
+    },
+    {
+      "start": 143.5,
+      "duration": 4.2,
+      "text": "then would sign up, right? I made it"
+    },
+    {
+      "start": 145.1,
+      "duration": 4.7,
+      "text": "kind of blurred out and stuff and that"
+    },
+    {
+      "start": 147.8,
+      "duration": 4.3,
+      "text": "was the big twist. Everything that"
+    },
+    {
+      "start": 149.8,
+      "duration": 4.9,
+      "text": "people had to log in to see, they could"
+    },
+    {
+      "start": 152.1,
+      "duration": 4.3,
+      "text": "now see externally when they searched"
+    },
+    {
+      "start": 154.7,
+      "duration": 4.0,
+      "text": "for something in the search engine and"
+    },
+    {
+      "start": 156.4,
+      "duration": 4.1,
+      "text": "they would be led into registering for"
+    },
+    {
+      "start": 158.7,
+      "duration": 3.8,
+      "text": "an account. And ever since I made"
+    },
+    {
+      "start": 160.5,
+      "duration": 4.0,
+      "text": "Podskan's internal data, this treasure"
+    },
+    {
+      "start": 162.5,
+      "duration": 4.2,
+      "text": "chest of data, the biggest value of the"
+    },
+    {
+      "start": 164.5,
+      "duration": 3.6,
+      "text": "company semi-public by giving some of"
+    },
+    {
+      "start": 166.6,
+      "duration": 3.7,
+      "text": "the information away for free through"
+    },
+    {
+      "start": 168.1,
+      "duration": 4.2,
+      "text": "generating these pages for every single"
+    },
+    {
+      "start": 170.3,
+      "duration": 3.4,
+      "text": "podcast and every single episode and"
+    },
+    {
+      "start": 172.2,
+      "duration": 3.9,
+      "text": "linking them with each other and then a"
+    },
+    {
+      "start": 173.7,
+      "duration": 4.6,
+      "text": "sitemap. Well, that generated tens of"
+    },
+    {
+      "start": 176.2,
+      "duration": 4.3,
+      "text": "thousands of potential endpoints for"
+    },
+    {
+      "start": 178.3,
+      "duration": 5.3,
+      "text": "people to find the product through"
+    },
+    {
+      "start": 180.5,
+      "duration": 4.7,
+      "text": "signups and searching. That has been"
+    },
+    {
+      "start": 183.6,
+      "duration": 3.4,
+      "text": "spiking quite a bit. People have been"
+    },
+    {
+      "start": 185.2,
+      "duration": 3.4,
+      "text": "finding exactly what they need because"
+    },
+    {
+      "start": 187.0,
+      "duration": 3.7,
+      "text": "they were looking for one particular"
+    },
+    {
+      "start": 188.6,
+      "duration": 4.0,
+      "text": "show and a transcript and that's exactly"
+    },
+    {
+      "start": 190.6,
+      "duration": 4.6,
+      "text": "where they found it. And then the group"
+    },
+    {
+      "start": 192.6,
+      "duration": 5.5,
+      "text": "of people that found it and actually has"
+    },
+    {
+      "start": 195.2,
+      "duration": 5.1,
+      "text": "an interest in purchasing my products is"
+    },
+    {
+      "start": 198.2,
+      "duration": 4.9,
+      "text": "now coming to the product without me"
+    },
+    {
+      "start": 200.3,
+      "duration": 4.6,
+      "text": "having to do any targeted outreach. Of"
+    },
+    {
+      "start": 203.0,
+      "duration": 3.4,
+      "text": "course, there are also people who want"
+    },
+    {
+      "start": 204.9,
+      "duration": 3.8,
+      "text": "to see a transcript and would never buy"
+    },
+    {
+      "start": 206.5,
+      "duration": 6.2,
+      "text": "a POTSCAN subscription. That's fine with"
+    },
+    {
+      "start": 208.7,
+      "duration": 6.2,
+      "text": "me. I think the first 50% of the MR that"
+    },
+    {
+      "start": 212.7,
+      "duration": 4.6,
+      "text": "I'm at now, low five figures, has been"
+    },
+    {
+      "start": 215.0,
+      "duration": 3.8,
+      "text": "created entirely through my own personal"
+    },
+    {
+      "start": 217.4,
+      "duration": 3.0,
+      "text": "network. That's how every founder"
+    },
+    {
+      "start": 218.7,
+      "duration": 3.4,
+      "text": "starts, right? The first half was like"
+    },
+    {
+      "start": 220.3,
+      "duration": 3.9,
+      "text": "all the people on Twitter and the people"
+    },
+    {
+      "start": 222.2,
+      "duration": 3.6,
+      "text": "who are reading my newsletter, that kind"
+    },
+    {
+      "start": 224.2,
+      "duration": 3.4,
+      "text": "of stuff. They figured it out and they"
+    },
+    {
+      "start": 225.8,
+      "duration": 4.2,
+      "text": "either used it or told people that they"
+    },
+    {
+      "start": 227.6,
+      "duration": 5.1,
+      "text": "know to use it, building in public. But"
+    },
+    {
+      "start": 230.0,
+      "duration": 4.4,
+      "text": "the second half, the other 50% has been"
+    },
+    {
+      "start": 232.7,
+      "duration": 3.1,
+      "text": "coming from people who just found"
+    },
+    {
+      "start": 234.4,
+      "duration": 3.2,
+      "text": "Podskin through googling for a"
+    },
+    {
+      "start": 235.8,
+      "duration": 4.0,
+      "text": "transcript or for more information on a"
+    },
+    {
+      "start": 237.6,
+      "duration": 3.8,
+      "text": "podcast. What's the email for this show?"
+    },
+    {
+      "start": 239.8,
+      "duration": 3.8,
+      "text": "That's what people would Google. And"
+    },
+    {
+      "start": 241.4,
+      "duration": 4.6,
+      "text": "then since we have a strong email data"
+    },
+    {
+      "start": 243.6,
+      "duration": 5.3,
+      "text": "presence in our podcast data, we would"
+    },
+    {
+      "start": 245.9,
+      "duration": 4.8,
+      "text": "show in those rankings in Google or"
+    },
+    {
+      "start": 248.9,
+      "duration": 3.4,
+      "text": "people were googling for some more"
+    },
+    {
+      "start": 250.7,
+      "duration": 3.4,
+      "text": "information about a host and that we"
+    },
+    {
+      "start": 252.3,
+      "duration": 4.4,
+      "text": "would pull up. They found it through my"
+    },
+    {
+      "start": 254.1,
+      "duration": 4.2,
+      "text": "programmatic SEO efforts. So if you have"
+    },
+    {
+      "start": 256.7,
+      "duration": 3.6,
+      "text": "something of value in your product that"
+    },
+    {
+      "start": 258.3,
+      "duration": 3.8,
+      "text": "people really really crave. Maybe it's"
+    },
+    {
+      "start": 260.3,
+      "duration": 3.5,
+      "text": "some kind of data that only you scrape"
+    },
+    {
+      "start": 262.1,
+      "duration": 3.7,
+      "text": "or data that you extract from somewhere"
+    },
+    {
+      "start": 263.8,
+      "duration": 4.7,
+      "text": "else and enrich. Make some of it"
+    },
+    {
+      "start": 265.8,
+      "duration": 4.9,
+      "text": "available. Trust that you have put"
+    },
+    {
+      "start": 268.6,
+      "duration": 3.8,
+      "text": "enough of an example of value out there"
+    },
+    {
+      "start": 270.6,
+      "duration": 4.2,
+      "text": "that people will sign up and find"
+    },
+    {
+      "start": 272.4,
+      "duration": 5.0,
+      "text": "reproducible value in your product over"
+    },
+    {
+      "start": 274.9,
+      "duration": 4.2,
+      "text": "time. Here's something I learned about"
+    },
+    {
+      "start": 277.4,
+      "duration": 4.1,
+      "text": "this machine-based marketing approach"
+    },
+    {
+      "start": 279.0,
+      "duration": 4.7,
+      "text": "that might surprise you. with my"
+    },
+    {
+      "start": 281.5,
+      "duration": 3.5,
+      "text": "programmatic SEO efforts. Out of the"
+    },
+    {
+      "start": 283.8,
+      "duration": 3.3,
+      "text": "hundreds of people that sign up for"
+    },
+    {
+      "start": 285.0,
+      "duration": 3.8,
+      "text": "Podscan every day, only a handful of"
+    },
+    {
+      "start": 287.0,
+      "duration": 4.2,
+      "text": "them really is from my ideal customer"
+    },
+    {
+      "start": 288.9,
+      "duration": 4.2,
+      "text": "profile, right? For me, that is PR"
+    },
+    {
+      "start": 291.2,
+      "duration": 3.9,
+      "text": "agencies and marketing agencies and"
+    },
+    {
+      "start": 293.0,
+      "duration": 4.2,
+      "text": "founders who need podcast data. But the"
+    },
+    {
+      "start": 295.1,
+      "duration": 3.8,
+      "text": "majority of people out there who Google"
+    },
+    {
+      "start": 297.3,
+      "duration": 3.7,
+      "text": "for things, well, they just want to see"
+    },
+    {
+      "start": 298.9,
+      "duration": 5.0,
+      "text": "a podcast transcript from some show and"
+    },
+    {
+      "start": 301.0,
+      "duration": 4.2,
+      "text": "they will never sign into Podcan again."
+    },
+    {
+      "start": 303.9,
+      "duration": 3.4,
+      "text": "Obviously, at this point, you have a"
+    },
+    {
+      "start": 305.1,
+      "duration": 4.9,
+      "text": "choice. Do I embrace that or do I try to"
+    },
+    {
+      "start": 307.3,
+      "duration": 4.6,
+      "text": "prevent this? And honestly, it's fine"
+    },
+    {
+      "start": 310.0,
+      "duration": 3.4,
+      "text": "with me because I know that even though"
+    },
+    {
+      "start": 311.8,
+      "duration": 4.0,
+      "text": "these people are not my customer"
+    },
+    {
+      "start": 313.4,
+      "duration": 3.8,
+      "text": "profile, they now have seen Potscan and"
+    },
+    {
+      "start": 315.8,
+      "duration": 3.2,
+      "text": "they now know that they can go to"
+    },
+    {
+      "start": 317.2,
+      "duration": 4.0,
+      "text": "Potscan and get the transcript of any"
+    },
+    {
+      "start": 319.0,
+      "duration": 4.5,
+      "text": "episode of any show that they ever"
+    },
+    {
+      "start": 321.2,
+      "duration": 4.3,
+      "text": "wanted to look at. So if any"
+    },
+    {
+      "start": 323.5,
+      "duration": 4.1,
+      "text": "professional person in their vicinity"
+    },
+    {
+      "start": 325.5,
+      "duration": 3.3,
+      "text": "for some random chance ever mentions"
+    },
+    {
+      "start": 327.6,
+      "duration": 2.9,
+      "text": "that they would like to do more with"
+    },
+    {
+      "start": 328.8,
+      "duration": 3.0,
+      "text": "podcasts because they know that the"
+    },
+    {
+      "start": 330.5,
+      "duration": 3.4,
+      "text": "conversations that their business might"
+    },
+    {
+      "start": 331.8,
+      "duration": 3.8,
+      "text": "be interested in are happening on"
+    },
+    {
+      "start": 333.8,
+      "duration": 3.8,
+      "text": "podcasts out there. Well, now that"
+    },
+    {
+      "start": 335.7,
+      "duration": 4.1,
+      "text": "person that prior to this moment was not"
+    },
+    {
+      "start": 337.6,
+      "duration": 4.2,
+      "text": "an interesting customer to me becomes a"
+    },
+    {
+      "start": 339.8,
+      "duration": 3.9,
+      "text": "potential magnifier for the value of"
+    },
+    {
+      "start": 341.8,
+      "duration": 3.2,
+      "text": "Potcan because they can tell them, hey,"
+    },
+    {
+      "start": 343.7,
+      "duration": 3.0,
+      "text": "so I was looking for a podcast"
+    },
+    {
+      "start": 345.0,
+      "duration": 3.9,
+      "text": "transcript and I found it here on what"
+    },
+    {
+      "start": 346.7,
+      "duration": 4.1,
+      "text": "was the name of that site podcast"
+    },
+    {
+      "start": 348.9,
+      "duration": 3.3,
+      "text": "scanner pot scan. It's kind of how it"
+    },
+    {
+      "start": 350.8,
+      "duration": 2.8,
+      "text": "happened multiple times the"
+    },
+    {
+      "start": 352.2,
+      "duration": 2.9,
+      "text": "conversations that I had with people."
+    },
+    {
+      "start": 353.6,
+      "duration": 2.8,
+      "text": "Have you tried that out? Right? That's"
+    },
+    {
+      "start": 355.0,
+      "duration": 3.9,
+      "text": "what they can tell their friends or"
+    },
+    {
+      "start": 356.4,
+      "duration": 5.0,
+      "text": "their acquaintances. And now if I have"
+    },
+    {
+      "start": 359.0,
+      "duration": 3.8,
+      "text": "the trust between these two people"
+    },
+    {
+      "start": 361.4,
+      "duration": 3.5,
+      "text": "already established because they know"
+    },
+    {
+      "start": 362.7,
+      "duration": 4.9,
+      "text": "each other and I helped one of them now"
+    },
+    {
+      "start": 365.0,
+      "duration": 4.8,
+      "text": "I can have this recommendation benefit"
+    },
+    {
+      "start": 367.6,
+      "duration": 4.0,
+      "text": "for my own business. The non-C customer"
+    },
+    {
+      "start": 369.8,
+      "duration": 3.8,
+      "text": "becomes the word of mouth channel for"
+    },
+    {
+      "start": 371.6,
+      "duration": 3.7,
+      "text": "me. And that's the beauty of letting"
+    },
+    {
+      "start": 373.5,
+      "duration": 3.8,
+      "text": "machines do the heavy lifting. You're"
+    },
+    {
+      "start": 375.3,
+      "duration": 3.5,
+      "text": "not just reaching your ideal customers,"
+    },
+    {
+      "start": 377.3,
+      "duration": 2.9,
+      "text": "which is great, which you can do with"
+    },
+    {
+      "start": 378.8,
+      "duration": 3.1,
+      "text": "targeted outreach and you can even"
+    },
+    {
+      "start": 380.2,
+      "duration": 4.1,
+      "text": "automate that. But you're building brand"
+    },
+    {
+      "start": 381.9,
+      "duration": 4.9,
+      "text": "awareness at scale. That comes through"
+    },
+    {
+      "start": 384.2,
+      "duration": 5.2,
+      "text": "one helpful interaction at a time and it"
+    },
+    {
+      "start": 386.8,
+      "duration": 4.7,
+      "text": "will self-amplify. Now, if you don't"
+    },
+    {
+      "start": 389.4,
+      "duration": 3.8,
+      "text": "have anything that you could show and"
+    },
+    {
+      "start": 391.5,
+      "duration": 3.3,
+      "text": "you might think that you may not have"
+    },
+    {
+      "start": 393.2,
+      "duration": 4.2,
+      "text": "this treasure chest of information in"
+    },
+    {
+      "start": 394.8,
+      "duration": 4.2,
+      "text": "your own business, which means you don't"
+    },
+    {
+      "start": 397.4,
+      "duration": 3.5,
+      "text": "have any meaningful way to"
+    },
+    {
+      "start": 399.0,
+      "duration": 4.7,
+      "text": "programmatically build something that"
+    },
+    {
+      "start": 401.0,
+      "duration": 5.0,
+      "text": "exposes existing data. you can go onto"
+    },
+    {
+      "start": 403.7,
+      "duration": 4.2,
+      "text": "the generative side of things. This is"
+    },
+    {
+      "start": 405.9,
+      "duration": 3.0,
+      "text": "where it becomes a bit murky because I'm"
+    },
+    {
+      "start": 407.8,
+      "duration": 3.4,
+      "text": "not talking about things like"
+    },
+    {
+      "start": 408.9,
+      "duration": 4.2,
+      "text": "autogenerated blogs on autogenerated"
+    },
+    {
+      "start": 411.2,
+      "duration": 3.6,
+      "text": "websites because those suck most of the"
+    },
+    {
+      "start": 413.0,
+      "duration": 4.2,
+      "text": "time if not all the time. It's just not"
+    },
+    {
+      "start": 414.8,
+      "duration": 4.6,
+      "text": "fun to read an article that was clearly"
+    },
+    {
+      "start": 417.2,
+      "duration": 3.6,
+      "text": "written by an AI just as much as it's"
+    },
+    {
+      "start": 419.4,
+      "duration": 3.0,
+      "text": "not fun to watch a video that was"
+    },
+    {
+      "start": 420.8,
+      "duration": 3.8,
+      "text": "rendered by an AI or listen to"
+    },
+    {
+      "start": 422.3,
+      "duration": 4.0,
+      "text": "synthesized audio where you know that no"
+    },
+    {
+      "start": 424.6,
+      "duration": 3.4,
+      "text": "human being ever touched this. It just"
+    },
+    {
+      "start": 426.3,
+      "duration": 3.5,
+      "text": "sounds like it. It just looks like it,"
+    },
+    {
+      "start": 428.0,
+      "duration": 4.6,
+      "text": "right? You don't want that. But there is"
+    },
+    {
+      "start": 429.8,
+      "duration": 5.0,
+      "text": "a subsection of generative SEO that is"
+    },
+    {
+      "start": 432.6,
+      "duration": 4.8,
+      "text": "very interesting and it ties back to"
+    },
+    {
+      "start": 434.9,
+      "duration": 4.4,
+      "text": "where people go look for information and"
+    },
+    {
+      "start": 437.4,
+      "duration": 5.3,
+      "text": "what they're looking for. And that"
+    },
+    {
+      "start": 439.3,
+      "duration": 6.0,
+      "text": "section is what I consider to be pattern"
+    },
+    {
+      "start": 442.7,
+      "duration": 4.2,
+      "text": "exposure. For me, that means the more"
+    },
+    {
+      "start": 445.3,
+      "duration": 3.5,
+      "text": "customers you serve, the more data you"
+    },
+    {
+      "start": 447.0,
+      "duration": 3.4,
+      "text": "ingest from all kinds of directions,"
+    },
+    {
+      "start": 448.8,
+      "duration": 3.1,
+      "text": "either from your customers or from the"
+    },
+    {
+      "start": 450.3,
+      "duration": 3.6,
+      "text": "projects that they're building or if you"
+    },
+    {
+      "start": 451.9,
+      "duration": 3.6,
+      "text": "do something for your customers and your"
+    },
+    {
+      "start": 453.9,
+      "duration": 3.4,
+      "text": "customers interact with your product in"
+    },
+    {
+      "start": 455.5,
+      "duration": 4.2,
+      "text": "a way, you get insights into your"
+    },
+    {
+      "start": 457.4,
+      "duration": 4.3,
+      "text": "industry in some measurable way. And the"
+    },
+    {
+      "start": 459.8,
+      "duration": 4.1,
+      "text": "more of that data you source from all"
+    },
+    {
+      "start": 461.7,
+      "duration": 5.0,
+      "text": "these different origins, the more you"
+    },
+    {
+      "start": 463.8,
+      "duration": 4.9,
+      "text": "have generalizable information that"
+    },
+    {
+      "start": 466.6,
+      "duration": 4.2,
+      "text": "turns you from a simple product offering"
+    },
+    {
+      "start": 468.7,
+      "duration": 4.6,
+      "text": "in the industry for these specific"
+    },
+    {
+      "start": 470.9,
+      "duration": 4.5,
+      "text": "people into a data aggregator that also"
+    },
+    {
+      "start": 473.4,
+      "duration": 3.6,
+      "text": "works for people outside of your ICP"
+    },
+    {
+      "start": 475.4,
+      "duration": 4.2,
+      "text": "profiles, right? You're an industry"
+    },
+    {
+      "start": 477.0,
+      "duration": 4.2,
+      "text": "insider. You're an actor in an industry"
+    },
+    {
+      "start": 479.5,
+      "duration": 3.8,
+      "text": "with a unique perspective because you"
+    },
+    {
+      "start": 481.2,
+      "duration": 4.2,
+      "text": "have the data to prove it. And now"
+    },
+    {
+      "start": 483.4,
+      "duration": 3.2,
+      "text": "obviously you have to juggle with how"
+    },
+    {
+      "start": 485.4,
+      "duration": 2.9,
+      "text": "much of the stuff that you know about"
+    },
+    {
+      "start": 486.6,
+      "duration": 4.1,
+      "text": "your customers you're willing to and are"
+    },
+    {
+      "start": 488.2,
+      "duration": 4.3,
+      "text": "allowed to share. But there is something"
+    },
+    {
+      "start": 490.6,
+      "duration": 4.1,
+      "text": "really valuable in showing industry"
+    },
+    {
+      "start": 492.6,
+      "duration": 4.0,
+      "text": "trends or behavioral patterns. And let"
+    },
+    {
+      "start": 494.7,
+      "duration": 3.2,
+      "text": "me give you some examples here too."
+    },
+    {
+      "start": 496.6,
+      "duration": 3.2,
+      "text": "Let's say you're working in the tourism"
+    },
+    {
+      "start": 497.9,
+      "duration": 4.0,
+      "text": "industry and your software as a service"
+    },
+    {
+      "start": 499.8,
+      "duration": 4.6,
+      "text": "business facilitates bookings or"
+    },
+    {
+      "start": 501.9,
+      "duration": 4.6,
+      "text": "scheduling tours or something. Now you"
+    },
+    {
+      "start": 504.4,
+      "duration": 4.8,
+      "text": "can say with all the data that you have"
+    },
+    {
+      "start": 506.5,
+      "duration": 6.1,
+      "text": "on a per country basis in this season or"
+    },
+    {
+      "start": 509.2,
+      "duration": 5.9,
+      "text": "over the last five seasons any trip is"
+    },
+    {
+      "start": 512.6,
+      "duration": 5.2,
+      "text": "this many% likely to be cancelled or to"
+    },
+    {
+      "start": 515.1,
+      "duration": 5.3,
+      "text": "be fulfilled. You can create a chart a"
+    },
+    {
+      "start": 517.8,
+      "duration": 4.6,
+      "text": "worldwide map-based chart of trip"
+    },
+    {
+      "start": 520.4,
+      "duration": 4.8,
+      "text": "cancellations to those destinations and"
+    },
+    {
+      "start": 522.3,
+      "duration": 5.2,
+      "text": "their likelihoods. And while this seems"
+    },
+    {
+      "start": 525.2,
+      "duration": 4.2,
+      "text": "to be extremely specific, somebody out"
+    },
+    {
+      "start": 527.5,
+      "duration": 4.9,
+      "text": "there is looking for this data because"
+    },
+    {
+      "start": 529.4,
+      "duration": 5.7,
+      "text": "they need insight into trips and"
+    },
+    {
+      "start": 532.4,
+      "duration": 4.6,
+      "text": "scheduling and bookings, that's exactly"
+    },
+    {
+      "start": 535.0,
+      "duration": 3.7,
+      "text": "what you provide. And through the angle"
+    },
+    {
+      "start": 537.0,
+      "duration": 3.9,
+      "text": "of looking at it from this generalized"
+    },
+    {
+      "start": 538.7,
+      "duration": 4.5,
+      "text": "data, they might become a customer,"
+    },
+    {
+      "start": 540.9,
+      "duration": 3.8,
+      "text": "right? It's incredibly valuable"
+    },
+    {
+      "start": 543.2,
+      "duration": 4.2,
+      "text": "information that nobody else could"
+    },
+    {
+      "start": 544.7,
+      "duration": 5.3,
+      "text": "produce because only your data can"
+    },
+    {
+      "start": 547.4,
+      "duration": 4.2,
+      "text": "source this information. Or let's say"
+    },
+    {
+      "start": 550.0,
+      "duration": 3.5,
+      "text": "you're in the logistics industry and you"
+    },
+    {
+      "start": 551.7,
+      "duration": 4.0,
+      "text": "help people optimize the routes of their"
+    },
+    {
+      "start": 553.5,
+      "duration": 3.9,
+      "text": "trucks between warehouses or deliveries"
+    },
+    {
+      "start": 555.7,
+      "duration": 3.7,
+      "text": "or something. Well, you can highlight"
+    },
+    {
+      "start": 557.4,
+      "duration": 4.2,
+      "text": "traffic congestions and the likelihood"
+    },
+    {
+      "start": 559.4,
+      "duration": 4.5,
+      "text": "for them to appear or which roads are"
+    },
+    {
+      "start": 561.7,
+      "duration": 3.8,
+      "text": "barely used for long haul traffic. Maybe"
+    },
+    {
+      "start": 563.8,
+      "duration": 3.5,
+      "text": "from those calculations, if somebody"
+    },
+    {
+      "start": 565.4,
+      "duration": 4.0,
+      "text": "wants to have a vacation road trip, they"
+    },
+    {
+      "start": 567.4,
+      "duration": 3.7,
+      "text": "want to know which roads to avoid where"
+    },
+    {
+      "start": 569.4,
+      "duration": 3.5,
+      "text": "trucks are currently going, right? You"
+    },
+    {
+      "start": 571.0,
+      "duration": 4.4,
+      "text": "could provide that. You provide a map."
+    },
+    {
+      "start": 573.0,
+      "duration": 4.1,
+      "text": "Again, there's so much data here. And"
+    },
+    {
+      "start": 575.4,
+      "duration": 3.5,
+      "text": "all of a sudden you can make a pattern"
+    },
+    {
+      "start": 577.0,
+      "duration": 4.0,
+      "text": "visible that others without your data"
+    },
+    {
+      "start": 579.0,
+      "duration": 4.6,
+      "text": "could just not have made visible or even"
+    },
+    {
+      "start": 581.0,
+      "duration": 4.4,
+      "text": "understood. And that with proper search"
+    },
+    {
+      "start": 583.6,
+      "duration": 3.4,
+      "text": "engine technical optimizations like"
+    },
+    {
+      "start": 585.4,
+      "duration": 3.6,
+      "text": "turning it into something that Google"
+    },
+    {
+      "start": 587.0,
+      "duration": 4.5,
+      "text": "will index. Well, you can turn your"
+    },
+    {
+      "start": 589.0,
+      "duration": 3.9,
+      "text": "almost like sterile niche product into"
+    },
+    {
+      "start": 591.5,
+      "duration": 4.2,
+      "text": "something that really helps somebody"
+    },
+    {
+      "start": 593.0,
+      "duration": 4.9,
+      "text": "else find meaning and useful insights."
+    },
+    {
+      "start": 595.8,
+      "duration": 4.1,
+      "text": "Again, generating brand awareness, which"
+    },
+    {
+      "start": 597.8,
+      "duration": 3.4,
+      "text": "is one of the big pillars of marketing."
+    },
+    {
+      "start": 599.8,
+      "duration": 3.6,
+      "text": "You want people to know what your brand"
+    },
+    {
+      "start": 601.2,
+      "duration": 3.9,
+      "text": "is. You want to have mind share. So the"
+    },
+    {
+      "start": 603.4,
+      "duration": 4.2,
+      "text": "name of the brand, the name of your"
+    },
+    {
+      "start": 605.1,
+      "duration": 4.7,
+      "text": "product becomes something very positive,"
+    },
+    {
+      "start": 607.6,
+      "duration": 4.0,
+      "text": "something that they will share with"
+    },
+    {
+      "start": 609.8,
+      "duration": 4.9,
+      "text": "other people until it finds the right"
+    },
+    {
+      "start": 611.6,
+      "duration": 4.8,
+      "text": "person, which is your ideal customer."
+    },
+    {
+      "start": 614.7,
+      "duration": 3.4,
+      "text": "Between letting machines create the"
+    },
+    {
+      "start": 616.4,
+      "duration": 3.1,
+      "text": "output for you, the programmatic stuff,"
+    },
+    {
+      "start": 618.1,
+      "duration": 4.1,
+      "text": "and letting machines help you find more"
+    },
+    {
+      "start": 619.5,
+      "duration": 4.3,
+      "text": "and better customers, I think there's"
+    },
+    {
+      "start": 622.2,
+      "duration": 3.4,
+      "text": "another powerful approach that I want to"
+    },
+    {
+      "start": 623.8,
+      "duration": 4.2,
+      "text": "share. So one of the tricks that I see"
+    },
+    {
+      "start": 625.6,
+      "duration": 4.6,
+      "text": "that a lot of founders do right now"
+    },
+    {
+      "start": 628.0,
+      "duration": 4.3,
+      "text": "involves AI assisted marketing and"
+    },
+    {
+      "start": 630.2,
+      "duration": 4.2,
+      "text": "outreach and sales. It works pretty much"
+    },
+    {
+      "start": 632.3,
+      "duration": 4.0,
+      "text": "like this. You take your existing"
+    },
+    {
+      "start": 634.3,
+      "duration": 3.8,
+      "text": "customer base, usually by grabbing all"
+    },
+    {
+      "start": 636.3,
+      "duration": 3.7,
+      "text": "the names and emails, all the domains"
+    },
+    {
+      "start": 638.1,
+      "duration": 4.6,
+      "text": "that people sign up from, and you throw"
+    },
+    {
+      "start": 640.0,
+      "duration": 4.4,
+      "text": "them into a prompt in some smart AI"
+    },
+    {
+      "start": 642.7,
+      "duration": 3.6,
+      "text": "system somewhere, and you say, \"Hey,"
+    },
+    {
+      "start": 644.4,
+      "duration": 4.1,
+      "text": "these are my current customers. Who are"
+    },
+    {
+      "start": 646.3,
+      "duration": 4.2,
+      "text": "they? What are similar businesses? What"
+    },
+    {
+      "start": 648.5,
+      "duration": 4.0,
+      "text": "are the lookalikes here? Who are the"
+    },
+    {
+      "start": 650.5,
+      "duration": 3.8,
+      "text": "people that I need to communicate with?"
+    },
+    {
+      "start": 652.5,
+      "duration": 3.8,
+      "text": "Where do they hang out? What are the"
+    },
+    {
+      "start": 654.3,
+      "duration": 3.9,
+      "text": "places that people from these companies"
+    },
+    {
+      "start": 656.2,
+      "duration": 4.2,
+      "text": "find new things to learn from or find"
+    },
+    {
+      "start": 658.2,
+      "duration": 4.6,
+      "text": "community with others? Where are those"
+    },
+    {
+      "start": 660.4,
+      "duration": 5.1,
+      "text": "people exchanging information? That will"
+    },
+    {
+      "start": 662.9,
+      "duration": 4.3,
+      "text": "then allow you to find these places and"
+    },
+    {
+      "start": 665.5,
+      "duration": 3.4,
+      "text": "see what kind of content is created"
+    },
+    {
+      "start": 667.2,
+      "duration": 3.5,
+      "text": "there, which you can then put into your"
+    },
+    {
+      "start": 669.0,
+      "duration": 3.8,
+      "text": "own content creation efforts. You can"
+    },
+    {
+      "start": 670.7,
+      "duration": 3.8,
+      "text": "either write these things yourself or"
+    },
+    {
+      "start": 672.7,
+      "duration": 3.9,
+      "text": "you can outsource them to professional"
+    },
+    {
+      "start": 674.5,
+      "duration": 3.9,
+      "text": "freelance writers or you can outsource"
+    },
+    {
+      "start": 676.6,
+      "duration": 4.6,
+      "text": "some of this to AI assisted writing"
+    },
+    {
+      "start": 678.4,
+      "duration": 5.6,
+      "text": "tools. But just figuring out where to"
+    },
+    {
+      "start": 681.3,
+      "duration": 5.0,
+      "text": "speak and what to speak about, AI"
+    },
+    {
+      "start": 684.0,
+      "duration": 4.4,
+      "text": "similarity and lookalike prompting is a"
+    },
+    {
+      "start": 686.2,
+      "duration": 3.4,
+      "text": "great move for this. If you have no idea"
+    },
+    {
+      "start": 688.4,
+      "duration": 3.5,
+      "text": "how to do marketing, if you don't have"
+    },
+    {
+      "start": 689.7,
+      "duration": 4.5,
+      "text": "these deep insights into the customer"
+    },
+    {
+      "start": 691.9,
+      "duration": 4.4,
+      "text": "psychology that you might need, well, an"
+    },
+    {
+      "start": 694.2,
+      "duration": 3.8,
+      "text": "AI system might help you because just"
+    },
+    {
+      "start": 696.3,
+      "duration": 4.5,
+      "text": "knowing where people go and what they're"
+    },
+    {
+      "start": 697.9,
+      "duration": 4.6,
+      "text": "interested in, we can always ask an AI"
+    },
+    {
+      "start": 700.8,
+      "duration": 3.8,
+      "text": "for that stuff. You don't have to do"
+    },
+    {
+      "start": 702.6,
+      "duration": 3.6,
+      "text": "massive research. AI can do the research"
+    },
+    {
+      "start": 704.6,
+      "duration": 4.1,
+      "text": "for you. Particularly if you use"
+    },
+    {
+      "start": 706.2,
+      "duration": 5.1,
+      "text": "research capable AI systems like Claude"
+    },
+    {
+      "start": 708.6,
+      "duration": 5.0,
+      "text": "or like Gemini, the pro version or"
+    },
+    {
+      "start": 711.3,
+      "duration": 4.2,
+      "text": "OpenAI chat probe, whatever the thing is"
+    },
+    {
+      "start": 713.7,
+      "duration": 4.6,
+      "text": "called now. It will give you maybe not"
+    },
+    {
+      "start": 715.4,
+      "duration": 5.3,
+      "text": "the perfect answer, but definitely a"
+    },
+    {
+      "start": 718.2,
+      "duration": 4.6,
+      "text": "good one to start from. And I also"
+    },
+    {
+      "start": 720.7,
+      "duration": 5.7,
+      "text": "recommend using something like this"
+    },
+    {
+      "start": 722.8,
+      "duration": 5.6,
+      "text": "internally to allow you to focus on the"
+    },
+    {
+      "start": 726.4,
+      "duration": 4.5,
+      "text": "high likelihood to commit prospects that"
+    },
+    {
+      "start": 728.4,
+      "duration": 5.2,
+      "text": "you have. You can do AI scoring, right?"
+    },
+    {
+      "start": 730.9,
+      "duration": 4.3,
+      "text": "Whenever somebody signs up to Potscan, I"
+    },
+    {
+      "start": 733.6,
+      "duration": 3.5,
+      "text": "score them a couple hours into their"
+    },
+    {
+      "start": 735.2,
+      "duration": 3.4,
+      "text": "first activities into the platform. Once"
+    },
+    {
+      "start": 737.1,
+      "duration": 3.4,
+      "text": "they sign up, they may or may not search"
+    },
+    {
+      "start": 738.6,
+      "duration": 3.8,
+      "text": "for something, might check out the API,"
+    },
+    {
+      "start": 740.6,
+      "duration": 3.6,
+      "text": "might not. Might turn on the fire hose,"
+    },
+    {
+      "start": 742.4,
+      "duration": 3.3,
+      "text": "might not, right? might set up an alert"
+    },
+    {
+      "start": 744.2,
+      "duration": 3.5,
+      "text": "at this point and maybe get some"
+    },
+    {
+      "start": 745.7,
+      "duration": 4.0,
+      "text": "mentions already, I track these steps"
+    },
+    {
+      "start": 747.7,
+      "duration": 5.5,
+      "text": "internally. And then a couple hours into"
+    },
+    {
+      "start": 749.7,
+      "duration": 5.0,
+      "text": "it, I send over a prompt to an AI that"
+    },
+    {
+      "start": 753.2,
+      "duration": 4.0,
+      "text": "has a couple of guidelines on how to"
+    },
+    {
+      "start": 754.7,
+      "duration": 4.2,
+      "text": "score my customers, 0 to 10. And the"
+    },
+    {
+      "start": 757.2,
+      "duration": 3.8,
+      "text": "higher the score, the more likely that"
+    },
+    {
+      "start": 759.0,
+      "duration": 3.4,
+      "text": "they are the perfect prospect and I"
+    },
+    {
+      "start": 761.0,
+      "duration": 3.7,
+      "text": "should be reaching out to them with"
+    },
+    {
+      "start": 762.3,
+      "duration": 5.4,
+      "text": "custom assistance. And I do the same"
+    },
+    {
+      "start": 764.7,
+      "duration": 6.4,
+      "text": "thing a couple days into the trial that"
+    },
+    {
+      "start": 767.7,
+      "duration": 5.5,
+      "text": "they're on and readjust my score to see"
+    },
+    {
+      "start": 771.1,
+      "duration": 4.1,
+      "text": "if I learned more about them along the"
+    },
+    {
+      "start": 773.2,
+      "duration": 3.8,
+      "text": "way. And that is a way for me to figure"
+    },
+    {
+      "start": 775.2,
+      "duration": 3.5,
+      "text": "out who my high-profile customers are"
+    },
+    {
+      "start": 777.0,
+      "duration": 3.9,
+      "text": "because I have so many people just"
+    },
+    {
+      "start": 778.7,
+      "duration": 5.2,
+      "text": "signing up from Google. If I didn't have"
+    },
+    {
+      "start": 781.0,
+      "duration": 4.5,
+      "text": "this kind of BTOC angle where people can"
+    },
+    {
+      "start": 783.9,
+      "duration": 3.9,
+      "text": "sign up from anywhere, I probably"
+    },
+    {
+      "start": 785.4,
+      "duration": 4.6,
+      "text": "wouldn't have to score. But since there"
+    },
+    {
+      "start": 787.8,
+      "duration": 3.8,
+      "text": "are so many signups, I have to dig"
+    },
+    {
+      "start": 790.1,
+      "duration": 3.2,
+      "text": "through all of them manually and that"
+    },
+    {
+      "start": 791.7,
+      "duration": 3.8,
+      "text": "just takes too much time. I have a"
+    },
+    {
+      "start": 793.3,
+      "duration": 4.6,
+      "text": "scoring system that helps me at least"
+    },
+    {
+      "start": 795.4,
+      "duration": 4.6,
+      "text": "flag the ones that could potentially be"
+    },
+    {
+      "start": 797.8,
+      "duration": 4.8,
+      "text": "high-profile. And then from there, I can"
+    },
+    {
+      "start": 800.0,
+      "duration": 4.4,
+      "text": "try to talk to them and see how did you"
+    },
+    {
+      "start": 802.6,
+      "duration": 3.3,
+      "text": "come to the product? What are the social"
+    },
+    {
+      "start": 804.4,
+      "duration": 3.4,
+      "text": "platforms that you usually go to? Maybe"
+    },
+    {
+      "start": 805.9,
+      "duration": 3.7,
+      "text": "I can put some ads there, right? Maybe I"
+    },
+    {
+      "start": 807.8,
+      "duration": 4.2,
+      "text": "can be present there. Where did you go"
+    },
+    {
+      "start": 809.6,
+      "duration": 4.1,
+      "text": "before to find podcast information? Who"
+    },
+    {
+      "start": 812.0,
+      "duration": 3.4,
+      "text": "are my competitors? What are they doing?"
+    },
+    {
+      "start": 813.7,
+      "duration": 3.4,
+      "text": "So, I can talk to them. I can ask them"
+    },
+    {
+      "start": 815.4,
+      "duration": 3.1,
+      "text": "and I can see what kind of content and"
+    },
+    {
+      "start": 817.0,
+      "duration": 3.4,
+      "text": "what kind of outreach I would need to"
+    },
+    {
+      "start": 818.6,
+      "duration": 3.6,
+      "text": "create to reach people like them better."
+    },
+    {
+      "start": 820.5,
+      "duration": 3.6,
+      "text": "And the lookalike audience is always a"
+    },
+    {
+      "start": 822.2,
+      "duration": 3.3,
+      "text": "great idea. Like here are the domains of"
+    },
+    {
+      "start": 824.1,
+      "duration": 5.0,
+      "text": "the people who signed up over the last"
+    },
+    {
+      "start": 825.4,
+      "duration": 6.2,
+      "text": "week. Give me five times as many domains"
+    },
+    {
+      "start": 829.1,
+      "duration": 3.8,
+      "text": "that are competitors of theirs. So I"
+    },
+    {
+      "start": 831.7,
+      "duration": 2.6,
+      "text": "could reach out to them and say, \"Hey,"
+    },
+    {
+      "start": 832.9,
+      "duration": 3.4,
+      "text": "your competitors are using pods,"
+    },
+    {
+      "start": 834.2,
+      "duration": 4.6,
+      "text": "shouldn't you too?\" Right? That is so"
+    },
+    {
+      "start": 836.2,
+      "duration": 4.8,
+      "text": "easy because you have all this data and"
+    },
+    {
+      "start": 838.9,
+      "duration": 5.5,
+      "text": "AI systems are really smart at it. And"
+    },
+    {
+      "start": 841.0,
+      "duration": 5.1,
+      "text": "then if you use MCP systems like Apollo"
+    },
+    {
+      "start": 844.4,
+      "duration": 3.6,
+      "text": "or instantly like all these cold"
+    },
+    {
+      "start": 846.2,
+      "duration": 4.5,
+      "text": "outreach or what is it know your"
+    },
+    {
+      "start": 848.0,
+      "duration": 5.9,
+      "text": "customer tools that are out there it is"
+    },
+    {
+      "start": 850.6,
+      "duration": 5.4,
+      "text": "incredibly powerful. So that's the let's"
+    },
+    {
+      "start": 853.9,
+      "duration": 4.3,
+      "text": "call it automated process side of"
+    },
+    {
+      "start": 856.1,
+      "duration": 3.4,
+      "text": "things. Another thing you can do as a"
+    },
+    {
+      "start": 858.2,
+      "duration": 3.2,
+      "text": "technical founder when it comes to"
+    },
+    {
+      "start": 859.4,
+      "duration": 5.2,
+      "text": "marketing surprisingly is let your"
+    },
+    {
+      "start": 861.4,
+      "duration": 5.8,
+      "text": "documentation do the talking. I don't"
+    },
+    {
+      "start": 864.6,
+      "duration": 5.1,
+      "text": "just mean API docs. I'm talking about a"
+    },
+    {
+      "start": 867.3,
+      "duration": 4.2,
+      "text": "good SEO friendly knowledge base. That's"
+    },
+    {
+      "start": 869.8,
+      "duration": 4.5,
+      "text": "documentation both for people and for"
+    },
+    {
+      "start": 871.4,
+      "duration": 5.4,
+      "text": "machines. That is great. Any kind of"
+    },
+    {
+      "start": 874.2,
+      "duration": 5.0,
+      "text": "documentation, even your API docs, FAQs,"
+    },
+    {
+      "start": 876.9,
+      "duration": 4.2,
+      "text": "any knowledgebased system, a good"
+    },
+    {
+      "start": 879.2,
+      "duration": 3.4,
+      "text": "knowledge base like this is a marketing"
+    },
+    {
+      "start": 881.0,
+      "duration": 3.6,
+      "text": "tool because it will start ranking on"
+    },
+    {
+      "start": 882.6,
+      "duration": 3.2,
+      "text": "Google if it is well linked. And when"
+    },
+    {
+      "start": 884.6,
+      "duration": 3.6,
+      "text": "people have questions about your"
+    },
+    {
+      "start": 885.8,
+      "duration": 4.2,
+      "text": "product, right next to their query"
+    },
+    {
+      "start": 888.2,
+      "duration": 3.4,
+      "text": "appears this well-written and well"
+    },
+    {
+      "start": 890.0,
+      "duration": 4.1,
+      "text": "doumented answer. And if you have Google"
+    },
+    {
+      "start": 891.7,
+      "duration": 5.0,
+      "text": "AI search results, that kind of stuff,"
+    },
+    {
+      "start": 894.1,
+      "duration": 4.1,
+      "text": "they might pull exactly from your docs."
+    },
+    {
+      "start": 896.6,
+      "duration": 2.9,
+      "text": "So people have a question about your"
+    },
+    {
+      "start": 898.2,
+      "duration": 3.4,
+      "text": "product and they pull the information"
+    },
+    {
+      "start": 899.5,
+      "duration": 3.9,
+      "text": "right in there. This gives people not"
+    },
+    {
+      "start": 901.5,
+      "duration": 4.8,
+      "text": "just insight into your product but also"
+    },
+    {
+      "start": 903.4,
+      "duration": 5.0,
+      "text": "hope that if they ever have a question"
+    },
+    {
+      "start": 906.3,
+      "duration": 4.5,
+      "text": "well that will be clearly and quickly"
+    },
+    {
+      "start": 908.4,
+      "duration": 4.4,
+      "text": "answered for them. So documentation is"
+    },
+    {
+      "start": 910.8,
+      "duration": 4.6,
+      "text": "trust building at scale as well"
+    },
+    {
+      "start": 912.8,
+      "duration": 4.7,
+      "text": "particularly with the AI search preview"
+    },
+    {
+      "start": 915.4,
+      "duration": 5.5,
+      "text": "that these uh search engines currently"
+    },
+    {
+      "start": 917.5,
+      "duration": 6.6,
+      "text": "have and any chat GPT and claude will"
+    },
+    {
+      "start": 920.9,
+      "duration": 5.3,
+      "text": "pull this data too. And then finally,"
+    },
+    {
+      "start": 924.2,
+      "duration": 3.9,
+      "text": "well, marketing is quite repetitive."
+    },
+    {
+      "start": 926.2,
+      "duration": 3.4,
+      "text": "Marketing is really just reaching the"
+    },
+    {
+      "start": 928.1,
+      "duration": 3.1,
+      "text": "right people with the right message at"
+    },
+    {
+      "start": 929.6,
+      "duration": 3.0,
+      "text": "the right time. And since your"
+    },
+    {
+      "start": 931.2,
+      "duration": 3.8,
+      "text": "competitors are doing a lot of the work"
+    },
+    {
+      "start": 932.6,
+      "duration": 4.0,
+      "text": "already, maybe you should feel inspired"
+    },
+    {
+      "start": 935.0,
+      "duration": 3.0,
+      "text": "by what they're doing. Right? This won't"
+    },
+    {
+      "start": 936.6,
+      "duration": 3.4,
+      "text": "always work. Sometimes you need to stand"
+    },
+    {
+      "start": 938.1,
+      "duration": 4.1,
+      "text": "out significantly in an overcrowded red"
+    },
+    {
+      "start": 940.1,
+      "duration": 4.4,
+      "text": "ocean market. But tracking what your"
+    },
+    {
+      "start": 942.2,
+      "duration": 4.6,
+      "text": "competitors do and finding ways to do it"
+    },
+    {
+      "start": 944.5,
+      "duration": 4.3,
+      "text": "yourself is generally a good idea. Think"
+    },
+    {
+      "start": 946.7,
+      "duration": 3.8,
+      "text": "about social, think about podcast"
+    },
+    {
+      "start": 948.8,
+      "duration": 3.8,
+      "text": "tracking. Potcan might help you here"
+    },
+    {
+      "start": 950.6,
+      "duration": 4.2,
+      "text": "obviously, but also look at things like"
+    },
+    {
+      "start": 952.6,
+      "duration": 4.4,
+      "text": "YouTube, Tik Tok, and wherever people"
+    },
+    {
+      "start": 954.8,
+      "duration": 4.2,
+      "text": "from your best ideal customer profile"
+    },
+    {
+      "start": 957.0,
+      "duration": 4.0,
+      "text": "are being targeted and marketed to and"
+    },
+    {
+      "start": 959.0,
+      "duration": 4.9,
+      "text": "how that works. You will likely find"
+    },
+    {
+      "start": 961.0,
+      "duration": 4.9,
+      "text": "something there that will resonate. For"
+    },
+    {
+      "start": 963.8,
+      "duration": 4.1,
+      "text": "B2B software businesses, LinkedIn is"
+    },
+    {
+      "start": 965.8,
+      "duration": 4.2,
+      "text": "still a great platform, still a great"
+    },
+    {
+      "start": 967.9,
+      "duration": 4.6,
+      "text": "effort to do paid ads on. From what I"
+    },
+    {
+      "start": 970.0,
+      "duration": 4.8,
+      "text": "see, it's just a place where people hang"
+    },
+    {
+      "start": 972.6,
+      "duration": 3.6,
+      "text": "out. So, find the right places for the"
+    },
+    {
+      "start": 974.8,
+      "duration": 3.8,
+      "text": "right people and be there with the right"
+    },
+    {
+      "start": 976.2,
+      "duration": 4.2,
+      "text": "content at the right time. It's easy as"
+    },
+    {
+      "start": 978.6,
+      "duration": 4.3,
+      "text": "that. Now, obviously, all of this is"
+    },
+    {
+      "start": 980.3,
+      "duration": 4.6,
+      "text": "hard, but it at least gives you a"
+    },
+    {
+      "start": 982.9,
+      "duration": 3.8,
+      "text": "framework on what to go for, right? What"
+    },
+    {
+      "start": 985.0,
+      "duration": 3.2,
+      "text": "the lowhanging fruit are. So, let me"
+    },
+    {
+      "start": 986.7,
+      "duration": 3.0,
+      "text": "bring this all together. So, we're"
+    },
+    {
+      "start": 988.2,
+      "duration": 3.8,
+      "text": "talking about letting machines do the"
+    },
+    {
+      "start": 989.8,
+      "duration": 4.4,
+      "text": "work for you with programmatic SEO,"
+    },
+    {
+      "start": 992.0,
+      "duration": 4.6,
+      "text": "exposing the data that you already have"
+    },
+    {
+      "start": 994.2,
+      "duration": 3.9,
+      "text": "or patterns from the data. Then, we have"
+    },
+    {
+      "start": 996.6,
+      "duration": 2.8,
+      "text": "letting machines help you score and"
+    },
+    {
+      "start": 998.1,
+      "duration": 3.6,
+      "text": "reach out to the people who are already"
+    },
+    {
+      "start": 999.4,
+      "duration": 4.1,
+      "text": "kind of on the hook. Then, leveraging"
+    },
+    {
+      "start": 1001.7,
+      "duration": 4.2,
+      "text": "your documentation as a discovery"
+    },
+    {
+      "start": 1003.5,
+      "duration": 4.6,
+      "text": "channel. and doing competitor research."
+    },
+    {
+      "start": 1005.8,
+      "duration": 4.4,
+      "text": "Just blatantly copy what they do. Find"
+    },
+    {
+      "start": 1008.1,
+      "duration": 3.7,
+      "text": "the right routes. I would suggest if"
+    },
+    {
+      "start": 1010.2,
+      "duration": 3.3,
+      "text": "you're just starting out and want to do"
+    },
+    {
+      "start": 1011.8,
+      "duration": 3.8,
+      "text": "something, one or two of these"
+    },
+    {
+      "start": 1013.5,
+      "duration": 4.3,
+      "text": "approaches might be highly appropriate"
+    },
+    {
+      "start": 1015.6,
+      "duration": 4.0,
+      "text": "and useful for you to implement today."
+    },
+    {
+      "start": 1017.8,
+      "duration": 3.4,
+      "text": "You don't need to love marketing as a"
+    },
+    {
+      "start": 1019.6,
+      "duration": 3.5,
+      "text": "technical founder or as any founder"
+    },
+    {
+      "start": 1021.3,
+      "duration": 3.5,
+      "text": "really. You don't even need to like it."
+    },
+    {
+      "start": 1023.1,
+      "duration": 3.3,
+      "text": "You just need to build systems that do"
+    },
+    {
+      "start": 1024.8,
+      "duration": 4.2,
+      "text": "it for you. And that's what technical"
+    },
+    {
+      "start": 1026.4,
+      "duration": 4.2,
+      "text": "founders are good at anyway. And that's"
+    },
+    {
+      "start": 1029.0,
+      "duration": 3.4,
+      "text": "it for today. Thank you so much for"
+    },
+    {
+      "start": 1030.6,
+      "duration": 3.6,
+      "text": "listening to the boot founder. Speaking"
+    },
+    {
+      "start": 1032.4,
+      "duration": 3.9,
+      "text": "of letting machines help you find what"
+    },
+    {
+      "start": 1034.2,
+      "duration": 4.0,
+      "text": "matters, if you're a founder, PR expert,"
+    },
+    {
+      "start": 1036.3,
+      "duration": 3.8,
+      "text": "marketing team, you might be missing"
+    },
+    {
+      "start": 1038.2,
+      "duration": 3.8,
+      "text": "critical conversations about your brand"
+    },
+    {
+      "start": 1040.1,
+      "duration": 4.2,
+      "text": "that are happening on podcasts right"
+    },
+    {
+      "start": 1041.9,
+      "duration": 4.7,
+      "text": "now. Potscan monitors over 4 million"
+    },
+    {
+      "start": 1044.3,
+      "duration": 4.2,
+      "text": "podcasts in real time and will alert you"
+    },
+    {
+      "start": 1046.6,
+      "duration": 3.4,
+      "text": "when people talk about anything related"
+    },
+    {
+      "start": 1048.6,
+      "duration": 3.4,
+      "text": "to you. It's about turning that"
+    },
+    {
+      "start": 1050.1,
+      "duration": 4.0,
+      "text": "unstructured podcast chatter into"
+    },
+    {
+      "start": 1052.0,
+      "duration": 3.2,
+      "text": "competitive intelligence. And if you're"
+    },
+    {
+      "start": 1054.1,
+      "duration": 2.6,
+      "text": "a founder searching for your next"
+    },
+    {
+      "start": 1055.2,
+      "duration": 4.6,
+      "text": "venture, please go and check out"
+    },
+    {
+      "start": 1056.6,
+      "duration": 5.0,
+      "text": "ideas.podscan.fm FM where an AI system"
+    },
+    {
+      "start": 1059.8,
+      "duration": 3.8,
+      "text": "goes through all of these conversations,"
+    },
+    {
+      "start": 1061.6,
+      "duration": 4.4,
+      "text": "hundreds of hours of expert discussions"
+    },
+    {
+      "start": 1063.6,
+      "duration": 4.2,
+      "text": "every day so you can build what people"
+    },
+    {
+      "start": 1066.0,
+      "duration": 3.4,
+      "text": "are already asking for. Please share"
+    },
+    {
+      "start": 1067.8,
+      "duration": 3.1,
+      "text": "this with anyone who needs to turn"
+    },
+    {
+      "start": 1069.4,
+      "duration": 4.7,
+      "text": "conversations into competitive"
+    },
+    {
+      "start": 1071.0,
+      "duration": 5.9,
+      "text": "advantages. Find me on Twitter at avid"
+    },
+    {
+      "start": 1074.1,
+      "duration": 6.8,
+      "text": "arb khl. Thanks so much for listening."
+    },
+    {
+      "start": 1076.9,
+      "duration": 4.0,
+      "text": "Have a wonderful day and bye-bye."
+    }
+  ]
+}
